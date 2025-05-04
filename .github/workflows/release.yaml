@@ -13,17 +13,20 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: google-github-actions/release-please-action@v4
+      -
+        uses: googleapis/release-please-action@v4
         # Settings -> Actions -> General -> Workflow Permissions
         # - select "Read repo contents", and
         # - enable "Allow Github Actions to create and approve pull requests"
         id: release
         with:
           release-type: simple
-      - name: Clone Repo
+      -
+        name: Clone Repo
         if: ${{ steps.release.outputs.release_created }}
         uses: actions/checkout@v4
-      - name: Upload Release Artifacts
+      -
+        name: Upload Release Artifacts
         if: ${{ steps.release.outputs.release_created }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
