@@ -1,9 +1,10 @@
 ---
-name: Fetch and Merge go versions
+name: Fetch and commit OUI content
 # yamllint disable-line rule:truthy
 on:
   schedule:
     - cron: "17 00 * * *"  # 00:17UTC, ~17:17 PST
+  workflow_dispatch:
 
 
 jobs:
@@ -16,7 +17,7 @@ jobs:
       - name: Fetch
         id: fetch
         run: |
-          curl  'http://standards-oui.ieee.org/oui.txt' > oui.txt
+          curl -Lvo oui.txt 'http://standards-oui.ieee.org/oui.txt'
           git add oui.txt
       - name: commit
         id: commit
@@ -25,8 +26,11 @@ jobs:
         run: |
           git config --global user.name "Allan Clark"
           git config --global user.email "chickenandpork@users.noreply.github.com"
-          if $(git diff|grep . >/dev/null);
+          if $(git diff --cached --quiet)
           then
+              echo "Nothing to commit"
+          else
+              echo "New content to commit"
               ouichecksum=$(sha256sum oui.txt |cut -d ' ' -f1)
               git commit -m "chore: OUI ${ouichecksum}" oui.txt && git push || true
           fi
