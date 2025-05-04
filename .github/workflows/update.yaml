@@ -1,0 +1,32 @@
+---
+name: Fetch and Merge go versions
+# yamllint disable-line rule:truthy
+on:
+  schedule:
+    - cron: "17 00 * * *"  # 00:17UTC, ~17:17 PST
+
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Fetch latest OUI to overwrite previous
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Fetch
+        id: fetch
+        run: |
+          curl  'http://standards-oui.ieee.org/oui.txt' > oui.txt
+          git add oui.txt
+      - name: commit
+        id: commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GHPAT_CNP_CNB }}
+        run: |
+          git config --global user.name "Allan Clark"
+          git config --global user.email "chickenandpork@users.noreply.github.com"
+          if $(git diff|grep . >/dev/null);
+          then
+              ouichecksum=$(sha256sum oui.txt |cut -d ' ' -f1)
+              git commit -m "chore: OUI ${ouichecksum}" oui.txt && git push || true
+          fi
