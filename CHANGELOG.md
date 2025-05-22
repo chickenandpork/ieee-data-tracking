@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/chickenandpork/ieee-data-tracking/compare/v1.0.0...v1.0.1) (2025-05-22)
+
+
+### Bug Fixes
+
+* Trigger release on short-circuit commit of OUI changes ([#7](https://github.com/chickenandpork/ieee-data-tracking/issues/7)) ([749f632](https://github.com/chickenandpork/ieee-data-tracking/commit/749f632a2fd7ed0d59e18cd188f5d90168e58b99))
+
 ## 1.0.0 (2025-05-04)
 
 
