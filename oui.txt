@@ -45074,6 +45074,12 @@ D49C53     (base 16)		NETCRAZE LLC
 				KYOTO  KYOTO  601-8501
 				JP
 
+C8-08-8B   (hex)		Arista Networks
+C8088B     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -89501,6 +89507,24 @@ B4B9E6     (base 16)		eero inc.
 				San Francisco  CA  94107
 				US
 
+74-67-5F   (hex)		5653
+74675F     (base 16)		5653
+				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
+				KUNSHAN  SUZHOU  215300
+				CN
+
+D8-3E-EF   (hex)		COOSEA GROUP (HK) COMPANY LIMITED
+D83EEF     (base 16)		COOSEA GROUP (HK) COMPANY LIMITED
+				Unit 56 16F Multifield Plaza,37A Part Avenue.Tsim Sha Tsui,KL,Hong Kong,SAR CHINA
+				Hong Kong    999077
+				CN
+
+70-7D-A1   (hex)		Sagemcom Broadband SAS
+707DA1     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 04-58-5D   (hex)		IEEE Registration Authority
 04585D     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -89519,29 +89543,17 @@ C4864F     (base 16)		Beijing BitIntelligence Information Technology Co. Ltd.
 				Beijing  Beijing  100080
 				CN
 
+E0-E6-E3   (hex)		TeamF1 Networks Pvt Limited
+E0E6E3     (base 16)		TeamF1 Networks Pvt Limited
+				Ascendas IT Park, Capella Block, Floor #2, Plot No: 17, Software Units Layout, Madhapur
+				Hyderabad  Telangana  500081
+				IN
+
 C8-7F-2B   (hex)		INGRAM MICRO SERVICES
 C87F2B     (base 16)		INGRAM MICRO SERVICES
 				100 CHEMIN DE BAILLOT
 				MONTAUBAN    82000
 				FR
-
-70-7D-A1   (hex)		Sagemcom Broadband SAS
-707DA1     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-74-67-5F   (hex)		5653
-74675F     (base 16)		5653
-				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
-				KUNSHAN  SUZHOU  215300
-				CN
-
-D8-3E-EF   (hex)		COOSEA GROUP (HK) COMPANY LIMITED
-D83EEF     (base 16)		COOSEA GROUP (HK) COMPANY LIMITED
-				Unit 56 16F Multifield Plaza,37A Part Avenue.Tsim Sha Tsui,KL,Hong Kong,SAR CHINA
-				Hong Kong    999077
-				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -134307,6 +134319,12 @@ A03C20     (base 16)		Sagemcom Broadband SAS
 28C97A     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
+				CN
+
+58-7A-B1   (hex)		Shanghai Lixun Information Technology Co., Ltd.
+587AB1     (base 16)		Shanghai Lixun Information Technology Co., Ltd.
+				Room 2111-L, No. 89 Yunling East Road
+				Putuo District  Shanghai  200333
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -179546,6 +179564,18 @@ E83A4B     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
+38-E5-63   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+38E563     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+3C-16-40   (hex)		Qingdao Haier Technology Co.,Ltd
+3C1640     (base 16)		Qingdao Haier Technology Co.,Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -224303,11 +224333,23 @@ E09D73     (base 16)		Mellanox Technologies, Inc.
 				Beijing    100053
 				CN
 
-80-03-0D   (hex)		CANON INC.
-80030D     (base 16)		CANON INC.
-				30-2 Shimomaruko 3-chome,
-				Ohta-ku  Tokyo  146-8501
-				JP
+C8-24-78   (hex)		Edifier International
+C82478     (base 16)		Edifier International
+				Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway
+				Hong Kong    070
+				CN
+
+D4-A0-FB   (hex)		IEEE Registration Authority
+D4A0FB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+E0-42-6D   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+E0426D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 F8-F2-95   (hex)		Annapurna labs
 F8F295     (base 16)		Annapurna labs
@@ -224315,8 +224357,8 @@ F8F295     (base 16)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-C8-24-78   (hex)		Edifier International
-C82478     (base 16)		Edifier International
-				Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway
-				Hong Kong    070
-				CN
+80-03-0D   (hex)		CANON INC.
+80030D     (base 16)		CANON INC.
+				30-2 Shimomaruko 3-chome,
+				Ohta-ku  Tokyo  146-8501
+				JP
