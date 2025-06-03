@@ -45098,6 +45098,24 @@ B87029     (base 16)		Shenzhen Ruiyuanchuangxin Technology Co.,Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
+E0-49-34   (hex)		Calix Inc.
+E04934     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
+84-94-59   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+849459     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
+10-D9-A2   (hex)		Google, Inc.
+10D9A2     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -134339,18 +134357,6 @@ A03C20     (base 16)		Sagemcom Broadband SAS
 				Sunnyvale  CA  94085
 				US
 
-28-C9-7A   (hex)		New H3C Technologies Co., Ltd
-28C97A     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
-
-58-7A-B1   (hex)		Shanghai Lixun Information Technology Co., Ltd.
-587AB1     (base 16)		Shanghai Lixun Information Technology Co., Ltd.
-				Room 2111-L, No. 89 Yunling East Road
-				Putuo District  Shanghai  200333
-				CN
-
 A8-6D-04   (hex)		ebm-papst St. Georgen GmbH & Co. KG
 A86D04     (base 16)		ebm-papst St. Georgen GmbH & Co. KG
 				Hermann-Papst-Strasse 1 
@@ -134369,11 +134375,11 @@ F02C59     (base 16)		Chipsea Technologies (Shenzhen) Crop.
 				Shenzhen    518108
 				CN
 
-04-B5-C1   (hex)		ITEL MOBILE LIMITED
-04B5C1     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
+FC-39-5A   (hex)		SonicWall 
+FC395A     (base 16)		SonicWall 
+				1033 McCarthy Blvd
+				Milpitas  CA  95035
+				US
 
 0C-FE-7B   (hex)		Vantiva USA LLC
 0CFE7B     (base 16)		Vantiva USA LLC
@@ -134381,11 +134387,35 @@ F02C59     (base 16)		Chipsea Technologies (Shenzhen) Crop.
 				Norcross  GA  30902
 				US
 
-FC-39-5A   (hex)		SonicWall 
-FC395A     (base 16)		SonicWall 
-				1033 McCarthy Blvd
-				Milpitas  CA  95035
+B0-D5-FB   (hex)		Google, Inc.
+B0D5FB     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
 				US
+
+48-D0-1C   (hex)		AltoBeam Inc.
+48D01C     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+58-7A-B1   (hex)		Shanghai Lixun Information Technology Co., Ltd.
+587AB1     (base 16)		Shanghai Lixun Information Technology Co., Ltd.
+				Room 2111-L, No. 89 Yunling East Road
+				Putuo District  Shanghai  200333
+				CN
+
+04-B5-C1   (hex)		ITEL MOBILE LIMITED
+04B5C1     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+28-C9-7A   (hex)		New H3C Technologies Co., Ltd
+28C97A     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -179636,6 +179666,12 @@ E83A4B     (base 16)		China Mobile Group Device Co.,Ltd.
 				Qingdao    266101
 				CN
 
+30-C5-99   (hex)		ASUSTek COMPUTER INC.
+30C599     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -224470,3 +224506,9 @@ B0F3E9     (base 16)		PATEO CONNECT (Xiamen) Co., Ltd.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+88-DA-36   (hex)		Calix Inc.
+88DA36     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
+				US
