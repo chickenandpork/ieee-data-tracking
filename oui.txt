@@ -45158,6 +45158,21 @@ AC017A     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 				San Francisco    94158
 				US
 
+58-E6-C5   (hex)		Espressif Inc.
+58E6C5     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+CC-BA-BD   (hex)		TP-Link Systems Inc.
+CCBABD     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+5C-E7-53   (hex)		Private
+5CE753     (base 16)		Private
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -89621,23 +89636,11 @@ C87F2B     (base 16)		INGRAM MICRO SERVICES
 				MONTAUBAN    82000
 				FR
 
-E0-E6-E3   (hex)		TeamF1 Networks Pvt Limited
-E0E6E3     (base 16)		TeamF1 Networks Pvt Limited
-				Ascendas IT Park, Capella Block, Floor #2, Plot No: 17, Software Units Layout, Madhapur
-				Hyderabad  Telangana  500081
-				IN
-
 78-8E-45   (hex)		Jizaie inc.
 788E45     (base 16)		Jizaie inc.
 				 Inspired.Lab 569 Otemachi Building 5F, 1-6-1 Otemachi, Chiyoda-ku, Tokyo 100-0004
 				Tokyo  Tokyo   100-0004
 				JP
-
-28-76-CD   (hex)		Funshion Online Technologies Co.,Ltd
-2876CD     (base 16)		Funshion Online Technologies Co.,Ltd
-				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
-				Beijing     100029
-				CN
 
 4C-FA-C9   (hex)		BWS IoT
 4CFAC9     (base 16)		BWS IoT
@@ -89651,16 +89654,34 @@ E0E6E3     (base 16)		TeamF1 Networks Pvt Limited
 				Shanghai    200233
 				CN
 
+30-3B-49   (hex)		Cisco Meraki
+303B49     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+E0-E6-E3   (hex)		TeamF1 Networks Pvt Limited
+E0E6E3     (base 16)		TeamF1 Networks Pvt Limited
+				Ascendas IT Park, Capella Block, Floor #2, Plot No: 17, Software Units Layout, Madhapur
+				Hyderabad  Telangana  500081
+				IN
+
 34-FA-1C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 34FA1C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
 				CN
 
-30-3B-49   (hex)		Cisco Meraki
-303B49     (base 16)		Cisco Meraki
-				500 Terry A. Francois Blvd
-				San Francisco    94158
+28-76-CD   (hex)		Funshion Online Technologies Co.,Ltd
+2876CD     (base 16)		Funshion Online Technologies Co.,Ltd
+				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
+				Beijing     100029
+				CN
+
+4C-CF-7C   (hex)		HP Inc.
+4CCF7C     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -134506,6 +134527,12 @@ ACBDF7     (base 16)		Cisco Meraki
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
+
+C8-17-F5   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+C817F5     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -179780,6 +179807,12 @@ B8DDE8     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 				Chengdu  Sichuan  611330
 				CN
 
+40-95-95   (hex)		TP-Link Systems Inc.
+409595     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -224644,3 +224677,15 @@ D853AD     (base 16)		Cisco Meraki
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
+
+EC-10-55   (hex)		Beijing Xiaomi Electronics Co.,Ltd
+EC1055     (base 16)		Beijing Xiaomi Electronics Co.,Ltd
+				Xiaomi Campus
+				Beijing  Beijing  100085
+				CN
+
+20-6E-F1   (hex)		Espressif Inc.
+206EF1     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
