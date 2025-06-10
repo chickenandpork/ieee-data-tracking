@@ -45173,6 +45173,12 @@ C89009     (base 16)		Budderfly Inc
 5C-E7-53   (hex)		Private
 5CE753     (base 16)		Private
 
+08-73-6F   (hex)		EM Microelectronic
+08736F     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -89648,12 +89654,6 @@ C87F2B     (base 16)		INGRAM MICRO SERVICES
 				Tokyo  Tokyo   100-0004
 				JP
 
-28-76-CD   (hex)		Funshion Online Technologies Co.,Ltd
-2876CD     (base 16)		Funshion Online Technologies Co.,Ltd
-				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
-				Beijing     100029
-				CN
-
 4C-FA-C9   (hex)		BWS IoT
 4CFAC9     (base 16)		BWS IoT
 				Calçada Acácias, 31
@@ -89666,23 +89666,41 @@ C87F2B     (base 16)		INGRAM MICRO SERVICES
 				Shanghai    200233
 				CN
 
-34-FA-1C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-34FA1C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
-				CN
-
 30-3B-49   (hex)		Cisco Meraki
 303B49     (base 16)		Cisco Meraki
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
 
+34-FA-1C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+34FA1C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+28-76-CD   (hex)		Funshion Online Technologies Co.,Ltd
+2876CD     (base 16)		Funshion Online Technologies Co.,Ltd
+				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
+				Beijing     100029
+				CN
+
+44-35-B9   (hex)		NetComm Wireless Pty Ltd
+4435B9     (base 16)		NetComm Wireless Pty Ltd
+				Level 1, 18-20 Orion Road
+				Sydney  NSW  2066
+				AU
+
 4C-CF-7C   (hex)		HP Inc.
 4CCF7C     (base 16)		HP Inc.
 				10300 Energy Dr
 				Spring  TX  77389
 				US
+
+64-75-DA   (hex)		Arcadyan Corporation
+6475DA     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -134532,6 +134550,12 @@ F4-15-63   (hex)		F5 Inc.
 F41563     (base 16)		F5 Inc.
 				1322 North Whitman Lane
 				Liberty Lake  WA  99019
+				US
+
+2C-F8-14   (hex)		Cisco Systems, Inc
+2CF814     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -179813,6 +179837,18 @@ B8DDE8     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 				 Irvine  CA  92618
 				US
 
+30-FE-FA   (hex)		Cisco Systems, Inc
+30FEFA     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+6C-4F-A1   (hex)		Cisco Systems, Inc
+6C4FA1     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -224689,3 +224725,15 @@ EC1055     (base 16)		Beijing Xiaomi Electronics Co.,Ltd
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+A4-97-00   (hex)		Cisco Systems, Inc
+A49700     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+2C-DC-C1   (hex)		EM Microelectronic
+2CDCC1     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
