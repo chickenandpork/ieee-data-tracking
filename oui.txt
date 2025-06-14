@@ -45173,12 +45173,6 @@ AC017A     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 				San Francisco    94158
 				US
 
-00-D6-26   (hex)		Mist Systems, Inc.
-00D626     (base 16)		Mist Systems, Inc.
-				1601 South De Anza Blvd, Suite 248
-				Cupertino  CA  95014
-				US
-
 B4-1F-4D   (hex)		Sony Interactive Entertainment Inc.
 B41F4D     (base 16)		Sony Interactive Entertainment Inc.
 				1-7-1 Konan
@@ -45189,6 +45183,48 @@ E8-9E-49   (hex)		Mellanox Technologies, Inc.
 E89E49     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
+				US
+
+14-8F-79   (hex)		Apple, Inc.
+148F79     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+10-42-10   (hex)		Apple, Inc.
+104210     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-05-33   (hex)		Apple, Inc.
+B80533     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+68-5E-DD   (hex)		Apple, Inc.
+685EDD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F8-D3-F0   (hex)		Apple, Inc.
+F8D3F0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A0-2B-44   (hex)		WaveGo Tech LLC
+A02B44     (base 16)		WaveGo Tech LLC
+				16192 CoastalHighway, Lewes,Sussex.DE 19958
+				Lewes  DE  19958
+				US
+
+00-D6-26   (hex)		Mist Systems, Inc.
+00D626     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd, Suite 248
+				Cupertino  CA  95014
 				US
 
 C8-90-09   (hex)		Budderfly Inc.
@@ -89690,6 +89726,54 @@ E0E6E3     (base 16)		TeamF1 Networks Pvt Limited
 				Spring  TX  77389
 				US
 
+20-3A-0C   (hex)		eero inc.
+203A0C     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+00-15-FF   (hex)		Inseego Wireless, Inc
+0015FF     (base 16)		Inseego Wireless, Inc
+				9710 Scranton Rd., Suite 200
+				San Diego  CA  92121
+				US
+
+28-80-A2   (hex)		Inseego Wireless, Inc
+2880A2     (base 16)		Inseego Wireless, Inc
+				9710 Scranton Rd., Suite 200
+				San Diego  CA  92121
+				US
+
+18-EE-86   (hex)		Inseego Wireless, Inc
+18EE86     (base 16)		Inseego Wireless, Inc
+				9710 Scranton Rd., Suite 200
+				San Diego  CA  92121
+				US
+
+20-F4-D4   (hex)		Apple, Inc.
+20F4D4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+30-C0-AE   (hex)		Apple, Inc.
+30C0AE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F8-E2-52   (hex)		Apple, Inc.
+F8E252     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+FC-9F-2A   (hex)		Zyxel Communications Corporation
+FC9F2A     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 44-35-B9   (hex)		NetComm Wireless Pty Ltd
 4435B9     (base 16)		NetComm Wireless Pty Ltd
 				Level 1, 18-20 Orion Road
@@ -89708,40 +89792,22 @@ DCBB3D     (base 16)		Extreme Networks Headquarters
 				Morrisville    27560
 				US
 
-20-3A-0C   (hex)		eero inc.
-203A0C     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
 B0-CC-CE   (hex)		IEEE Registration Authority
 B0CCCE     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-FC-9F-2A   (hex)		Zyxel Communications Corporation
-FC9F2A     (base 16)		Zyxel Communications Corporation
-				No. 6 Innovation Road II, Science Park
-				Hsichu  Taiwan  300
-				TW
-
-00-15-FF   (hex)		Inseego Wireless, Inc
-0015FF     (base 16)		Inseego Wireless, Inc
-				9710 Scranton Rd., Suite 200
-				San Diego  CA  92121
+FC-B2-14   (hex)		Apple, Inc.
+FCB214     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
-28-80-A2   (hex)		Inseego Wireless, Inc
-2880A2     (base 16)		Inseego Wireless, Inc
-				9710 Scranton Rd., Suite 200
-				San Diego  CA  92121
-				US
-
-18-EE-86   (hex)		Inseego Wireless, Inc
-18EE86     (base 16)		Inseego Wireless, Inc
-				9710 Scranton Rd., Suite 200
-				San Diego  CA  92121
+2C-95-20   (hex)		Apple, Inc.
+2C9520     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -134605,6 +134671,18 @@ CC67D8     (base 16)		Telin Semiconductor (Wuhan) Co.,Ltd
 				Room 1003 Buliding 5 , 2377 Shenkun Road ,Minhang District
 				Shanghai    201106
 				CN
+
+34-DA-A1   (hex)		Apple, Inc.
+34DAA1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+CC-22-FE   (hex)		Apple, Inc.
+CC22FE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -179921,6 +179999,24 @@ E08614     (base 16)		Inseego Wireless, Inc
 				San Diego  CA  92121
 				US
 
+48-CA-68   (hex)		Apple, Inc.
+48CA68     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-77-86   (hex)		Apple, Inc.
+747786     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D8-42-F7   (hex)		Tozed Kangwei Tech Co.,Ltd
+D842F7     (base 16)		Tozed Kangwei Tech Co.,Ltd
+				Room 1301, NO. 37 Jinlong , Nansha Street, Xiangjiang Financial Business Center, Nansha District
+				GuangZhou    511466
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -224838,4 +224934,40 @@ CC-EA-27   (hex)		GE Appliances
 CCEA27     (base 16)		GE Appliances
 				4000 Buechel Bank Road
 				Louisville  KY  40225
+				US
+
+DC-93-96   (hex)		Apple, Inc.
+DC9396     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+18-E6-71   (hex)		Apple, Inc.
+18E671     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+68-A5-93   (hex)		Apple, Inc.
+68A593     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A8-2C-89   (hex)		Apple, Inc.
+A82C89     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-12-42   (hex)		Apple, Inc.
+801242     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-01-1F   (hex)		Apple, Inc.
+B8011F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
