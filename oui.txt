@@ -45245,6 +45245,18 @@ C89009     (base 16)		Budderfly Inc.
 				Suwon  Gyeonggi-Do  16677
 				KR
 
+A4-7B-52   (hex)		JoulWatt Technology Co., Ltd
+A47B52     (base 16)		JoulWatt Technology Co., Ltd
+				9th Floor, Chuangye Building, No.99 Huaxing Road, Xihu District, Hangzhou, China
+				Hangzhou  Zhejiang  311100
+				CN
+
+F8-F7-D2   (hex)		Equal Optics, LLC
+F8F7D2     (base 16)		Equal Optics, LLC
+				2280 University Drive. Ste 102
+				Newport Beach  CA  92660
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -89827,6 +89839,12 @@ B0CCCE     (base 16)		IEEE Registration Authority
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
+
+A8-1F-79   (hex)		Yingling Innovations Pte. Ltd.
+A81F79     (base 16)		Yingling Innovations Pte. Ltd.
+				24 Sin Ming Lane #06-97
+				Midview    573970
+				SG
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -134713,6 +134731,18 @@ CC67D8     (base 16)		Telin Semiconductor (Wuhan) Co.,Ltd
 				20 Mason
 				Irvine  CA  92618
 				US
+
+CC-FA-F1   (hex)		Sagemcom Broadband SAS
+CCFAF1     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+2C-9D-5A   (hex)		Flaircomm Microelectronics,Inc.
+2C9D5A     (base 16)		Flaircomm Microelectronics,Inc.
+				7F，Guomai Building,Guomai Science and Technology Park,116 Jiangbin East Avenue,Mawei District,Fuzhou City
+				Fuzhou  FUJIAN  350015
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -180059,6 +180089,12 @@ E8CA50     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				Sunnyvale  CA  94085
 				US
 
+C0-74-15   (hex)		IntelPro Inc.
+C07415     (base 16)		IntelPro Inc.
+				19F.-1, No. 168, Sec. 2, Fuxing 3rd Rd.,
+				Zhubei City, Hsinchu County    302052
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -225028,3 +225064,15 @@ B48931     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
+
+C0-88-40   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+C08840     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+A0-39-F9   (hex)		Sagemcom Broadband SAS
+A039F9     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
