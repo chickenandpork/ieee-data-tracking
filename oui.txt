@@ -45233,10 +45233,16 @@ C89009     (base 16)		Budderfly Inc.
 				Shelton  CT  06484
 				US
 
-04-55-B2   (hex)		Huaqin Technology Co.,Ltd
-0455B2     (base 16)		Huaqin Technology Co.,Ltd
-				Pudong New Area
-				Shanghai    201203
+F8-F7-D2   (hex)		Equal Optics, LLC
+F8F7D2     (base 16)		Equal Optics, LLC
+				2280 University Drive. Ste 102
+				Newport Beach  CA  92660
+				US
+
+A4-7B-52   (hex)		JoulWatt Technology Co., Ltd
+A47B52     (base 16)		JoulWatt Technology Co., Ltd
+				9th Floor, Chuangye Building, No.99 Huaxing Road, Xihu District, Hangzhou, China
+				Hangzhou  Zhejiang  311100
 				CN
 
 30-C9-CC   (hex)		Samsung Electronics Co.,Ltd
@@ -45245,17 +45251,23 @@ C89009     (base 16)		Budderfly Inc.
 				Suwon  Gyeonggi-Do  16677
 				KR
 
-A4-7B-52   (hex)		JoulWatt Technology Co., Ltd
-A47B52     (base 16)		JoulWatt Technology Co., Ltd
-				9th Floor, Chuangye Building, No.99 Huaxing Road, Xihu District, Hangzhou, China
-				Hangzhou  Zhejiang  311100
+3C-C5-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3CC5C7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
-F8-F7-D2   (hex)		Equal Optics, LLC
-F8F7D2     (base 16)		Equal Optics, LLC
-				2280 University Drive. Ste 102
-				Newport Beach  CA  92660
-				US
+44-09-C6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4409C6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+04-55-B2   (hex)		Huaqin Technology Co.,Ltd
+0455B2     (base 16)		Huaqin Technology Co.,Ltd
+				Pudong New Area
+				Shanghai    201203
+				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -89845,6 +89857,18 @@ A81F79     (base 16)		Yingling Innovations Pte. Ltd.
 				24 Sin Ming Lane #06-97
 				Midview    573970
 				SG
+
+B8-9C-13   (hex)		Alps Alpine
+B89C13     (base 16)		Alps Alpine
+				20-1, Yoshima Industrial Park
+				Iwaki  Fukushima  970-1192
+				JP
+
+BC-76-F9   (hex)		Ubiquoss Inc
+BC76F9     (base 16)		Ubiquoss Inc
+				8F Ubiquoss B/D, 68, Pangyo-ro 255beon-gil, Bundang-gu
+				Seongnam-si  Gyeonggi-do  463-400
+				KR
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -134720,17 +134744,17 @@ CC67D8     (base 16)		Telin Semiconductor (Wuhan) Co.,Ltd
 				San Jose  CA  94568
 				US
 
-64-AC-2B   (hex)		Juniper Networks
-64AC2B     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
+88-DA-04   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88DA04     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
-24-34-08   (hex)		Edgecore Americas Networking Corporation
-243408     (base 16)		Edgecore Americas Networking Corporation
-				20 Mason
-				Irvine  CA  92618
-				US
+04-74-9E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04749E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 CC-FA-F1   (hex)		Sagemcom Broadband SAS
 CCFAF1     (base 16)		Sagemcom Broadband SAS
@@ -134743,6 +134767,24 @@ CCFAF1     (base 16)		Sagemcom Broadband SAS
 				7F，Guomai Building,Guomai Science and Technology Park,116 Jiangbin East Avenue,Mawei District,Fuzhou City
 				Fuzhou  FUJIAN  350015
 				CN
+
+24-34-08   (hex)		Edgecore Americas Networking Corporation
+243408     (base 16)		Edgecore Americas Networking Corporation
+				20 Mason
+				Irvine  CA  92618
+				US
+
+64-AC-2B   (hex)		Juniper Networks
+64AC2B     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+8C-8B-5B   (hex)		Wistron Neweb Corporation
+8C8B5B     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -180095,6 +180137,30 @@ C07415     (base 16)		IntelPro Inc.
 				Zhubei City, Hsinchu County    302052
 				TW
 
+DC-12-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC121D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+40-EB-21   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+40EB21     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A8-C4-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8C407     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+50-8D-62   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+508D62     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -225076,3 +225142,21 @@ A039F9     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+D0-C6-7F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0C67F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+98-F3-F6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+98F3F6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+8C-3D-16   (hex)		Shenzhen Four Seas Global Link Network Technology Co.,Ltd
+8C3D16     (base 16)		Shenzhen Four Seas Global Link Network Technology Co.,Ltd
+				9/F, Block H, South China Digital Valley, No.1 South China Road, Longhua District, Shenzhen ,China
+				Shenzhen    518000
+				CN
