@@ -45233,29 +45233,29 @@ C89009     (base 16)		Budderfly Inc.
 				Shelton  CT  06484
 				US
 
-04-55-B2   (hex)		Huaqin Technology Co.,Ltd
-0455B2     (base 16)		Huaqin Technology Co.,Ltd
-				Pudong New Area
-				Shanghai    201203
+F8-F7-D2   (hex)		Equal Optics, LLC
+F8F7D2     (base 16)		Equal Optics, LLC
+				2280 University Drive. Ste 102
+				Newport Beach  CA  92660
+				US
+
+90-4C-02   (hex)		vivo Mobile Communication Co., Ltd.
+904C02     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
 				CN
 
-30-C9-CC   (hex)		Samsung Electronics Co.,Ltd
-30C9CC     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  16677
-				KR
+04-1F-B8   (hex)		vivo Mobile Communication Co., Ltd.
+041FB8     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
 
 A4-7B-52   (hex)		JoulWatt Technology Co., Ltd
 A47B52     (base 16)		JoulWatt Technology Co., Ltd
 				9th Floor, Chuangye Building, No.99 Huaxing Road, Xihu District, Hangzhou, China
 				Hangzhou  Zhejiang  311100
 				CN
-
-F8-F7-D2   (hex)		Equal Optics, LLC
-F8F7D2     (base 16)		Equal Optics, LLC
-				2280 University Drive. Ste 102
-				Newport Beach  CA  92660
-				US
 
 44-09-C6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 4409C6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -45268,6 +45268,24 @@ F8F7D2     (base 16)		Equal Optics, LLC
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+30-C9-CC   (hex)		Samsung Electronics Co.,Ltd
+30C9CC     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+04-55-B2   (hex)		Huaqin Technology Co.,Ltd
+0455B2     (base 16)		Huaqin Technology Co.,Ltd
+				Pudong New Area
+				Shanghai    201203
+				CN
+
+3C-B6-E7   (hex)		Handheld Scientific, Inc.
+3CB6E7     (base 16)		Handheld Scientific, Inc.
+				5201 Great America Pkwy Suite 320
+				Santa Clara  CA  95054
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -180149,11 +180167,17 @@ E08614     (base 16)		Inseego Wireless, Inc
 				San Diego  CA  92121
 				US
 
-C0-74-15   (hex)		IntelPro Inc.
-C07415     (base 16)		IntelPro Inc.
-				19F.-1, No. 168, Sec. 2, Fuxing 3rd Rd.,
-				Zhubei City, Hsinchu County    302052
-				TW
+A8-C4-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8C407     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+50-8D-62   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+508D62     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 DC-12-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 DC121D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -180163,18 +180187,6 @@ DC121D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 40-EB-21   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 40EB21     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-A8-C4-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-A8C407     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-50-8D-62   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-508D62     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
@@ -180190,6 +180202,24 @@ D86B83     (base 16)		Nintendo Co.,Ltd
 				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
 				KYOTO  KYOTO  601-8501
 				JP
+
+C0-74-15   (hex)		IntelPro Inc.
+C07415     (base 16)		IntelPro Inc.
+				19F.-1, No. 168, Sec. 2, Fuxing 3rd Rd.,
+				Zhubei City, Hsinchu County    302052
+				TW
+
+30-30-5F   (hex)		Valeo Schalter und Sensoren GmbH
+30305F     (base 16)		Valeo Schalter und Sensoren GmbH
+				Valeostr. 1
+				Wemding    86650
+				DE
+
+78-78-35   (hex)		IEEE Registration Authority
+787835     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
