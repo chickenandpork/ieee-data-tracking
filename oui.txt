@@ -89906,6 +89906,12 @@ DCB4D9     (base 16)		Espressif Inc.
 				Austin  TX  78701
 				US
 
+80-23-95   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+802395     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+				Alt-Moabit 95 
+				Berlin  Berlin  10559
+				DE
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -180220,6 +180226,12 @@ C07415     (base 16)		IntelPro Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+2C-03-69   (hex)		ACCTON TECHNOLOGY CORPORATION
+2C0369     (base 16)		ACCTON TECHNOLOGY CORPORATION
+				No.1, Creation Road 3, Hsinchu Science Park,
+				Hsinchu    30077
+				TW
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
