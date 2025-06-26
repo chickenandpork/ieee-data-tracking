@@ -45287,6 +45287,24 @@ A47B52     (base 16)		JoulWatt Technology Co., Ltd
 				Santa Clara  CA  95054
 				US
 
+F0-6F-CE   (hex)		Ruckus Wireless
+F06FCE     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+80-AE-3C   (hex)		Taicang T&W Electronics
+80AE3C     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
+FC-4C-EA   (hex)		Dell Inc.
+FC4CEA     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -134666,12 +134684,6 @@ A03C20     (base 16)		Sagemcom Broadband SAS
 				Sunnyvale  CA  94085
 				US
 
-A8-6D-04   (hex)		ebm-papst St. Georgen GmbH & Co. KG
-A86D04     (base 16)		ebm-papst St. Georgen GmbH & Co. KG
-				Hermann-Papst-Strasse 1 
-				St. Georgen    78112
-				DE
-
 F0-2C-59   (hex)		Chipsea Technologies (Shenzhen) Crop.
 F02C59     (base 16)		Chipsea Technologies (Shenzhen) Crop.
 				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
@@ -134827,6 +134839,18 @@ CCFAF1     (base 16)		Sagemcom Broadband SAS
 				20 Mason
 				Irvine  CA  92618
 				US
+
+A8-6D-04   (hex)		Siemens AG
+A86D04     (base 16)		Siemens AG
+				Hermann-Papst-Strasse 1 
+				St. Georgen    78112
+				DE
+
+84-D0-DB   (hex)		Guangdong Juan Intelligent Technology Joint Stock Co., Ltd.
+84D0DB     (base 16)		Guangdong Juan Intelligent Technology Joint Stock Co., Ltd.
+				The first and second floors of Building 2  (Plant No. 2), West Side of Shanxi Village, Dashi Street,Panyu District, Guangzhou
+				Guangzhou  Guangdong  510000
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -225243,4 +225267,16 @@ B48931     (base 16)		Silicon Laboratories
 7C31FA     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
+				US
+
+64-CD-C2   (hex)		Amazon Technologies Inc.
+64CDC2     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+4C-60-AD   (hex)		Amazon Technologies Inc.
+4C60AD     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
