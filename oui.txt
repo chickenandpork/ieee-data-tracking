@@ -45305,6 +45305,12 @@ FC4CEA     (base 16)		Dell Inc.
 				Round Rock   TX  78682
 				US
 
+1C-D3-AF   (hex)		LG Innotek
+1CD3AF     (base 16)		LG Innotek
+				26, HANAMSANDAN 5BEON-RO
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -62230,12 +62236,6 @@ A8E3EE     (base 16)		Sony Interactive Entertainment Inc.
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
 				CN
-
-0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
-0CA2F4     (base 16)		Chameleon Technology (UK) Limited
-				Gardner House,  Hornbeam Park Avenue
-				Hornbeam Park  Harrogate  HG2 8NA
-				GB
 
 EC-43-8B   (hex)		YAPTV
 EC438B     (base 16)		YAPTV
@@ -89929,6 +89929,18 @@ DCB4D9     (base 16)		Espressif Inc.
 				Alt-Moabit 95 
 				Berlin  Berlin  10559
 				DE
+
+EC-7C-BA   (hex)		Hewlett Packard Enterprise 
+EC7CBA     (base 16)		Hewlett Packard Enterprise 
+				1701 E Mossy Oaks Rd
+				Spring  TX  77389
+				US
+
+0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
+0CA2F4     (base 16)		Chameleon Technology (UK) Limited
+				1st Floor, Central House Otley Road
+				Beckwith Knowle  Harrogate  HG3 1UF
+				GB
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
