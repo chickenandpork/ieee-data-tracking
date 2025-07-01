@@ -45323,6 +45323,12 @@ C826E2     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
 				ShenZhen    518100
 				CN
 
+F4-AB-5C   (hex)		Quectel Wireless Solutions Co.,Ltd.
+F4AB5C     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -89942,6 +89948,18 @@ A81F79     (base 16)		Yingling Innovations Pte. Ltd.
 				Berlin  Berlin  10559
 				DE
 
+04-8F-00   (hex)		Rong-Paisa Electronics Co., Ltd.
+048F00     (base 16)		Rong-Paisa Electronics Co., Ltd.
+				Carrera 43f #14A-112
+				Medellin  Antioquia  050021
+				CO
+
+8C-5C-53   (hex)		AltoBeam Inc.
+8C5C53     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
 EC-7C-BA   (hex)		Hewlett Packard Enterprise 
 EC7CBA     (base 16)		Hewlett Packard Enterprise 
 				1701 E Mossy Oaks Rd
@@ -89953,6 +89971,12 @@ EC7CBA     (base 16)		Hewlett Packard Enterprise
 				1st Floor, Central House Otley Road
 				Beckwith Knowle  Harrogate  HG3 1UF
 				GB
+
+B4-3A-96   (hex)		Arista Networks
+B43A96     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -134887,6 +134911,12 @@ A86D04     (base 16)		Siemens AG
 				1-1-3, Shimaya, Konohana-ku
 				Osaka    554-0024
 				JP
+
+DC-70-35   (hex)		Shengzhen Gongjin Electronics
+DC7035     (base 16)		Shengzhen Gongjin Electronics
+				No. 2 Danzi North Road, Kengzi Street, Pingshan District
+				Shenzhen  Guangdong  518122
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -180299,6 +180329,12 @@ C07415     (base 16)		IntelPro Inc.
 				Menlo Park  CA  94025
 				US
 
+8C-96-A5   (hex)		New H3C Technologies Co., Ltd
+8C96A5     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -225334,3 +225370,9 @@ B48931     (base 16)		Silicon Laboratories
 				100 Riverpark Drive
 				North Reading   MA  01864
 				US
+
+10-5E-AE   (hex)		New H3C Technologies Co., Ltd
+105EAE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
