@@ -90176,6 +90176,30 @@ C0CDD6     (base 16)		Espressif Inc.
 				Beijing  Haidian District  100085
 				CN
 
+8C-7A-B3   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+8C7AB3     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+E8-CD-15   (hex)		Vantiva USA LLC
+E8CD15     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+60-75-6C   (hex)		LG Electronics
+60756C     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
+3C-DC-75   (hex)		Espressif Inc.
+3CDC75     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -135176,16 +135200,16 @@ D49D9D     (base 16)		Shenzhen Goodocom lnformation Technology Co.,Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
-54-4E-F0   (hex)		Roku, Inc
-544EF0     (base 16)		Roku, Inc
-				1173 Coleman Ave
-				San Jose  CA  95110
-				US
-
 88-12-7D   (hex)		Shenzhen Melon Electronics Co.,Ltd
 88127D     (base 16)		Shenzhen Melon Electronics Co.,Ltd
 				2F, Building E, Digital Silicon Valley, No.89 Hengping Road, Yuanshan Subdistrict, Longgang District, Shenzhen, Guangdong, China
 				Shenzhen  Guangdong  518100
+				CN
+
+00-70-07   (hex)		Espressif Inc.
+007007     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 44-CB-AD   (hex)		Xiaomi Communications Co Ltd
@@ -135193,6 +135217,12 @@ D49D9D     (base 16)		Shenzhen Goodocom lnformation Technology Co.,Ltd.
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
 				CN
+
+54-4E-F0   (hex)		Roku, Inc
+544EF0     (base 16)		Roku, Inc
+				1173 Coleman Ave
+				San Jose  CA  95110
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -225783,4 +225813,16 @@ E8C913     (base 16)		Samsung Electronics Co.,Ltd
 2C0DCF     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
+				CN
+
+F8-47-E3   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+F847E3     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
+08-92-72   (hex)		Espressif Inc.
+089272     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
