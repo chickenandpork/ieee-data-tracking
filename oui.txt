@@ -45449,6 +45449,18 @@ FC9D05     (base 16)		Micro-Star INTL CO., LTD.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+00-2B-90   (hex)		Zelus(Shenzhen) Technology Ltd.
+002B90     (base 16)		Zelus(Shenzhen) Technology Ltd.
+				503, Building No.4, Block No.1, Shenzhen Bay ECO-Technology Park, No.22, Gaoxin Nanhuan Road, Nanshan District, Shenzhen, China 
+				Shenzhen  Guangdong  518000
+				CN
+
+BC-21-06   (hex)		Adtran Inc
+BC2106     (base 16)		Adtran Inc
+				901 Explorer Blvd.
+				Huntsville  AL  35806-2807
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90199,6 +90211,12 @@ E8CD15     (base 16)		Vantiva USA LLC
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+70-B2-58   (hex)		Ruckus Wireless
+70B258     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -135223,6 +135241,18 @@ D49D9D     (base 16)		Shenzhen Goodocom lnformation Technology Co.,Ltd.
 				1173 Coleman Ave
 				San Jose  CA  95110
 				US
+
+58-87-85   (hex)		Adtran Inc
+588785     (base 16)		Adtran Inc
+				901 Explorer Blvd.
+				Huntsville  AL  35806-2807
+				US
+
+0C-80-2F   (hex)		Murata Manufacturing Co., Ltd.
+0C802F     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -180695,10 +180725,28 @@ E03AAA     (base 16)		Intel Corporate
 				San Francisco  CA  94107
 				US
 
-34-B5-F3   (hex)		IEEE Registration Authority
-34B5F3     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+80-82-FE   (hex)		Arcadyan Corporation
+8082FE     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+CC-CF-FE   (hex)		Henan Lingyunda Information Technology Co., Ltd
+CCCFFE     (base 16)		Henan Lingyunda Information Technology Co., Ltd
+				Block B, Hanhai North Gold Commercial Center, No.73 North Third Ring Road, Jinshui District, Zhengzhou City, Henan Province
+				Zhengzhou  Henan Province  450000
+				CN
+
+28-87-61   (hex)		LG Innotek
+288761     (base 16)		LG Innotek
+				26, HANAMSANDAN 5BEON-RO
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
+78-0C-71   (hex)		Inseego Wireless, Inc
+780C71     (base 16)		Inseego Wireless, Inc
+				9710 Scranton Rd., Suite 200
+				San Diego  CA  92121
 				US
 
 D4-27-FF   (hex)		Sagemcom Broadband SAS
@@ -180711,6 +180759,18 @@ D427FF     (base 16)		Sagemcom Broadband SAS
 40497C     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
+				US
+
+A8-2B-DD   (hex)		LCFC(Hefei) Electronics Technology co., ltd
+A82BDD     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
+				No. 3188-1 Yungu Road (Comprehensive Bonded Zone), Hefei Economic & Technological Development Area，Anhui
+				HEFEI  ANHUI  230601
+				CN
+
+34-B5-F3   (hex)		IEEE Registration Authority
+34B5F3     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -225825,4 +225885,10 @@ F847E3     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 089272     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+B0-6B-11   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+B06B11     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.2,Jin-da Road,Huinan Industrial Park
+				Hui Zhou  Guangdong  516025
 				CN
