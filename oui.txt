@@ -45467,6 +45467,18 @@ BC2106     (base 16)		Adtran Inc
 				Seattle  WA  98104
 				US
 
+EC-BB-78   (hex)		Cisco Systems, Inc
+ECBB78     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  95126
+				US
+
+68-D9-72   (hex)		Cisco Systems, Inc
+68D972     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  95126
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -180790,6 +180802,24 @@ C0AFF2     (base 16)		Dyson Limited
 				Tetbury Hill
 				Malmesbury  Wiltshire  SN16 0RP
 				GB
+
+14-BC-68   (hex)		Cisco Systems, Inc
+14BC68     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  95126
+				US
+
+E4-89-CA   (hex)		Cisco Systems, Inc
+E489CA     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  95126
+				US
+
+0C-EE-20   (hex)		FBC
+0CEE20     (base 16)		FBC
+				NO.1 Kangjian Road
+				Shanghai    200000
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
