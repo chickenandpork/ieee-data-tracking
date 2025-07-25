@@ -45506,6 +45506,24 @@ BC2106     (base 16)		Adtran Inc
 D8-1F-65   (hex)		Private
 D81F65     (base 16)		Private
 
+78-C8-84   (hex)		Huawei Device Co., Ltd.
+78C884     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+98-7E-B5   (hex)		Huawei Device Co., Ltd.
+987EB5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+68-95-1B   (hex)		Huawei Device Co., Ltd.
+68951B     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90286,6 +90304,36 @@ D0B1CA     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				Torshamnsgatan 36
 				Stockholm    SE-164 80
 				SE
+
+00-6A-5E   (hex)		IEEE Registration Authority
+006A5E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+FC-50-D6   (hex)		Huawei Device Co., Ltd.
+FC50D6     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+60-5F-AA   (hex)		Huawei Device Co., Ltd.
+605FAA     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+24-76-45   (hex)		Huawei Device Co., Ltd.
+247645     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+EC-31-11   (hex)		Sichuan AI-Link Technology Co., Ltd.
+EC3111     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -135339,6 +135387,30 @@ E4-B7-31   (hex)		Hangzhou Advance IOT Connectivity System Co., Ltd.
 E4B731     (base 16)		Hangzhou Advance IOT Connectivity System Co., Ltd. 
 				Room 406, building 1, No. 4280, South Ring Road, Puyan street, Binjiang District
 				Hangzhou  Zhejiang  310051
+				CN
+
+40-1C-D4   (hex)		Huawei Device Co., Ltd.
+401CD4     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+00-4B-0D   (hex)		Huawei Device Co., Ltd.
+004B0D     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E0-40-27   (hex)		Huawei Device Co., Ltd.
+E04027     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+94-FF-7D   (hex)		AltoBeam Inc.
+94FF7D     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -180920,6 +180992,18 @@ E489CA     (base 16)		Cisco Systems, Inc
 				Haikou  Hainan  570100
 				CN
 
+98-F6-7A   (hex)		Chipsea Technologies (Shenzhen) Crop.
+98F67A     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
+
+C4-9A-31   (hex)		Zyxel Communications Corporation
+C49A31     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -226039,6 +226123,18 @@ B06B11     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
+
+80-6A-34   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+806A34     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+54-DD-21   (hex)		Huawei Device Co., Ltd.
+54DD21     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
 
 AC-10-65   (hex)		KT Micro, Inc.
 AC1065     (base 16)		KT Micro, Inc.
