@@ -135413,6 +135413,18 @@ E04027     (base 16)		Huawei Device Co., Ltd.
 				Beijing  Beijing  100083
 				CN
 
+10-65-19   (hex)		Shenzhen iComm Semiconductor CO.,LTD
+106519     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
+				Room204,scientific research building,Tsinghua Hi-Tech Park,No.13 Langshan Road,Nanshan District
+				Shenzhen  Guangdong  518067
+				CN
+
+18-EB-D4   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+18EBD4     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -226152,4 +226164,10 @@ D4FF26     (base 16)		OHSUNG
 54DD21     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+8C-44-BB   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+8C44BB     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				Shenzhen    518052
 				CN
