@@ -45548,6 +45548,30 @@ F0578D     (base 16)		JetHome LLC
 				DOVER  NH  03820
 				US
 
+74-95-33   (hex)		Westala Technologies Inc.
+749533     (base 16)		Westala Technologies Inc.
+				3333 Preston Road STE 300 
+				FRISCO  TX  75034
+				US
+
+F8-D5-54   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+F8D554     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+9C-57-66   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C5766     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+5C-0B-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C0B3B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90358,6 +90382,30 @@ CC6C52     (base 16)		Zhone Technologies, Inc.
 				5700 Tennyson Parkway, Suite 400
 				Plano  TX  75024
 				US
+
+28-35-3A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28353A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+60-30-B3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+6030B3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+E8-7E-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E87E1C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C0-15-1B   (hex)		Sony Interactive Entertainment Inc.
+C0151B     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -135471,6 +135519,12 @@ D4-7B-6B   (hex)		Shanghai Cygnus Semiconductor Co., Ltd.
 D47B6B     (base 16)		Shanghai Cygnus Semiconductor Co., Ltd.
 				Rooms 401 and 402, Building 5, 690 Bibo Road, China (Shanghai) Pilot Free Trade Zone
 				Shanghai  Shanghai  201203
+				CN
+
+98-61-10   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+986110     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -181022,12 +181076,6 @@ E489CA     (base 16)		Cisco Systems, Inc
 				Shanghai    200000
 				CN
 
-3C-40-15   (hex)		12mm Health Technology (Hainan) Co., Ltd.
-3C4015     (base 16)		12mm Health Technology (Hainan) Co., Ltd.
-				Room A20-860, 5th Floor, Building A,Entrepreneurship Incubation Center,No. 266 Nanhai Avenue,National Hi-Tech Industrial Development Zone,Haikou City, Hainan Province, China
-				Haikou  Hainan  570100
-				CN
-
 98-F6-7A   (hex)		Chipsea Technologies (Shenzhen) Crop.
 98F67A     (base 16)		Chipsea Technologies (Shenzhen) Crop.
 				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
@@ -181040,10 +181088,22 @@ C49A31     (base 16)		Zyxel Communications Corporation
 				Hsichu  Taiwan  300
 				TW
 
-AC-84-FA   (hex)		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
-AC84FA     (base 16)		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
-				B2, 6th Floor (6-7 section), Xixi Campus, Ai Cheng Street, Wuchang Sub-district, Yuhang District, Hangzhou, Zhejiang Province, China
-				Hangzhou  Zhejiang  310024
+48-0E-13   (hex)		ittim
+480E13     (base 16)		ittim
+				1202, No.6, Zhongguancun South Street, Haidian District,
+				beijing    100080
+				CN
+
+74-34-91   (hex)		Shenzhen Kings IoT Co., Ltd
+743491     (base 16)		Shenzhen Kings IoT Co., Ltd
+				D102, Yibao Garden, Hangcheng Road, Xixiang, BaoanBaoan district
+				Shenzhen City    518126
+				CN
+
+08-D9-45   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08D945     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 00-A0-1B   (hex)		Zhone Technologies, Inc.
@@ -181069,6 +181129,24 @@ AC84FA     (base 16)		Zhejiang Weilai Jingling Artificial Intelligence Technolog
 				5700 Tennyson Parkway, Suite 400
 				Plano  TX  75024
 				US
+
+AC-84-FA   (hex)		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
+AC84FA     (base 16)		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
+				B2, 6th Floor (6-7 section), Xixi Campus, Ai Cheng Street, Wuchang Sub-district, Yuhang District, Hangzhou, Zhejiang Province, China
+				Hangzhou  Zhejiang  310024
+				CN
+
+3C-40-15   (hex)		12mm Health Technology (Hainan) Co., Ltd.
+3C4015     (base 16)		12mm Health Technology (Hainan) Co., Ltd.
+				Room A20-860, 5th Floor, Building A,Entrepreneurship Incubation Center,No. 266 Nanhai Avenue,National Hi-Tech Industrial Development Zone,Haikou City, Hainan Province, China
+				Haikou  Hainan  570100
+				CN
+
+64-2E-41   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+642E41     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 0C-1A-61   (hex)		Neox FZCO
 0C1A61     (base 16)		Neox FZCO
@@ -226237,3 +226315,21 @@ D4FF26     (base 16)		OHSUNG
 				1523 26th St
 				Santa Monica  CA  90404
 				US
+
+0C-33-1B   (hex)		TydenBrooks
+0C331B     (base 16)		TydenBrooks
+				2727 Paces Ferry Rd, Building 2, Suite 300
+				Atlanta  GA  30339
+				US
+
+50-AC-B9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50ACB9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C8-E3-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8E31D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
