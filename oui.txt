@@ -90407,6 +90407,24 @@ C0151B     (base 16)		Sony Interactive Entertainment Inc.
 				Minato-ku  Tokyo  108-0075
 				JP
 
+8C-73-DA   (hex)		Silicon Laboratories
+8C73DA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+C8-66-4B   (hex)		Aperion Technologies LLC
+C8664B     (base 16)		Aperion Technologies LLC
+				48383 Fremont Blvd, Ste 116
+				Fremont  CA  94538
+				US
+
+BC-45-29   (hex)		zte corporation
+BC4529     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -135485,10 +135503,10 @@ E04027     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-F8-83-06   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-F88306     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
+D4-7B-6B   (hex)		Shanghai Cygnus Semiconductor Co., Ltd.
+D47B6B     (base 16)		Shanghai Cygnus Semiconductor Co., Ltd.
+				Rooms 401 and 402, Building 5, 690 Bibo Road, China (Shanghai) Pilot Free Trade Zone
+				Shanghai  Shanghai  201203
 				CN
 
 00-02-71   (hex)		Zhone Technologies, Inc.
@@ -135515,10 +135533,28 @@ D096FB     (base 16)		Zhone Technologies, Inc.
 				Seongnam-si  Gyeonggi-do  13493
 				KR
 
-D4-7B-6B   (hex)		Shanghai Cygnus Semiconductor Co., Ltd.
-D47B6B     (base 16)		Shanghai Cygnus Semiconductor Co., Ltd.
-				Rooms 401 and 402, Building 5, 690 Bibo Road, China (Shanghai) Pilot Free Trade Zone
-				Shanghai  Shanghai  201203
+7C-C5-18   (hex)		vivo Mobile Communication Co., Ltd.
+7CC518     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+7C-7D-21   (hex)		zte corporation
+7C7D21     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+A8-9A-8C   (hex)		zte corporation
+A89A8C     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+F8-83-06   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+F88306     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
 				CN
 
 98-61-10   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -181154,6 +181190,36 @@ AC84FA     (base 16)		Zhejiang Weilai Jingling Artificial Intelligence Technolog
 				Dubai    00000
 				AE
 
+C0-09-25   (hex)		FN-LINK TECHNOLOGY Ltd.
+C00925     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
+B8-D8-2D   (hex)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+B8D82D     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+				No.218 Qianwangang Road
+				Qingdao  Shangdong  266510
+				CN
+
+84-A1-B7   (hex)		Honor Device Co., Ltd.
+84A1B7     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+DC-A2-81   (hex)		Honor Device Co., Ltd.
+DCA281     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+FC-AB-D0   (hex)		vivo Mobile Communication Co., Ltd.
+FCABD0     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -226298,16 +226364,34 @@ D4FF26     (base 16)		OHSUNG
 				Reno  NV  89507
 				US
 
+A8-24-50   (hex)		Beijing Huadianzhongxin Tech.Co.,Ltd
+A82450     (base 16)		Beijing Huadianzhongxin Tech.Co.,Ltd
+				Room 318,the 3rd Floorl,Xingtianhaiyuan Building,Xianghuangqi East Rd,Nongda South Rd, Haidian District,Beijing,P.R.C
+				Bei Jing    100193
+				CN
+
 8C-44-BB   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 8C44BB     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
 				Shenzhen    518052
 				CN
 
-00-30-52   (hex)		Zhone Technologies, Inc.
-003052     (base 16)		Zhone Technologies, Inc.
-				6120 WINDWARD PARKWAY -STE#100
-				ALPHARETTA  GA  30005
+C8-E3-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8E31D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+50-AC-B9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50ACB9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+0C-33-1B   (hex)		TydenBrooks
+0C331B     (base 16)		TydenBrooks
+				2727 Paces Ferry Rd, Building 2, Suite 300
+				Atlanta  GA  30339
 				US
 
 24-2B-D6   (hex)		Ring LLC
@@ -226316,20 +226400,14 @@ D4FF26     (base 16)		OHSUNG
 				Santa Monica  CA  90404
 				US
 
-0C-33-1B   (hex)		TydenBrooks
-0C331B     (base 16)		TydenBrooks
-				2727 Paces Ferry Rd, Building 2, Suite 300
-				Atlanta  GA  30339
+00-30-52   (hex)		Zhone Technologies, Inc.
+003052     (base 16)		Zhone Technologies, Inc.
+				6120 WINDWARD PARKWAY -STE#100
+				ALPHARETTA  GA  30005
 				US
 
-50-AC-B9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-50ACB9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-C8-E3-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-C8E31D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+E4-56-AC   (hex)		Silicon Laboratories
+E456AC     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
