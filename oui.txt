@@ -45590,16 +45590,22 @@ F0578D     (base 16)		JetHome LLC
 				DOVER  NH  03820
 				US
 
-8C-91-A4   (hex)		Apple, Inc.
-8C91A4     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+94-97-4F   (hex)		Liteon Technology Corporation
+94974F     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
 
-F4-06-3C   (hex)		Texas Instruments
-F4063C     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
+28-25-5F   (hex)		HUMAX NETWORKS
+28255F     (base 16)		HUMAX NETWORKS
+				HUMAX VILLAGE, 216Hwangsaeul-ro, Bundang gu
+				Seongnam-si  Gyeonggi-do  13595
+				KR
+
+3C-78-95   (hex)		TP-Link Systems Inc.
+3C7895     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
 				US
 
 E0-DE-F2   (hex)		Texas Instruments
@@ -45614,12 +45620,6 @@ E0DEF2     (base 16)		Texas Instruments
 				San Jose  CA  94568
 				US
 
-38-C6-CE   (hex)		Nintendo Co.,Ltd
-38C6CE     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
-
 20-0A-87   (hex)		Guangzhou On-Bright Electronics Co., Ltd.
 200A87     (base 16)		Guangzhou On-Bright Electronics Co., Ltd.
 				No. 1, Lianhuayan Road, Building A, Suite 2001, Huangpu District
@@ -45632,17 +45632,29 @@ E08CFE     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-28-25-5F   (hex)		HUMAX NETWORKS
-28255F     (base 16)		HUMAX NETWORKS
-				HUMAX VILLAGE, 216Hwangsaeul-ro, Bundang gu
-				Seongnam-si  Gyeonggi-do  13595
-				KR
+38-C6-CE   (hex)		Nintendo Co.,Ltd
+38C6CE     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
-3C-78-95   (hex)		TP-Link Systems Inc.
-3C7895     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
+F4-06-3C   (hex)		Texas Instruments
+F4063C     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
+
+8C-91-A4   (hex)		Apple, Inc.
+8C91A4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F4-D7-E4   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+F4D7E4     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -90503,6 +90515,48 @@ CC6C52     (base 16)		Zhone Technologies, Inc.
 				Austin  TX  78701
 				US
 
+34-55-06   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+345506     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+				No.168, Middle Road Of East Gate
+				Xiaobian Community  Chang'an Town  523851
+				CN
+
+D4-7A-97   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+D47A97     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
+
+D4-E9-F4   (hex)		Espressif Inc.
+D4E9F4     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+1C-DB-D4   (hex)		Espressif Inc.
+1CDBD4     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+6C-1A-EA   (hex)		Texas Instruments
+6C1AEA     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+68-44-06   (hex)		Texas Instruments
+684406     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+84-0C-6D   (hex)		Cisco Systems, Inc
+840C6D     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 E4-B1-6C   (hex)		Apple, Inc.
 E4B16C     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -90527,35 +90581,11 @@ E4B16C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-80-D1-CE   (hex)		Apple, Inc.
-80D1CE     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 BC-5A-34   (hex)		New H3C Technologies Co., Ltd
 BC5A34     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
-
-6C-1A-EA   (hex)		Texas Instruments
-6C1AEA     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-68-44-06   (hex)		Texas Instruments
-684406     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-84-0C-6D   (hex)		Cisco Systems, Inc
-840C6D     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 2C-CC-7A   (hex)		AltoBeam Inc.
 2CCC7A     (base 16)		AltoBeam Inc.
@@ -90563,17 +90593,11 @@ BC5A34     (base 16)		New H3C Technologies Co., Ltd
 				Beijing  Beijing  100083
 				CN
 
-D4-E9-F4   (hex)		Espressif Inc.
-D4E9F4     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-1C-DB-D4   (hex)		Espressif Inc.
-1CDBD4     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
+80-D1-CE   (hex)		Apple, Inc.
+80D1CE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -135731,12 +135755,6 @@ AC82F0     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-18-CC-88   (hex)		Hitachi Air Conditioning Shimizu, Inc.
-18CC88     (base 16)		Hitachi Air Conditioning Shimizu, Inc.
-				390 Number
-				 Shimizu Village Village  Shizuoka Prefecture  424-0926
-				JP
-
 68-4A-5F   (hex)		Apple, Inc.
 684A5F     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -135778,6 +135796,18 @@ F82097     (base 16)		Aditya Infotech Ltd.
 				Khemka Square, A-12, Sector-4,
 				Noida  Uttar Pradesh  201301
 				IN
+
+CC-5E-A5   (hex)		Palo Alto Networks
+CC5EA5     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
+
+18-CC-88   (hex)		Hitachi Air Conditioning Shimizu, Inc.
+18CC88     (base 16)		Hitachi Air Conditioning Shimizu, Inc.
+				390, Muramatsu,
+				 Shimizu Village   Shizuoka Prefecture  424-0926
+				JP
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -226788,4 +226818,16 @@ A4DCD5     (base 16)		Cisco Systems, Inc
 902962     (base 16)		Linkpower Microelectronics Co., Ltd.
 				905, B1, 999-8, Gaolang East Road, Wuxi Economic Development Zone, Jiangsu Province
 				wuxi  jiangsu  214131
+				CN
+
+54-FB-66   (hex)		ASRock Incorporation
+54FB66     (base 16)		ASRock Incorporation
+				2F., No.37, Sec. 2, Jhongyang S. Rd., Beitou District,
+				Taipei    112
+				TW
+
+D4-2F-4B   (hex)		Hon Hai Precision Industry Co.,LTD
+D42F4B     (base 16)		Hon Hai Precision Industry Co.,LTD
+				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
+				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
 				CN
