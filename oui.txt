@@ -45668,6 +45668,12 @@ CCE4D1     (base 16)		Arista Networks
 				Santa Clara  CA  95054
 				US
 
+18-16-28   (hex)		SharkNinja Operating LLC
+181628     (base 16)		SharkNinja Operating LLC
+				89 A Street, Suite 100 02494 Needham
+				Needham  MA  02494
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90616,6 +90622,12 @@ D47A97     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
+
+04-A9-24   (hex)		Mist Systems, Inc.
+04A924     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd, Suite 248
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
