@@ -90665,11 +90665,11 @@ BC5A34     (base 16)		New H3C Technologies Co., Ltd
 				Cupertino  CA  95014
 				US
 
-44-38-F3   (hex)		EM Microelectronic
-4438F3     (base 16)		EM Microelectronic
-				Rue des Sors 3
-				Marin-Epagnier  Neuchatel  2074
-				CH
+F0-68-E3   (hex)		AzureWave Technology Inc.
+F068E3     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
 
 04-A9-24   (hex)		Mist Systems, Inc.
 04A924     (base 16)		Mist Systems, Inc.
@@ -90689,23 +90689,29 @@ BC5A34     (base 16)		New H3C Technologies Co., Ltd
 				Shenzhen    518102
 				CN
 
-14-D5-C6   (hex)		slash dev slash agents, inc
-14D5C6     (base 16)		slash dev slash agents, inc
-				334 Brannan St, Floor 2
-				San Francisco  CA  94107
-				US
-
 D8-85-AC   (hex)		Espressif Inc.
 D885AC     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
 
-F0-68-E3   (hex)		AzureWave Technology Inc.
-F068E3     (base 16)		AzureWave Technology Inc.
-				8F., No. 94, Baozhong Rd.
-				New Taipei City  Taiwan  231
-				TW
+14-D5-C6   (hex)		slash dev slash agents, inc
+14D5C6     (base 16)		slash dev slash agents, inc
+				334 Brannan St, Floor 2
+				San Francisco  CA  94107
+				US
+
+44-38-F3   (hex)		EM Microelectronic
+4438F3     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+0C-3D-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+0C3D5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -227041,3 +227047,15 @@ A43A39     (base 16)		AURORA TECHNOLOGIES CO.,LTD.
 				Room 202-6, 2nd Floor, Building 1, No. 8 Courtyard, Yongchang Middle Road, Beijing Economic and Technological Development Area, Beijing 
 				Beijing  Beijing  100176
 				CN
+
+94-EF-97   (hex)		Edgecore Americas Networking Corporation
+94EF97     (base 16)		Edgecore Americas Networking Corporation
+				20 Mason
+				Irvine  CA  92618
+				US
+
+2C-59-17   (hex)		Arcadyan Corporation
+2C5917     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
