@@ -45734,6 +45734,30 @@ FC8B1F     (base 16)		GUTOR Electronic
 				Wettingen    5430
 				CH
 
+F4-B0-FF   (hex)		Shanghai Baud Data Communication Co.,Ltd.
+F4B0FF     (base 16)		Shanghai Baud Data Communication Co.,Ltd.
+				NO.123 JULI RD
+				PUDONG ZHANGJIANG HIGH-TECH PARK  SHANGHAI  201203
+				CN
+
+30-7A-05   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+307A05     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+74-FC-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74FC77     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+28-96-B0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2896B0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90437,12 +90461,6 @@ C0CDD6     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-50-51-4F   (hex)		Sapphire Brands Limited
-50514F     (base 16)		Sapphire Brands Limited
-				Hudsun Chambers, P.O.Box 986, Road Town
-				Tortola    VG1110
-				VG
-
 8C-7A-B3   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
 8C7AB3     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
 				No.6, 4th Yunpu Road, Yunpu industry District
@@ -90719,16 +90737,88 @@ D47A97     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-0C-3D-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
-0C3D5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
-				No.18, Ningshuang Road
-				 Nanjing  Jiangsu  210012
+F8-D0-0E   (hex)		Vantiva USA LLC
+F8D00E     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+94-62-6D   (hex)		Beijing Xiaomi Electronics Co.,Ltd
+94626D     (base 16)		Beijing Xiaomi Electronics Co.,Ltd
+				Xiaomi Campus
+				Beijing  Beijing  100085
 				CN
+
+E4-BD-96   (hex)		Chengdu Hurray Data Technology co., Ltd.
+E4BD96     (base 16)		Chengdu Hurray Data Technology co., Ltd.
+				No.503, 5th Floor, Unit 2, Building 2, lc Design Industrial Park, No.2 Heshun Road, High-tech West District, Chengdu
+				Chengdu    610000
+				CN
+
+84-00-55   (hex)		VusionGroup
+840055     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
+14-B9-03   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14B903     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+18-69-0A   (hex)		Silicon Laboratories
+18690A     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+A4-6B-40   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
+A46B40     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
+				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
+				ShenZhen    518100
+				CN
+
+74-52-CE   (hex)		Hengtai Intelligent Technology (Zhongshan) Co., LTD
+7452CE     (base 16)		Hengtai Intelligent Technology (Zhongshan) Co., LTD
+				Area A, 1st Floor, Building 3, No. 138, Lefeng South Road, Lianfeng, Xiaolan Town, Zhongshan City
+				Zhongshan  Guangdong  528400
+				CN
+
+1C-D1-1A   (hex)		Fortinet, Inc.
+1CD11A     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
+				US
+
+50-51-4F   (hex)		Netbeam Technology Limited
+50514F     (base 16)		Netbeam Technology Limited
+				Hudsun Chambers, P.O.Box 986, Road Town
+				Tortola    VG1110
+				VG
 
 60-C4-18   (hex)		TPV Display Technology (Xiamen) Co.,Ltd.
 60C418     (base 16)		TPV Display Technology (Xiamen) Co.,Ltd.
 				No.1, Xianghai Road, Xiamen Torch Hi-Tech Industrial Development Zone
 				XM  Fujian  361101
+				CN
+
+50-0B-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+500B23     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C8-B7-8A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8B78A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+0C-3D-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+0C3D5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -135975,6 +136065,24 @@ E456CA     (base 16)		Fractal BMS
 4808EB     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+08-FD-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08FD58     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-43-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B44389     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+F0-44-D3   (hex)		Silicon Laboratories
+F044D3     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -181770,6 +181878,30 @@ C062F2     (base 16)		Beijing Cotytech Co.,LTD
 28B27C     (base 16)		Sailing Northern Technology
 				Unit A4009, 4th floor, BuiIding 1, No. 2 Yongcheng North Road
 				Beijing    100094
+				CN
+
+68-CC-AE   (hex)		Fortinet, Inc.
+68CCAE     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
+				US
+
+40-3E-22   (hex)		VusionGroup
+403E22     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
+D4-A2-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4A254     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+EC-81-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC8152     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
