@@ -90821,6 +90821,12 @@ C8B78A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				 Nanjing  Jiangsu  210012
 				CN
 
+B0-2E-BA   (hex)		Earda Technologies co Ltd
+B02EBA     (base 16)		Earda Technologies co Ltd
+				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
+				Guangzhou  Guangdong  511455
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -136083,6 +136089,12 @@ F0-44-D3   (hex)		Silicon Laboratories
 F044D3     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
+				US
+
+6C-47-25   (hex)		Rochester Network Supply, Inc.
+6C4725     (base 16)		Rochester Network Supply, Inc.
+				1319 Research Forest,
+				Macedon  NY  14502
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -227233,3 +227245,21 @@ A43A39     (base 16)		AURORA TECHNOLOGIES CO.,LTD.
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
+
+44-F7-9F   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+44F79F     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+10-C3-4D   (hex)		SHENZHEN WATER WORLD CO.,LTD.
+10C34D     (base 16)		SHENZHEN WATER WORLD CO.,LTD.
+				Room 1201, 12F, Block B, Qinghua Information Port No.1, Songpingshan Xindong Road, Songpingshan Community, Xili Subdistrict, Nanshan District, Shenzhen
+				Shenzhen  GuangDong  518000
+				CN
+
+88-49-2D   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+88492D     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
