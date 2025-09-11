@@ -45842,6 +45842,12 @@ C86C9A     (base 16)		SNUC System
 				Zhuhai  Guangdong  519085
 				CN
 
+C0-2E-DF   (hex)		AltoBeam Inc.
+C02EDF     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90971,24 +90977,6 @@ EC97E0     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
 				Sunnyvale  CA  94085
 				US
 
-2C-8D-48   (hex)		Smart Innovation LLC
-2C8D48     (base 16)		Smart Innovation LLC
-				7F,Tower B,Jianxing
-				ShenZhen  GuangZhou  518055
-				CN
-
-A0-FF-FD   (hex)		HMD Global Oy
-A0FFFD     (base 16)		HMD Global Oy
-				Bertel Jungin aukio 9
-				Espoo    02600
-				FI
-
-84-70-03   (hex)		Axon Networks Inc.
-847003     (base 16)		Axon Networks Inc.
-				15420 Laguna Canyon rd.
-				Irvine  CA  92618
-				US
-
 0C-C5-74   (hex)		FRITZ! Technology GmbH
 0CC574     (base 16)		FRITZ! Technology GmbH
 				Alt-Moabit 95
@@ -91006,6 +90994,24 @@ A0FFFD     (base 16)		HMD Global Oy
 				1F 4 Blok, jinrui zhonghe industrial park, huarong road, tongsheng community, dalang street, longhua district, Shenzhen city, Guangdong province, china
 				shenzhen  guangdong  518100
 				CN
+
+A0-FF-FD   (hex)		HMD Global Oy
+A0FFFD     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
+2C-8D-48   (hex)		Smart Innovation LLC
+2C8D48     (base 16)		Smart Innovation LLC
+				7F,Tower B,Jianxing
+				ShenZhen  GuangZhou  518055
+				CN
+
+84-70-03   (hex)		Axon Networks Inc.
+847003     (base 16)		Axon Networks Inc.
+				15420 Laguna Canyon rd.
+				Irvine  CA  92618
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -136330,6 +136336,18 @@ E8F60A     (base 16)		Espressif Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+BC-89-F8   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+BC89F8     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+80-57-22   (hex)		Wuxi Sunning Smart Devices Co., Ltd
+805722     (base 16)		Wuxi Sunning Smart Devices Co., Ltd
+				No.52, Zone C, Huigu Pioneer Park, Huishan Economic  Development Zone, Wuxi
+				Wuxi   jiangsu  214174
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -182198,6 +182216,30 @@ A090B5     (base 16)		Tiinlab Corporation
 				Shenzhen  Guangdong  518000
 				CN
 
+84-93-EC   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+8493EC     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+F0-70-84   (hex)		Actiontec Electronics Inc.
+F07084     (base 16)		Actiontec Electronics Inc.
+				2445 Augustine Dr #501
+				Santa Clara   CA  95054
+				US
+
+40-44-F7   (hex)		Nintendo Co.,Ltd
+4044F7     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+28-83-28   (hex)		EMALDO TECHNOLOGY(HK)LIMITED
+288328     (base 16)		EMALDO TECHNOLOGY(HK)LIMITED
+				13/F., Golden Dragon Comm. Bldg., 522 Nathan Road, Yau Ma Tei, Kowloon
+				HONG KONG    999077
+				HK
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -227630,12 +227672,6 @@ E88F16     (base 16)		Skullcandy
 				Copenhagen    2450
 				DK
 
-4C-D7-4A   (hex)		Vantiva USA LLC
-4CD74A     (base 16)		Vantiva USA LLC
-				4855 Peachtree Industrial Blvd, Suite 200
-				Norcross  GA  30902
-				US
-
 D8-91-1D   (hex)		Jiangsu Yuwell POCTech Biotechnology Co.,Ltd
 D8911D     (base 16)		Jiangsu Yuwell POCTech Biotechnology Co.,Ltd
 				No.5 Baisheng Road Development Zone, 212300 Danyang, Jiangsu, PEOPLE’S REPUBLIC OF CHINA
@@ -227658,4 +227694,16 @@ AC393D     (base 16)		eero inc.
 00E607     (base 16)		AURCORE TECHNOLOGY INC.
 				25691 ATLANTIC OCEAN DRIVE UNIT B10
 				LAKE FOREST  CA  92630
+				US
+
+B4-04-29   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+B40429     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+4C-D7-4A   (hex)		Vantiva USA LLC
+4CD74A     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
 				US
