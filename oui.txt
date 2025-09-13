@@ -45860,6 +45860,18 @@ C02EDF     (base 16)		AltoBeam Inc.
 				Suzhou    215021
 				CN
 
+F0-3E-05   (hex)		Murata Manufacturing Co., Ltd.
+F03E05     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+B0-A6-04   (hex)		Espressif Inc.
+B0A604     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -91024,6 +91036,12 @@ A0FFFD     (base 16)		HMD Global Oy
 				Bertel Jungin aukio 9
 				Espoo    02600
 				FI
+
+6C-E4-A4   (hex)		Silicon Laboratories
+6CE4A4     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -136366,6 +136384,24 @@ C02E5F     (base 16)		Zyxel Communications Corporation
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+A8-C0-50   (hex)		Quectel Wireless Solutions Co.,Ltd.
+A8C050     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+1C-C3-AB   (hex)		Espressif Inc.
+1CC3AB     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+08-3B-C1   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+083BC1     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -182264,6 +182300,18 @@ A090B5     (base 16)		Tiinlab Corporation
 				Round Rock   TX  78682
 				US
 
+6C-7A-63   (hex)		Arista Networks
+6C7A63     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+AC-EB-E6   (hex)		Espressif Inc.
+ACEBE6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -227737,3 +227785,9 @@ B40429     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
 				5th Floor, Building 8 No 2388 Chenhang Road 
 				SHANGHAI    201114
 				CN
+
+B0-E8-E8   (hex)		Silicon Laboratories
+B0E8E8     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
