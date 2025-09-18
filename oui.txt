@@ -665,12 +665,6 @@ B8A75E     (base 16)		Wuxi Xinjie Electric Co.,Ltd
 				Hui Zhou  Guangdong  516025
 				CN
 
-8C-3B-4A   (hex)		Universal Global Scientific Industrial Co., Ltd.
-8C3B4A     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
-
 A8-8B-28   (hex)		SHENZHEN DIYANG SMART TECHNOLOGY CO.,LTD.
 A88B28     (base 16)		SHENZHEN DIYANG SMART TECHNOLOGY CO.,LTD.
 				Room 202, Building 4, Research & Creation Valley High-tech Incubation Park, Gongming Street, Guangming District, Shenzhen(www.diyangsmart.com)
@@ -12404,12 +12398,6 @@ E4B021     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-3C-E1-A1   (hex)		Universal Global Scientific Industrial Co., Ltd.
-3CE1A1     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
-
 F8-98-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 F898EF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -14978,12 +14966,6 @@ CCB8A8     (base 16)		AMPAK Technology, Inc.
 				Cupertino  CA  95014
 				US
 
-E0-2A-82   (hex)		Universal Global Scientific Industrial Co., Ltd.
-E02A82     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
 B0-F9-63   (hex)		Hangzhou H3C Technologies Co., Limited
 B0F963     (base 16)		Hangzhou H3C Technologies Co., Limited
 				466 Changhe Road, Binjiang District
@@ -16612,12 +16594,6 @@ BCC00F     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				2750 KILLARNEY DRIVE
 				WOODBRIDGE  VA  22192
 				US
-
-70-F3-95   (hex)		Universal Global Scientific Industrial Co., Ltd.
-70F395     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
 
 90-A4-DE   (hex)		Wistron Neweb Corporation
 90A4DE     (base 16)		Wistron Neweb Corporation
@@ -45938,6 +45914,66 @@ B8FBB3     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
+70-F3-95   (hex)		Universal Global Scientific Industrial., Ltd
+70F395     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+E0-2A-82   (hex)		Universal Global Scientific Industrial., Ltd
+E02A82     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+3C-E1-A1   (hex)		Universal Global Scientific Industrial., Ltd
+3CE1A1     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+8C-3B-4A   (hex)		Universal Global Scientific Industrial., Ltd
+8C3B4A     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+F4-5C-42   (hex)		Huawei Device Co., Ltd.
+F45C42     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+3C-24-0A   (hex)		Huawei Device Co., Ltd.
+3C240A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E4-AE-E4   (hex)		Tuya Smart Inc.
+E4AEE4     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+0C-EB-25   (hex)		Power Plus Communications AG
+0CEB25     (base 16)		Power Plus Communications AG
+				Dudenstrasse 6
+				Mannheim    68167
+				DE
+
+50-93-CE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5093CE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+68-30-45   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+683045     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -60392,12 +60428,6 @@ BC3F8F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Richardson  TX  75082
 				US
 
-0C-3C-CD   (hex)		Universal Global Scientific Industrial Co., Ltd.
-0C3CCD     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
-
 14-AB-C5   (hex)		Intel Corporate
 14ABC5     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -61921,12 +61951,6 @@ E8E0B7     (base 16)		Toshiba
 				5665 Morehouse Drive
 				San Diego  CA  92071
 				US
-
-00-21-86   (hex)		Universal Global Scientific Industrial Co., Ltd.
-002186     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Sec.1, Taiping Road,
-				NANTOU    54261
-				TW
 
 18-39-19   (hex)		Unicoi Systems
 183919     (base 16)		Unicoi Systems
@@ -91172,6 +91196,48 @@ A0E390     (base 16)		Apple, Inc.
 				 Irvine  CA  92618
 				US
 
+00-21-86   (hex)		Universal Global Scientific Industrial., Ltd
+002186     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Sec.1, Taiping Road,
+				NANTOU    54261
+				TW
+
+0C-3C-CD   (hex)		Universal Global Scientific Industrial., Ltd
+0C3CCD     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+6C-7F-49   (hex)		Huawei Device Co., Ltd.
+6C7F49     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+60-83-06   (hex)		Huawei Device Co., Ltd.
+608306     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+40-26-41   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+402641     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+50-8D-9E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+508D9E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+54-59-25   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+545925     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -100682,12 +100748,6 @@ F4B688     (base 16)		PLANTRONICS, INC.
 				San Jose  CA  94568
 				US
 
-08-3A-88   (hex)		Universal Global Scientific Industrial Co., Ltd.
-083A88     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
-
 08-31-8B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 08318B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -105248,12 +105308,6 @@ A0239F     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-FC-4D-D4   (hex)		Universal Global Scientific Industrial Co., Ltd.
-FC4DD4     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Rd. Sec. 1, Tsao Tuen,
-				Nan-Tou Hsien,     542
-				TW
-
 14-5B-E1   (hex)		nyantec GmbH
 145BE1     (base 16)		nyantec GmbH
 				Europaplatz 2
@@ -107720,18 +107774,6 @@ FCF152     (base 16)		Sony Corporation
 				Dong Guan   Guang Dong  523860
 				CN
 
-CC-52-AF   (hex)		Universal Global Scientific Industrial Co., Ltd.
-CC52AF     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351, TAIPING RD.
-				nan tou  NAN-TOU  542
-				TW
-
-00-27-13   (hex)		Universal Global Scientific Industrial Co., Ltd.
-002713     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
 00-1B-B1   (hex)		Wistron Neweb Corporation
 001BB1     (base 16)		Wistron Neweb Corporation
 				No. 10-1, Li-hsin Road I, Hsinchu Science Park,
@@ -108025,12 +108067,6 @@ A067BE     (base 16)		Sicon srl
 				Via Sila 1/3
 				Isola Vicentina  Vicenza  36033
 				IT
-
-E0-4F-43   (hex)		Universal Global Scientific Industrial Co., Ltd.
-E04F43     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
 
 6C-24-83   (hex)		Microsoft Mobile Oy
 6C2483     (base 16)		Microsoft Mobile Oy
@@ -136514,29 +136550,29 @@ C02E5F     (base 16)		Zyxel Communications Corporation
 				Piscataway  NJ  08554
 				US
 
-A8-C0-50   (hex)		Quectel Wireless Solutions Co.,Ltd.
-A8C050     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
-				Shanghai    200233
-				CN
+00-27-13   (hex)		Universal Global Scientific Industrial., Ltd
+002713     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
 
-1C-C3-AB   (hex)		Espressif Inc.
-1CC3AB     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
+CC-52-AF   (hex)		Universal Global Scientific Industrial., Ltd
+CC52AF     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351, TAIPING RD.
+				nan tou  NAN-TOU  542
+				TW
 
-08-3B-C1   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
-083BC1     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
-				No.555 Qianmo Road 
-				Hangzhou  Zhejiang  310052
-				CN
+FC-4D-D4   (hex)		Universal Global Scientific Industrial., Ltd
+FC4DD4     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Rd. Sec. 1, Tsao Tuen,
+				Nan-Tou Hsien,     542
+				TW
 
-B4-B8-53   (hex)		Honor Device Co., Ltd.
-B4B853     (base 16)		Honor Device Co., Ltd.
-				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
-				Shenzhen   Guangdong  518040
-				CN
+08-3A-88   (hex)		Universal Global Scientific Industrial., Ltd
+083A88     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
 
 F8-F2-F0   (hex)		Chipsea Technologies (Shenzhen) Crop.
 F8F2F0     (base 16)		Chipsea Technologies (Shenzhen) Crop.
@@ -136550,6 +136586,60 @@ E42F37     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+A4-93-AD   (hex)		Huawei Device Co., Ltd.
+A493AD     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+2C-3A-B1   (hex)		Huawei Device Co., Ltd.
+2C3AB1     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+20-F1-B2   (hex)		Tuya Smart Inc.
+20F1B2     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+A8-C0-50   (hex)		Quectel Wireless Solutions Co.,Ltd.
+A8C050     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+1C-C3-AB   (hex)		Espressif Inc.
+1CC3AB     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+58-04-4F   (hex)		TP-Link Systems Inc.
+58044F     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+B4-B8-53   (hex)		Honor Device Co., Ltd.
+B4B853     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+E0-4F-43   (hex)		Universal Global Scientific Industrial., Ltd
+E04F43     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+08-3B-C1   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+083BC1     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
 64-BD-6D   (hex)		Apple, Inc.
 64BD6D     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -136562,11 +136652,17 @@ E8C386     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-58-04-4F   (hex)		TP-Link Systems Inc.
-58044F     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
+E4-8E-C5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E48EC5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+4C-E6-5E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4CE65E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -143191,12 +143287,6 @@ A4CEDA     (base 16)		Arcadyan Corporation
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
 				CN
-
-04-7B-CB   (hex)		Universal Global Scientific Industrial Co., Ltd.
-047BCB     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
 
 28-41-EC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 2841EC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -152486,36 +152576,6 @@ A091C8     (base 16)		zte corporation
 				KNOXVILLE  TN  37921
 				US
 
-00-1E-37   (hex)		Universal Global Scientific Industrial Co., Ltd.
-001E37     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
-00-1A-6B   (hex)		Universal Global Scientific Industrial Co., Ltd.
-001A6B     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
-00-16-41   (hex)		Universal Global Scientific Industrial Co., Ltd.
-001641     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
-00-10-C6   (hex)		Universal Global Scientific Industrial Co., Ltd.
-0010C6     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
-00-24-7E   (hex)		Universal Global Scientific Industrial Co., Ltd.
-00247E     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, LANE 351,SEC.1,  TAIPING RD.
-				nantou  NANTOU  54261
-				TW
-
 00-DD-0A   (hex)		UNGERMANN-BASS INC.
 00DD0A     (base 16)		UNGERMANN-BASS INC.
 				3900 FREEDOM CIRCLE
@@ -152557,18 +152617,6 @@ A091C8     (base 16)		zte corporation
 				1010, 5, ACE Techno Tower, 197-22, Guro-dong, Guro-gu
 				Seoul    151-766
 				KR
-
-44-39-C4   (hex)		Universal Global Scientific Industrial Co., Ltd.
-4439C4     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141,Lane351,Taiping Rd.Sec.1
-				nan tou    542
-				TW
-
-40-2C-F4   (hex)		Universal Global Scientific Industrial Co., Ltd.
-402CF4     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Rd. Sec. 1, Tsao Tuen, 
-				Nan-Tou Hsien,    542
-				TW
 
 00-B0-64   (hex)		Cisco Systems, Inc
 00B064     (base 16)		Cisco Systems, Inc
@@ -182501,6 +182549,96 @@ F82AE2     (base 16)		Apple, Inc.
 				Round Rock   TX  78682
 				US
 
+14-95-69   (hex)		Shenzhen iComm Semiconductor CO.,LTD
+149569     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
+				Room204,scientific research building,Tsinghua Hi-Tech Park,No.13 Langshan Road,Nanshan District
+				Shenzhen  Guangdong  518067
+				CN
+
+70-26-61   (hex)		Universal Global Scientific Industrial., Ltd
+702661     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1, Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+00-24-7E   (hex)		Universal Global Scientific Industrial., Ltd
+00247E     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1,  TAIPING RD.
+				nantou  NANTOU  54261
+				TW
+
+00-10-C6   (hex)		Universal Global Scientific Industrial., Ltd
+0010C6     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+00-16-41   (hex)		Universal Global Scientific Industrial., Ltd
+001641     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+00-1A-6B   (hex)		Universal Global Scientific Industrial., Ltd
+001A6B     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+00-1E-37   (hex)		Universal Global Scientific Industrial., Ltd
+001E37     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+40-2C-F4   (hex)		Universal Global Scientific Industrial., Ltd
+402CF4     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Rd. Sec. 1, Tsao Tuen, 
+				Nan-Tou Hsien,    542
+				TW
+
+44-39-C4   (hex)		Universal Global Scientific Industrial., Ltd
+4439C4     (base 16)		Universal Global Scientific Industrial., Ltd
+				141,Lane351,Taiping Rd.Sec.1
+				nan tou    542
+				TW
+
+04-7B-CB   (hex)		Universal Global Scientific Industrial., Ltd
+047BCB     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+E0-CD-B8   (hex)		Huawei Device Co., Ltd.
+E0CDB8     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B4-E5-C5   (hex)		Huawei Device Co., Ltd.
+B4E5C5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+08-7C-43   (hex)		Huawei Device Co., Ltd.
+087C43     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+70-E9-97   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70E997     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+08-16-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0816E3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -185797,12 +185935,6 @@ F87D76     (base 16)		Apple, Inc.
 				4th Floor,Block B,Building 6,Evergrande Fashion Valley, Dalang Street, Longhua District,Shenzhen
 				Shenzhen  Guangdong  518109
 				CN
-
-38-7C-76   (hex)		Universal Global Scientific Industrial Co., Ltd.
-387C76     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
 
 E4-A6-34   (hex)		Universal Electronics, Inc.
 E4A634     (base 16)		Universal Electronics, Inc.
@@ -198835,12 +198967,6 @@ B08900     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				18A/19,Doddanekundi Industrial Area,
 				Bangalore  Karanataka  560048
 				IN
-
-6C-0B-84   (hex)		Universal Global Scientific Industrial Co., Ltd.
-6C0B84     (base 16)		Universal Global Scientific Industrial Co., Ltd.
-				141, Lane 351, TaiPing Road, Sec.1
-				Tsao-Tuen   Nan-Tou  54261
-				TW
 
 78-CB-68   (hex)		DAEHAP HYPER-TECH
 78CB68     (base 16)		DAEHAP HYPER-TECH
@@ -228010,3 +228136,27 @@ B0E8E8     (base 16)		Silicon Laboratories
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+6C-0B-84   (hex)		Universal Global Scientific Industrial., Ltd
+6C0B84     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, TaiPing Road, Sec.1
+				Tsao-Tuen   Nan-Tou  54261
+				TW
+
+38-7C-76   (hex)		Universal Global Scientific Industrial., Ltd
+387C76     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+70-EB-A5   (hex)		Huawei Device Co., Ltd.
+70EBA5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+C8-90-F7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C890F7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
