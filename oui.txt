@@ -45860,10 +45860,70 @@ C02EDF     (base 16)		AltoBeam Inc.
 				Hsinchu City  Hsinchu  30071
 				TW
 
-20-46-3A   (hex)		Apple, Inc.
-20463A     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+F4-5C-42   (hex)		Huawei Device Co., Ltd.
+F45C42     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+3C-24-0A   (hex)		Huawei Device Co., Ltd.
+3C240A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E4-AE-E4   (hex)		Tuya Smart Inc.
+E4AEE4     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+0C-EB-25   (hex)		Power Plus Communications AG
+0CEB25     (base 16)		Power Plus Communications AG
+				Dudenstrasse 6
+				Mannheim    68167
+				DE
+
+80-48-63   (hex)		Electralsys Networks 
+804863     (base 16)		Electralsys Networks 
+				45 Bharat Nagar, New Friends Colony
+				NEW DELHI  DELHI  110025
+				IN
+
+7C-CF-4E   (hex)		FINE TRIUMPH TECHNOLOGY CORP.,LTD.
+7CCF4E     (base 16)		FINE TRIUMPH TECHNOLOGY CORP.,LTD.
+				kihitech Industrial Park,DongChen Town, RuGao,jiangsu
+				RuGao,jiangsu    226571
+				CN
+
+70-F3-95   (hex)		Universal Global Scientific Industrial., Ltd
+70F395     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+E0-2A-82   (hex)		Universal Global Scientific Industrial., Ltd
+E02A82     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, LANE 351,SEC.1, TAIPING RD.
+				TSAOTUEN,  NANTOU  54261
+				TW
+
+3C-E1-A1   (hex)		Universal Global Scientific Industrial., Ltd
+3CE1A1     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+8C-3B-4A   (hex)		Universal Global Scientific Industrial., Ltd
+8C3B4A     (base 16)		Universal Global Scientific Industrial., Ltd
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+8C-19-52   (hex)		Amazon Technologies Inc.
+8C1952     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
 
 04-72-EF   (hex)		Apple, Inc.
@@ -45896,12 +45956,6 @@ F4B599     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-24-6D-10   (hex)		Apple, Inc.
-246D10     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 A0-F7-C3   (hex)		Ficosa Automotive SLU
 A0F7C3     (base 16)		Ficosa Automotive SLU
 				Pol. Ind. Can Mitjans,Vial San Jordi s/n
@@ -45914,54 +45968,6 @@ B8FBB3     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
-70-F3-95   (hex)		Universal Global Scientific Industrial., Ltd
-70F395     (base 16)		Universal Global Scientific Industrial., Ltd
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
-E0-2A-82   (hex)		Universal Global Scientific Industrial., Ltd
-E02A82     (base 16)		Universal Global Scientific Industrial., Ltd
-				141, LANE 351,SEC.1, TAIPING RD.
-				TSAOTUEN,  NANTOU  54261
-				TW
-
-3C-E1-A1   (hex)		Universal Global Scientific Industrial., Ltd
-3CE1A1     (base 16)		Universal Global Scientific Industrial., Ltd
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
-
-8C-3B-4A   (hex)		Universal Global Scientific Industrial., Ltd
-8C3B4A     (base 16)		Universal Global Scientific Industrial., Ltd
-				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
-				Nan-Tou  Taiwan  54261
-				TW
-
-F4-5C-42   (hex)		Huawei Device Co., Ltd.
-F45C42     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
-3C-24-0A   (hex)		Huawei Device Co., Ltd.
-3C240A     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
-E4-AE-E4   (hex)		Tuya Smart Inc.
-E4AEE4     (base 16)		Tuya Smart Inc.
-				160 Greentree Drive, Suite 101
-				Dover  DE  19904
-				US
-
-0C-EB-25   (hex)		Power Plus Communications AG
-0CEB25     (base 16)		Power Plus Communications AG
-				Dudenstrasse 6
-				Mannheim    68167
-				DE
-
 50-93-CE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 5093CE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -45973,6 +45979,18 @@ E4AEE4     (base 16)		Tuya Smart Inc.
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+24-6D-10   (hex)		Apple, Inc.
+246D10     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+20-46-3A   (hex)		Apple, Inc.
+20463A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -91237,6 +91255,12 @@ A0E390     (base 16)		Apple, Inc.
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+DC-B4-E8   (hex)		Byos
+DCB4E8     (base 16)		Byos
+				20130 Lakeview Center Plaza, Suite 400
+				Ashburn  VA  20147
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -136664,6 +136688,30 @@ E48EC5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+20-0D-3D   (hex)		Quectel Wireless Solutions Co., Ltd.
+200D3D     (base 16)		Quectel Wireless Solutions Co., Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+F4-2D-C9   (hex)		Espressif Inc.
+F42DC9     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+B0-CB-D8   (hex)		Espressif Inc.
+B0CBD8     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A4-61-85   (hex)		Tools for Humanity Corporation
+A46185     (base 16)		Tools for Humanity Corporation
+				650 7th St
+				San Francisco  CA  94103
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -162611,12 +162659,6 @@ CCEA1C     (base 16)		DCONWORKS  Co., Ltd
 				Montano Lucino  CO  22070
 				IT
 
-34-EF-8B   (hex)		NTT Communications Corporation
-34EF8B     (base 16)		NTT Communications Corporation
-				NTT Hibiya Bldg. 7F
-				Chiyoda-ku  Tokyo  100-8019
-				JP
-
 20-59-A0   (hex)		Paragon Technologies Inc.
 2059A0     (base 16)		Paragon Technologies Inc.
 				68 North 4th Ring Rd West,
@@ -165922,12 +165964,6 @@ A07332     (base 16)		Cashmaster International Limited
 				1900 West Park Drive
 				Westborough  MA  01581
 				US
-
-00-1A-B9   (hex)		PMC
-001AB9     (base 16)		PMC
-				56, avenue Raspail
-				Saint Maur    94100
-				FR
 
 00-1B-0F   (hex)		Petratec
 001B0F     (base 16)		Petratec
@@ -182591,6 +182627,18 @@ F82AE2     (base 16)		Apple, Inc.
 				TSAOTUEN,  NANTOU  54261
 				TW
 
+1C-7D-51   (hex)		HANSHOW TECHNOLOGY CO.,LTD.
+1C7D51     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
+				The 1st Floor Podium and Floor 4 of Building 1, Floor 7 of Building 5, JiaxingPhotovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District,Jiaxing City, Zhejiang Prov,P.R.China
+				JIAXING    314000
+				CN
+
+3C-0F-02   (hex)		Espressif Inc.
+3C0F02     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 40-2C-F4   (hex)		Universal Global Scientific Industrial., Ltd
 402CF4     (base 16)		Universal Global Scientific Industrial., Ltd
 				141, Lane 351, Taiping Rd. Sec. 1, Tsao Tuen, 
@@ -182608,6 +182656,18 @@ F82AE2     (base 16)		Apple, Inc.
 				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
 				Nan-Tou  Taiwan  54261
 				TW
+
+50-FB-FF   (hex)		Franklin Technology Inc. 
+50FBFF     (base 16)		Franklin Technology Inc. 
+				906(Gasan-Dong, JEI Platz), 186, Gasan digital 1-ro, Geumcheon-gu
+				Seoul    08502
+				KR
+
+34-EF-8B   (hex)		NTT DOCOMO BUSINESS, Inc.
+34EF8B     (base 16)		NTT DOCOMO BUSINESS, Inc.
+				NTT Hibiya Bldg. 7F
+				Chiyoda-ku  Tokyo  100-8019
+				JP
 
 E0-CD-B8   (hex)		Huawei Device Co., Ltd.
 E0CDB8     (base 16)		Huawei Device Co., Ltd.
@@ -182638,6 +182698,18 @@ B4E5C5     (base 16)		Huawei Device Co., Ltd.
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+88-29-BF   (hex)		Amazon Technologies Inc.
+8829BF     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+00-1A-B9   (hex)		Groupe Carrus
+001AB9     (base 16)		Groupe Carrus
+				56, avenue Raspail
+				Saint Maur    94100
+				FR
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -228160,3 +228232,9 @@ C890F7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+F0-40-AF   (hex)		IEEE Registration Authority
+F040AF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
