@@ -45998,6 +45998,12 @@ DC4BA1     (base 16)		WNC Corporation
 				Kanata  Ontario  K2K 2E6
 				CA
 
+30-41-DB   (hex)		vivo Mobile Communication Co., Ltd.
+3041DB     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -136724,6 +136730,12 @@ B8B7F1     (base 16)		WNC Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
+D4-4F-14   (hex)		Tesla,Inc.
+D44F14     (base 16)		Tesla,Inc.
+				3500 Deer Creek Rd.
+				PALO ALTO  CA  94304
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -182723,6 +182735,12 @@ F46C68     (base 16)		WNC Corporation
 				Saint Maur    94100
 				FR
 
+D8-33-2A   (hex)		Ruijie Networks Co.,LTD
+D8332A     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -228209,30 +228227,6 @@ B0E8E8     (base 16)		Silicon Laboratories
 				Nan-Tou  Taiwan  54261
 				TW
 
-70-EB-A5   (hex)		Huawei Device Co., Ltd.
-70EBA5     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
-C8-90-F7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-C890F7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-F0-40-AF   (hex)		IEEE Registration Authority
-F040AF     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-30-14-4A   (hex)		WNC Corporation
-30144A     (base 16)		WNC Corporation
-				20 Park Avenue II, Hsin Science Park, Hsinchu 308, Taiwan
-				HsinChu  Taiwan  308
-				TW
-
 78-67-0E   (hex)		WNC Corporation
 78670E     (base 16)		WNC Corporation
 				No.20,Park Avenue II,Hsinchu Science Park
@@ -228245,8 +228239,44 @@ F040AF     (base 16)		IEEE Registration Authority
 				Hsin-Chu  R.O.C.  308
 				TW
 
+70-EB-A5   (hex)		Huawei Device Co., Ltd.
+70EBA5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+C8-90-F7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C890F7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 F8-6D-CC   (hex)		WNC Corporation
 F86DCC     (base 16)		WNC Corporation
 				No.20,Park Avenue II,Hsinchu Science Park
 				Hsin-Chu  R.O.C.  308
 				TW
+
+20-58-43   (hex)		WNC Corporation
+205843     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+30-14-4A   (hex)		WNC Corporation
+30144A     (base 16)		WNC Corporation
+				20 Park Avenue II, Hsin Science Park, Hsinchu 308, Taiwan
+				HsinChu  Taiwan  308
+				TW
+
+F0-40-AF   (hex)		IEEE Registration Authority
+F040AF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+B4-9D-6B   (hex)		vivo Mobile Communication Co., Ltd.
+B49D6B     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
