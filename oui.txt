@@ -45932,6 +45932,30 @@ B8FBB3     (base 16)		TP-Link Systems Inc.
 				Reno  NV  89507
 				US
 
+AC-91-9B   (hex)		WNC Corporation
+AC919B     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+8C-53-E6   (hex)		WNC Corporation
+8C53E6     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+DC-4B-A1   (hex)		WNC Corporation
+DC4BA1     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+24-41-FE   (hex)		WNC Corporation
+2441FE     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
 74-6F-F7   (hex)		WNC Corporation
 746FF7     (base 16)		WNC Corporation
 				No.20,Park Avenue II,Hsinchu Science Park
@@ -45968,41 +45992,17 @@ B00073     (base 16)		WNC Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
-AC-91-9B   (hex)		WNC Corporation
-AC919B     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
-8C-53-E6   (hex)		WNC Corporation
-8C53E6     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
-DC-4B-A1   (hex)		WNC Corporation
-DC4BA1     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
-24-41-FE   (hex)		WNC Corporation
-2441FE     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
+30-41-DB   (hex)		vivo Mobile Communication Co., Ltd.
+3041DB     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
 
 68-A3-4F   (hex)		Nokia
 68A34F     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
-
-30-41-DB   (hex)		vivo Mobile Communication Co., Ltd.
-3041DB     (base 16)		vivo Mobile Communication Co., Ltd.
-				No.1, vivo Road, Chang'an
-				Dongguan  Guangdong  523860
-				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -91031,12 +91031,6 @@ CC0DCB     (base 16)		Microsoft Corporation
 				Mountain View  CA  94043
 				US
 
-5C-BF-03   (hex)		Emoco Labs Ab
-5CBF03     (base 16)		Emoco Labs Ab
-				Valhallavägen 5
-				Lidingö    18151
-				SE
-
 B8-CE-ED   (hex)		Broadcom
 B8CEED     (base 16)		Broadcom
 				1320 Ridder Park
@@ -91279,6 +91273,12 @@ B882F2     (base 16)		WNC Corporation
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+5C-BF-03   (hex)		EMOCO 
+5CBF03     (base 16)		EMOCO 
+				Valhallavägen 5
+				Lidingö    18151
+				SE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -182739,6 +182739,12 @@ D8-33-2A   (hex)		Ruijie Networks Co.,LTD
 D8332A     (base 16)		Ruijie Networks Co.,LTD
 				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
 				Fuzhou    35000
+				CN
+
+C4-67-A1   (hex)		Accelight Technologies (Wuhan) Inc.
+C467A1     (base 16)		Accelight Technologies (Wuhan) Inc.
+				777 Guanggu 3rd, Bldg. #16, 5th Floor,
+				Wuhan  Hubei, P. R.  430205
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
