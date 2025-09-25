@@ -46004,6 +46004,12 @@ B00073     (base 16)		WNC Corporation
 				Kanata  Ontario  K2K 2E6
 				CA
 
+2C-65-8D   (hex)		Cisco Systems, Inc
+2C658D     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -119705,12 +119711,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				Kyoto    612-8414
 				JP
 
-00-1E-D1   (hex)		Keyprocessor B.V.
-001ED1     (base 16)		Keyprocessor B.V.
-				Paasheuvelweg 20
-				Amsterdam  NH  1105 BJ
-				NL
-
 00-1E-D0   (hex)		Ingespace
 001ED0     (base 16)		Ingespace
 				6 rue de lourmede
@@ -136734,6 +136734,18 @@ D4-4F-14   (hex)		Tesla,Inc.
 D44F14     (base 16)		Tesla,Inc.
 				3500 Deer Creek Rd.
 				PALO ALTO  CA  94304
+				US
+
+00-1E-D1   (hex)		TKH Security B.V.
+001ED1     (base 16)		TKH Security B.V.
+				Paasheuvelweg 20
+				Amsterdam  NH  1105 BJ
+				NL
+
+68-EF-A8   (hex)		AutomationDirect.com
+68EFA8     (base 16)		AutomationDirect.com
+				3505 Hutchinson Road
+				Cumming  GA  30040
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -182747,6 +182759,24 @@ C467A1     (base 16)		Accelight Technologies (Wuhan) Inc.
 				Wuhan  Hubei, P. R.  430205
 				CN
 
+24-D5-3B   (hex)		Motorola Mobility LLC, a Lenovo Company
+24D53B     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+C8-34-E5   (hex)		Cisco Systems, Inc
+C834E5     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+80-61-32   (hex)		Cisco Systems, Inc
+806132     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -228286,3 +228316,27 @@ B49D6B     (base 16)		vivo Mobile Communication Co., Ltd.
 				No.1, vivo Road, Chang'an
 				Dongguan  Guangdong  523860
 				CN
+
+04-5F-A6   (hex)		Shenzhen SDMC Technology CP,.LTD
+045FA6     (base 16)		Shenzhen SDMC Technology CP,.LTD
+				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
+				Shenzhen  China  518000
+				CN
+
+28-12-D0   (hex)		Motorola Mobility LLC, a Lenovo Company
+2812D0     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+18-90-24   (hex)		Astera LED Technology GmbH
+189024     (base 16)		Astera LED Technology GmbH
+				Schatzbogen 60
+				Munich  Bayern  81829
+				DE
+
+C8-78-F7   (hex)		Cisco Systems, Inc
+C878F7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
