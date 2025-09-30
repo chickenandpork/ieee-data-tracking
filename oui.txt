@@ -46022,6 +46022,12 @@ A854B2     (base 16)		WNC Corporation
 				Palo Alto  CA  94301
 				US
 
+10-ED-C8   (hex)		NXP Semiconductors Taiwan Ltd.
+10EDC8     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -136718,6 +136724,30 @@ A46185     (base 16)		Tools for Humanity Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
+7C-A2-36   (hex)		Verizon Connect
+7CA236     (base 16)		Verizon Connect
+				5055 North Point Pkwy
+				Alpharetta  GA  30022
+				US
+
+88-A6-8D   (hex)		Shanghai MXCHIP Information Technology Co., Ltd.
+88A68D     (base 16)		Shanghai MXCHIP Information Technology Co., Ltd.
+				9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District
+				Shanghai    200333
+				CN
+
+D4-4F-14   (hex)		Tesla,Inc.
+D44F14     (base 16)		Tesla,Inc.
+				3500 Deer Creek Rd.
+				PALO ALTO  CA  94304
+				US
+
+34-26-E6   (hex)		CIG SHANGHAI CO LTD
+3426E6     (base 16)		CIG SHANGHAI CO LTD
+				5th Floor, Building 8 No 2388 Chenhang Road 
+				SHANGHAI    201114
+				CN
+
 38-B8-00   (hex)		WNC Corporation
 38B800     (base 16)		WNC Corporation
 				No.20,Park Avenue II,Hsinchu Science Park
@@ -136748,10 +136778,10 @@ A46185     (base 16)		Tools for Humanity Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
-D4-4F-14   (hex)		Tesla,Inc.
-D44F14     (base 16)		Tesla,Inc.
-				3500 Deer Creek Rd.
-				PALO ALTO  CA  94304
+68-EF-A8   (hex)		AutomationDirect.com
+68EFA8     (base 16)		AutomationDirect.com
+				3505 Hutchinson Road
+				Cumming  GA  30040
 				US
 
 00-1E-D1   (hex)		TKH Security B.V.
@@ -136759,24 +136789,6 @@ D44F14     (base 16)		Tesla,Inc.
 				Paasheuvelweg 20
 				Amsterdam  NH  1105 BJ
 				NL
-
-68-EF-A8   (hex)		AutomationDirect.com
-68EFA8     (base 16)		AutomationDirect.com
-				3505 Hutchinson Road
-				Cumming  GA  30040
-				US
-
-7C-A2-36   (hex)		Verizon Connect
-7CA236     (base 16)		Verizon Connect
-				5055 North Point Pkwy
-				Alpharetta  GA  30022
-				US
-
-88-A6-8D   (hex)		Shanghai MXCHIP Information Technology Co., Ltd.
-88A68D     (base 16)		Shanghai MXCHIP Information Technology Co., Ltd.
-				9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District
-				Shanghai    200333
-				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -228441,4 +228453,10 @@ EC3A56     (base 16)		AzureWave Technology Inc.
 50FE39     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
+				CN
+
+B4-1D-62   (hex)		Nokia Shanghai Bell Co., Ltd.
+B41D62     (base 16)		Nokia Shanghai Bell Co., Ltd.
+				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai
+				Shanghai     201206
 				CN
