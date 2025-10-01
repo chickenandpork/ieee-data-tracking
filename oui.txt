@@ -46028,6 +46028,24 @@ A854B2     (base 16)		WNC Corporation
 				Nanzi Dist.  Kaohsiung  811643
 				TW
 
+EC-79-C0   (hex)		zte corporation
+EC79C0     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+6C-11-BA   (hex)		zte corporation
+6C11BA     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+E4-65-66   (hex)		Maple IoT Solutions LLC
+E46566     (base 16)		Maple IoT Solutions LLC
+				N8408 MUIRFIELD WAY
+				MENASHA  WI  54952
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -91286,11 +91304,11 @@ DCB4E8     (base 16)		Byos
 				NANTOU    54261
 				TW
 
-B8-82-F2   (hex)		WNC Corporation
-B882F2     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
+A8-A0-92   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
+A8A092     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
+				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
+				ShenZhen    518100
+				CN
 
 7C-AF-77   (hex)		Nokia
 7CAF77     (base 16)		Nokia
@@ -91298,17 +91316,35 @@ B882F2     (base 16)		WNC Corporation
 				Kanata  Ontario  K2K 2E6
 				CA
 
-5C-BF-03   (hex)		EMOCO 
-5CBF03     (base 16)		EMOCO 
-				Valhallavägen 5
-				Lidingö    18151
-				SE
-
 EC-9E-68   (hex)		Anhui Taoyun Technology Co., Ltd
 EC9E68     (base 16)		Anhui Taoyun Technology Co., Ltd
 				6/F and 23/F, Scientific Research Building, Building 2, Zone A, China Sound Valley, No. 3333, Xiyou Road, High tech Zone Hefei Anhui
 				Hefei  Anhui  230094
 				CN
+
+D4-9F-29   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D49F29     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+A8-CE-E7   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+A8CEE7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+B8-82-F2   (hex)		WNC Corporation
+B882F2     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+5C-BF-03   (hex)		EMOCO 
+5CBF03     (base 16)		EMOCO 
+				Valhallavägen 5
+				Lidingö    18151
+				SE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -136364,12 +136400,6 @@ A07E16     (base 16)		EM Microelectronic
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-18-CC-88   (hex)		Hitachi Air Conditioning Shimizu, Inc.
-18CC88     (base 16)		Hitachi Air Conditioning Shimizu, Inc.
-				390, Muramatsu,
-				 Shimizu Village   Shizuoka Prefecture  424-0926
-				JP
-
 CC-5E-A5   (hex)		Palo Alto Networks
 CC5EA5     (base 16)		Palo Alto Networks
 				3000 Tannery Way
@@ -136786,9 +136816,33 @@ D44F14     (base 16)		Tesla,Inc.
 
 00-1E-D1   (hex)		TKH Security B.V.
 001ED1     (base 16)		TKH Security B.V.
-				Paasheuvelweg 20
-				Amsterdam  NH  1105 BJ
+				Werner von Siemensstraat 7
+				Zoetermeer   ZH  2712PN
 				NL
+
+C0-6E-3D   (hex)		SHENZHEN TECNO TECHNOLOGY 
+C06E3D     (base 16)		SHENZHEN TECNO TECHNOLOGY 
+				101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China
+				Shenzhen  guangdong  518000
+				CN
+
+0C-74-74   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+0C7474     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+18-CC-88   (hex)		Hitachi Global Life Solutions, Inc.
+18CC88     (base 16)		Hitachi Global Life Solutions, Inc.
+				390, Muramatsu,
+				 Shimizu Village   Shizuoka Prefecture  424-0926
+				JP
+
+D0-17-B7   (hex)		Atios AG
+D017B7     (base 16)		Atios AG
+				Obere Postmatte 19
+				Seedorf  Uri  6462
+				CH
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -182813,24 +182867,6 @@ C834E5     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-80-61-32   (hex)		Cisco Systems, Inc
-806132     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-88-18-F1   (hex)		Nokia
-8818F1     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-50-92-6A   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-50926A     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
-				CN
-
 98-9E-80   (hex)		tonies GmbH
 989E80     (base 16)		tonies GmbH
 				Oststraße 119
@@ -182842,6 +182878,36 @@ C834E5     (base 16)		Cisco Systems, Inc
 				300 Fuller Street Box 104100
 				Durham  NC  27708
 				US
+
+50-92-6A   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+50926A     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+04-1C-DB   (hex)		Siba Service
+041CDB     (base 16)		Siba Service
+				6F, Kobe Commerce, Industry and Trade Center Building, 5-1-14 Hamabe-dori, Chuo-ku
+				Kobe-shi  Hyogo-ken  6510083
+				JP
+
+98-3F-A4   (hex)		zte corporation
+983FA4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+80-61-32   (hex)		Cisco Systems, Inc
+806132     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+88-18-F1   (hex)		Nokia
+8818F1     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -228377,60 +228443,6 @@ F040AF     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-B4-9D-6B   (hex)		vivo Mobile Communication Co., Ltd.
-B49D6B     (base 16)		vivo Mobile Communication Co., Ltd.
-				No.1, vivo Road, Chang'an
-				Dongguan  Guangdong  523860
-				CN
-
-04-5F-A6   (hex)		Shenzhen SDMC Technology CP,.LTD
-045FA6     (base 16)		Shenzhen SDMC Technology CP,.LTD
-				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
-				Shenzhen  China  518000
-				CN
-
-28-12-D0   (hex)		Motorola Mobility LLC, a Lenovo Company
-2812D0     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
-				US
-
-18-90-24   (hex)		Astera LED Technology GmbH
-189024     (base 16)		Astera LED Technology GmbH
-				Schatzbogen 60
-				Munich  Bayern  81829
-				DE
-
-C8-78-F7   (hex)		Cisco Systems, Inc
-C878F7     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-F4-E1-FC   (hex)		Hewlett Packard Enterprise
-F4E1FC     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
-
-98-5B-76   (hex)		Vantiva Connected Home - Orange Belgium
-985B76     (base 16)		Vantiva Connected Home - Orange Belgium
-				4855 Pearchtree Industrial Blvd
-				Norcross  GA  30092
-				US
-
-5C-45-46   (hex)		Shenzhen Water World Information Co.,Ltd.
-5C4546     (base 16)		Shenzhen Water World Information Co.,Ltd.
-				1F, Building 3, DexinChang Wisdom Park, No. 23, Heping Road, Qinghua Community, Longhua Subdistrict, Longhua District
-				Shenzhen  Guangdong  518109
-				CN
-
-E4-7C-1A   (hex)		mercury corperation
-E47C1A     (base 16)		mercury corperation
-				90,gajaeul-ro,seo-gu,incheon
-				incheon    22830
-				KR
-
 28-B4-46   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 28B446     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
@@ -228455,8 +228467,74 @@ EC3A56     (base 16)		AzureWave Technology Inc.
 				Beijing  Beijing  100085
 				CN
 
+28-12-D0   (hex)		Motorola Mobility LLC, a Lenovo Company
+2812D0     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+18-90-24   (hex)		Astera LED Technology GmbH
+189024     (base 16)		Astera LED Technology GmbH
+				Schatzbogen 60
+				Munich  Bayern  81829
+				DE
+
+C8-78-F7   (hex)		Cisco Systems, Inc
+C878F7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+98-5B-76   (hex)		Vantiva Connected Home - Orange Belgium
+985B76     (base 16)		Vantiva Connected Home - Orange Belgium
+				4855 Pearchtree Industrial Blvd
+				Norcross  GA  30092
+				US
+
+5C-45-46   (hex)		Shenzhen Water World Information Co.,Ltd.
+5C4546     (base 16)		Shenzhen Water World Information Co.,Ltd.
+				1F, Building 3, DexinChang Wisdom Park, No. 23, Heping Road, Qinghua Community, Longhua Subdistrict, Longhua District
+				Shenzhen  Guangdong  518109
+				CN
+
+E4-7C-1A   (hex)		mercury corperation
+E47C1A     (base 16)		mercury corperation
+				90,gajaeul-ro,seo-gu,incheon
+				incheon    22830
+				KR
+
+04-5F-A6   (hex)		Shenzhen SDMC Technology CP,.LTD
+045FA6     (base 16)		Shenzhen SDMC Technology CP,.LTD
+				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
+				Shenzhen  China  518000
+				CN
+
+B4-9D-6B   (hex)		vivo Mobile Communication Co., Ltd.
+B49D6B     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+F4-E1-FC   (hex)		Hewlett Packard Enterprise
+F4E1FC     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 B4-1D-62   (hex)		Nokia Shanghai Bell Co., Ltd.
 B41D62     (base 16)		Nokia Shanghai Bell Co., Ltd.
 				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai
 				Shanghai     201206
 				CN
+
+FC-F8-61   (hex)		Harman/Becker Automotive Systems GmbH
+FCF861     (base 16)		Harman/Becker Automotive Systems GmbH
+				Becker-Göring-Straße 16
+				Karlsbad  Baden-Württemberg  76307
+				DE
+
+E8-F6-D7   (hex)		IEEE Registration Authority
+E8F6D7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
