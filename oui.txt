@@ -136970,6 +136970,18 @@ F0D32B     (base 16)		Juniper Networks
 				Austin  TX  78701
 				US
 
+78-5F-A4   (hex)		Ciena Corporation
+785FA4     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+98-11-CC   (hex)		Ciena Corporation
+9811CC     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -228754,3 +228766,9 @@ F41C26     (base 16)		AltoBeam Inc.
 				Werinherstrasse 91
 				München  Bavaria  D-81541
 				DE
+
+74-61-D1   (hex)		GOIP Global Services Pvt. Ltd.
+7461D1     (base 16)		GOIP Global Services Pvt. Ltd.
+				H68, Sector 63, Noida 201301
+				Noida   Uttar Pradesh  201301
+				IN
