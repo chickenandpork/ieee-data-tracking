@@ -46082,6 +46082,12 @@ F49AB1     (base 16)		Hewlett Packard Enterprise
 				San Jose  CA  95002
 				US
 
+74-33-36   (hex)		IEEE Registration Authority
+743336     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -91428,6 +91434,30 @@ D056F2     (base 16)		BUFFALO.INC
 60B763     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
+				US
+
+08-20-E7   (hex)		Mellanox Technologies, Inc.
+0820E7     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+AC-F9-32   (hex)		NXP Semiconductor (Tianjin) LTD.
+ACF932     (base 16)		NXP Semiconductor (Tianjin) LTD.
+				No.15 Xinghua Avenue, Xiqing Economic Development Area
+				Tianjin    300385
+				CN
+
+4C-D4-B1   (hex)		NXP Semiconductor (Tianjin) LTD.
+4CD4B1     (base 16)		NXP Semiconductor (Tianjin) LTD.
+				No.15 Xinghua Avenue, Xiqing Economic Development Area
+				Tianjin    300385
+				CN
+
+F0-4E-A4   (hex)		HP Inc.
+F04EA4     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -136981,6 +137011,18 @@ F0D32B     (base 16)		Juniper Networks
 				7035 Ridge Road
 				Hanover  MD  21076
 				US
+
+54-39-76   (hex)		Groq
+543976     (base 16)		Groq
+				2700 Zanker Road, Suite 150
+				San Jose  CA  95134
+				US
+
+18-96-77   (hex)		Annapurna labs
+189677     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183105,6 +183147,30 @@ A43FA7     (base 16)		Hewlett Packard Enterprise
 30BC4F     (base 16)		Beijing Jianguo Bite Technology Co., Ltd.
 				RM1321, Building 2, Taihua Longqi Square, 19 Huangping ROAD, Changping district
 				Beijing  Beijing  100096
+				CN
+
+F0-FB-7F   (hex)		Mellanox Technologies, Inc.
+F0FB7F     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+84-45-A0   (hex)		Tube investments of India Limited
+8445A0     (base 16)		Tube investments of India Limited
+				Chola crest, 4th floor, No. C 54-55 & Super B4, Thiru Vi Ka Industrial Area, Guindy, Chennai - 600032
+				Chennai  Other  600032
+				IN
+
+B8-68-70   (hex)		Nintendo Co.,Ltd
+B86870     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+F0-AB-FA   (hex)		Shenzhen Rayin Technology Co.,Ltd
+F0ABFA     (base 16)		Shenzhen Rayin Technology Co.,Ltd
+				Room 701, 7th Floor, Office Building of Pengluda Industrial Factory Area, No. 448 Bulong Road, Yangmei Community, Bantian Street, Longgang District, Shenzhen City，China
+				shenzhen  guangdong  518000
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
