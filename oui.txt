@@ -46082,11 +46082,35 @@ F49AB1     (base 16)		Hewlett Packard Enterprise
 				San Jose  CA  95002
 				US
 
+E0-FA-5B   (hex)		Arista Networks
+E0FA5B     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
 74-33-36   (hex)		IEEE Registration Authority
 743336     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+40-08-77   (hex)		Xiaomi Communications Co Ltd
+400877     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+08-B3-39   (hex)		Xiaomi Communications Co Ltd
+08B339     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+B8-53-84   (hex)		Xiaomi Communications Co Ltd
+B85384     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -91458,6 +91482,12 @@ F0-4E-A4   (hex)		HP Inc.
 F04EA4     (base 16)		HP Inc.
 				10300 Energy Dr
 				Spring  TX  77389
+				US
+
+30-4D-1F   (hex)		Amazon Technologies Inc.
+304D1F     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -168251,12 +168281,6 @@ A07332     (base 16)		Cashmaster International Limited
 				Wugu District  New Taipei City  248
 				TW
 
-00-12-C1   (hex)		Check Point Software Technologies
-0012C1     (base 16)		Check Point Software Technologies
-				5 Ha'solelim St.
-				Tel Aviv    67897
-				IL
-
 00-12-ED   (hex)		AVG Advanced Technologies
 0012ED     (base 16)		AVG Advanced Technologies
 				4140 Utica Ridge Road
@@ -183172,6 +183196,24 @@ F0ABFA     (base 16)		Shenzhen Rayin Technology Co.,Ltd
 				Room 701, 7th Floor, Office Building of Pengluda Industrial Factory Area, No. 448 Bulong Road, Yangmei Community, Bantian Street, Longgang District, Shenzhen City，China
 				shenzhen  guangdong  518000
 				CN
+
+68-9F-D4   (hex)		Amazon Technologies Inc.
+689FD4     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+00-12-C1   (hex)		Check Point Software Technologies Ltd.
+0012C1     (base 16)		Check Point Software Technologies Ltd.
+				5 Ha'solelim St.
+				Tel Aviv    67897
+				IL
+
+98-40-D4   (hex)		Vantiva Connected Home - Technologies Telco
+9840D4     (base 16)		Vantiva Connected Home - Technologies Telco
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -228791,24 +228833,6 @@ B41D62     (base 16)		Nokia Shanghai Bell Co., Ltd.
 				Shanghai     201206
 				CN
 
-FC-F8-61   (hex)		Harman/Becker Automotive Systems GmbH
-FCF861     (base 16)		Harman/Becker Automotive Systems GmbH
-				Becker-Göring-Straße 16
-				Karlsbad  Baden-Württemberg  76307
-				DE
-
-E8-F6-D7   (hex)		IEEE Registration Authority
-E8F6D7     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-84-D1-C1   (hex)		Intel Corporate
-84D1C1     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3  
-				Kulim  Kedah  09000
-				MY
-
 E0-72-56   (hex)		Intel Corporate
 E07256     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
@@ -228821,11 +228845,23 @@ F41C26     (base 16)		AltoBeam Inc.
 				Beijing  Beijing  100083
 				CN
 
-58-89-90   (hex)		Starkey Labs Inc.
-588990     (base 16)		Starkey Labs Inc.
-				6600 Washington Ave. S.
-				Eden Prairie  MN  55344
-				US
+84-D1-C1   (hex)		Intel Corporate
+84D1C1     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+78-FD-F1   (hex)		Shenzhen Huadian Communication Co., Ltd
+78FDF1     (base 16)		Shenzhen Huadian Communication Co., Ltd
+				The fourth floor of the State Micro R&D Building, No. 015, Gaoxin South 1st Road, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
+
+FC-F8-61   (hex)		Harman/Becker Automotive Systems GmbH
+FCF861     (base 16)		Harman/Becker Automotive Systems GmbH
+				Becker-Göring-Straße 16
+				Karlsbad  Baden-Württemberg  76307
+				DE
 
 98-0A-4B   (hex)		Nokia Solutions and Networks GmbH & Co. KG
 980A4B     (base 16)		Nokia Solutions and Networks GmbH & Co. KG
@@ -228838,3 +228874,15 @@ F41C26     (base 16)		AltoBeam Inc.
 				H68, Sector 63, Noida 201301
 				Noida   Uttar Pradesh  201301
 				IN
+
+58-89-90   (hex)		Starkey Labs Inc.
+588990     (base 16)		Starkey Labs Inc.
+				6600 Washington Ave. S.
+				Eden Prairie  MN  55344
+				US
+
+E8-F6-D7   (hex)		IEEE Registration Authority
+E8F6D7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
