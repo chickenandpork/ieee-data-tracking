@@ -46112,6 +46112,12 @@ B85384     (base 16)		Xiaomi Communications Co Ltd
 				Beijing  Haidian District  100085
 				CN
 
+5C-33-B1   (hex)		EM Microelectronic
+5C33B1     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -137012,34 +137018,10 @@ D017B7     (base 16)		Atios AG
 				Zoetermeer   ZH  2712PN
 				NL
 
-F0-D3-2B   (hex)		Juniper Networks
-F0D32B     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
-
 90-41-B2   (hex)		Ubiquiti Inc
 9041B2     (base 16)		Ubiquiti Inc
 				685 Third Avenue, 27th Floor
 				New York  NY  New York NY 10017
-				US
-
-6C-A0-42   (hex)		Silicon Laboratories
-6CA042     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-78-5F-A4   (hex)		Ciena Corporation
-785FA4     (base 16)		Ciena Corporation
-				7035 Ridge Road
-				Hanover  MD  21076
-				US
-
-98-11-CC   (hex)		Ciena Corporation
-9811CC     (base 16)		Ciena Corporation
-				7035 Ridge Road
-				Hanover  MD  21076
 				US
 
 54-39-76   (hex)		Groq
@@ -137053,6 +137035,36 @@ F0D32B     (base 16)		Juniper Networks
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+78-5F-A4   (hex)		Ciena Corporation
+785FA4     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+98-11-CC   (hex)		Ciena Corporation
+9811CC     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+90-FB-93   (hex)		Renesas Design US Inc.
+90FB93     (base 16)		Renesas Design US Inc.
+				6024 Silver Creek valley Road San Jose, CA 95138 United States 
+				San Jose    95138
+				US
+
+6C-A0-42   (hex)		Silicon Laboratories
+6CA042     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+F0-D3-2B   (hex)		Juniper Networks
+F0D32B     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183167,10 +183179,28 @@ A43FA7     (base 16)		Hewlett Packard Enterprise
 				Kulim  Kedah  09000
 				MY
 
-30-BC-4F   (hex)		Beijing Jianguo Bite Technology Co., Ltd.
-30BC4F     (base 16)		Beijing Jianguo Bite Technology Co., Ltd.
-				RM1321, Building 2, Taihua Longqi Square, 19 Huangping ROAD, Changping district
-				Beijing  Beijing  100096
+00-12-C1   (hex)		Check Point Software Technologies Ltd.
+0012C1     (base 16)		Check Point Software Technologies Ltd.
+				5 Ha'solelim St.
+				Tel Aviv    67897
+				IL
+
+98-40-D4   (hex)		Vantiva Connected Home - Technologies Telco
+9840D4     (base 16)		Vantiva Connected Home - Technologies Telco
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+B8-68-70   (hex)		Nintendo Co.,Ltd
+B86870     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+F0-AB-FA   (hex)		Shenzhen Rayin Technology Co.,Ltd
+F0ABFA     (base 16)		Shenzhen Rayin Technology Co.,Ltd
+				Room 701, 7th Floor, Office Building of Pengluda Industrial Factory Area, No. 448 Bulong Road, Yangmei Community, Bantian Street, Longgang District, Shenzhen City，China
+				shenzhen  guangdong  518000
 				CN
 
 F0-FB-7F   (hex)		Mellanox Technologies, Inc.
@@ -183185,16 +183215,10 @@ F0FB7F     (base 16)		Mellanox Technologies, Inc.
 				Chennai  Other  600032
 				IN
 
-B8-68-70   (hex)		Nintendo Co.,Ltd
-B86870     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
-
-F0-AB-FA   (hex)		Shenzhen Rayin Technology Co.,Ltd
-F0ABFA     (base 16)		Shenzhen Rayin Technology Co.,Ltd
-				Room 701, 7th Floor, Office Building of Pengluda Industrial Factory Area, No. 448 Bulong Road, Yangmei Community, Bantian Street, Longgang District, Shenzhen City，China
-				shenzhen  guangdong  518000
+30-BC-4F   (hex)		Beijing Jianguo Bite Technology Co., Ltd.
+30BC4F     (base 16)		Beijing Jianguo Bite Technology Co., Ltd.
+				RM1321, Building 2, Taihua Longqi Square, 19 Huangping ROAD, Changping district
+				Beijing  Beijing  100096
 				CN
 
 68-9F-D4   (hex)		Amazon Technologies Inc.
@@ -183203,17 +183227,17 @@ F0ABFA     (base 16)		Shenzhen Rayin Technology Co.,Ltd
 				Reno  NV  89507
 				US
 
-00-12-C1   (hex)		Check Point Software Technologies Ltd.
-0012C1     (base 16)		Check Point Software Technologies Ltd.
-				5 Ha'solelim St.
-				Tel Aviv    67897
-				IL
+54-C1-D3   (hex)		Guangzhou TR Intelligent Manufacturing Technology Co., Ltd
+54C1D3     (base 16)		Guangzhou TR Intelligent Manufacturing Technology Co., Ltd
+				Room 3101, TCL Tower, 18 Haizhou Road, Haizhu District, Guangzhou, Guangdong
+				Guangzhou City  Guangdong Province  510000
+				CN
 
-98-40-D4   (hex)		Vantiva Connected Home - Technologies Telco
-9840D4     (base 16)		Vantiva Connected Home - Technologies Telco
-				4855 Peachtree Industrial Blvd, Suite 200
-				Norcross  GA  30902
-				US
+E0-31-5D   (hex)		EM Microelectronic
+E0315D     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
