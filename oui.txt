@@ -73229,12 +73229,6 @@ CC0080     (base 16)		BETTINI SRL
 				Poperinge  W-vl  8970
 				BE
 
-00-24-AE   (hex)		IDEMIA
-0024AE     (base 16)		IDEMIA
-				18 chaussee Jules Cesar
-				OSNY    95520
-				FR
-
 00-24-AD   (hex)		Adolf Thies Gmbh & Co. KG
 0024AD     (base 16)		Adolf Thies Gmbh & Co. KG
 				Hauptstraße 76
@@ -91460,16 +91454,10 @@ D056F2     (base 16)		BUFFALO.INC
 				Zoetermeer  Zoetermeer  2712PN
 				NL
 
-60-B7-63   (hex)		Silicon Laboratories
-60B763     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-08-20-E7   (hex)		Mellanox Technologies, Inc.
-0820E7     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
+30-4D-1F   (hex)		Amazon Technologies Inc.
+304D1F     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
 
 AC-F9-32   (hex)		NXP Semiconductor (Tianjin) LTD.
@@ -91484,17 +91472,29 @@ ACF932     (base 16)		NXP Semiconductor (Tianjin) LTD.
 				Tianjin    300385
 				CN
 
+08-20-E7   (hex)		Mellanox Technologies, Inc.
+0820E7     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+60-B7-63   (hex)		Silicon Laboratories
+60B763     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 F0-4E-A4   (hex)		HP Inc.
 F04EA4     (base 16)		HP Inc.
 				10300 Energy Dr
 				Spring  TX  77389
 				US
 
-30-4D-1F   (hex)		Amazon Technologies Inc.
-304D1F     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
+00-24-AE   (hex)		IDEMIA Secure Transactions
+0024AE     (base 16)		IDEMIA Secure Transactions
+				2 Place Samuel de Champlain
+				Courbevoie    92400
+				FR
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -183239,6 +183239,18 @@ E0315D     (base 16)		EM Microelectronic
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
+DC-44-B1   (hex)		Hilti Corporation
+DC44B1     (base 16)		Hilti Corporation
+				Feldkircherstrasse 100
+				Schaan    9494
+				LI
+
+A4-4A-64   (hex)		Maverick Mobile LLC
+A44A64     (base 16)		Maverick Mobile LLC
+				8350 N. Central Expwy #1900
+				Dallas  TX  75206
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -228910,3 +228922,9 @@ E8F6D7     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+04-39-CB   (hex)		Qingdao HaierTechnology Co.,Ltd
+0439CB     (base 16)		Qingdao HaierTechnology Co.,Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
