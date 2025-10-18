@@ -46136,6 +46136,18 @@ E0FA5B     (base 16)		Arista Networks
 				Cape Town  Western Province  7945
 				ZA
 
+7C-D4-A8   (hex)		Sagemcom Broadband SAS
+7CD4A8     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+90-31-96   (hex)		SHENZHEN IP-COM NETWORKS CO.,LTD.
+903196     (base 16)		SHENZHEN IP-COM NETWORKS CO.,LTD.
+				Room 101, Unit A, First Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				SHENZHEN  Guangdong Province  518052
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -90725,12 +90737,6 @@ B43A96     (base 16)		Arista Networks
 				San Francisco  CA  94107
 				US
 
-74-67-5F   (hex)		COMPAL INFORMATION(KUNSHAN)CO.,LTD.
-74675F     (base 16)		COMPAL INFORMATION(KUNSHAN)CO.,LTD.
-				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
-				KUNSHAN  SUZHOU  215300
-				CN
-
 6C-2F-1C   (hex)		Nexus Raytek Pty Ltd
 6C2F1C     (base 16)		Nexus Raytek Pty Ltd
 				160/425 Smith Street 
@@ -91519,6 +91525,24 @@ F04EA4     (base 16)		HP Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+C8-33-74   (hex)		Zyxel Communications Corporation
+C83374     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+A8-DD-9F   (hex)		Quectel Wireless Solutions Co.,Ltd.
+A8DD9F     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+74-67-5F   (hex)		COMPAL INFORMATION(KUNSHAN)CO.,LTD.
+74675F     (base 16)		COMPAL INFORMATION(KUNSHAN)CO.,LTD.
+				No.25 , THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137125,6 +137149,12 @@ F03012     (base 16)		Continental Autonomous Mobility Germany
 				Viale Sarca, 336/F
 				Milan  MI  20126
 				IT
+
+68-AB-A9   (hex)		Sagemcom Broadband SAS
+68ABA9     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183316,6 +183346,12 @@ DC44B1     (base 16)		Hilti Corporation
 				Feldkircherstrasse 100
 				Schaan    9494
 				LI
+
+50-D0-6D   (hex)		Bird Buddy
+50D06D     (base 16)		Bird Buddy
+				169 Madison Avenue, Suite 15233
+				New York  NY  10016
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
