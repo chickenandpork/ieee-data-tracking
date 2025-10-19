@@ -46148,6 +46148,12 @@ E0FA5B     (base 16)		Arista Networks
 				SHENZHEN  Guangdong Province  518052
 				CN
 
+18-AC-C2   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+18ACC2     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
