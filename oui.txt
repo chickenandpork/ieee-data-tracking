@@ -3329,12 +3329,6 @@ A4897E     (base 16)		Guangzhou Yuhong Technology Co.,Ltd.
 				Guangzhou  Guangdong  510640
 				CN
 
-BC-D7-67   (hex)		BAE Systems Apllied Intelligence
-BCD767     (base 16)		BAE Systems Apllied Intelligence
-				170 Waterside House
-				Guildford  Surrey  GU2 7RQ
-				GB
-
 EC-1D-9E   (hex)		Quectel Wireless Solutions Co.,Ltd.
 EC1D9E     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -46094,23 +46088,17 @@ E0FA5B     (base 16)		Arista Networks
 				Beijing  Haidian District  100085
 				CN
 
-08-B3-39   (hex)		Xiaomi Communications Co Ltd
-08B339     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
+7C-D4-A8   (hex)		Sagemcom Broadband SAS
+7CD4A8     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
-B8-53-84   (hex)		Xiaomi Communications Co Ltd
-B85384     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
+90-31-96   (hex)		SHENZHEN IP-COM NETWORKS CO.,LTD.
+903196     (base 16)		SHENZHEN IP-COM NETWORKS CO.,LTD.
+				Room 101, Unit A, First Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				SHENZHEN  Guangdong Province  518052
 				CN
-
-5C-33-B1   (hex)		EM Microelectronic
-5C33B1     (base 16)		EM Microelectronic
-				Rue des Sors 3
-				Marin-Epagnier  Neuchatel  2074
-				CH
 
 CC-2D-D2   (hex)		Ruckus Wireless
 CC2DD2     (base 16)		Ruckus Wireless
@@ -46124,11 +46112,35 @@ B0D7DE     (base 16)		Hangzhou Linovision Co., Ltd.
 				Hangzhou  Zhejiang  310023
 				CN
 
-98-42-AB   (hex)		GN Hearing A/S
-9842AB     (base 16)		GN Hearing A/S
-				Lautrupbjerg 7
-				Ballerup    2750
-				DK
+18-AC-C2   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+18ACC2     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
+				CN
+
+08-B3-39   (hex)		Xiaomi Communications Co Ltd
+08B339     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+B8-53-84   (hex)		Xiaomi Communications Co Ltd
+B85384     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+00-BC-99   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+00BC99     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
+5C-33-B1   (hex)		EM Microelectronic
+5C33B1     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
 
 00-15-EA   (hex)		Hensoldt South Africa (Pty) Ltd
 0015EA     (base 16)		Hensoldt South Africa (Pty) Ltd
@@ -46136,22 +46148,22 @@ B0D7DE     (base 16)		Hangzhou Linovision Co., Ltd.
 				Cape Town  Western Province  7945
 				ZA
 
-7C-D4-A8   (hex)		Sagemcom Broadband SAS
-7CD4A8     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+98-42-AB   (hex)		GN Hearing A/S
+9842AB     (base 16)		GN Hearing A/S
+				Lautrupbjerg 7
+				Ballerup    2750
+				DK
 
-90-31-96   (hex)		SHENZHEN IP-COM NETWORKS CO.,LTD.
-903196     (base 16)		SHENZHEN IP-COM NETWORKS CO.,LTD.
-				Room 101, Unit A, First Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
-				SHENZHEN  Guangdong Province  518052
-				CN
+BC-D7-67   (hex)		BAE Systems Apllied Intelligence
+BCD767     (base 16)		BAE Systems Apllied Intelligence
+				Waterside House, 170 Priestley Road, Surrey Research Park
+				Guildford  Surrey  GU2 7RQ
+				GB
 
-18-AC-C2   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-18ACC2     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
-				guangdong  China  518058
+9C-CD-42   (hex)		Dongguan Liesheng Electronic Co., Ltd.
+9CCD42     (base 16)		Dongguan Liesheng Electronic Co., Ltd.
+				F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci
+				dongguan   guangdong  523000
 				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -91520,12 +91532,6 @@ F04EA4     (base 16)		HP Inc.
 				Spring  TX  77389
 				US
 
-00-24-AE   (hex)		IDEMIA Secure Transactions
-0024AE     (base 16)		IDEMIA Secure Transactions
-				2 Place Samuel de Champlain
-				Courbevoie    92400
-				FR
-
 0C-BF-B4   (hex)		IEEE Registration Authority
 0CBFB4     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -91549,6 +91555,24 @@ A8DD9F     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				No.25 , THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
 				KUNSHAN  SUZHOU  215300
 				CN
+
+E0-72-A1   (hex)		Espressif Inc.
+E072A1     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+AC-A7-04   (hex)		Espressif Inc.
+ACA704     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+00-24-AE   (hex)		IDEMIA FRANCE SAS
+0024AE     (base 16)		IDEMIA FRANCE SAS
+				2 Place Samuel de Champlain
+				Courbevoie    92400
+				FR
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137150,17 +137174,23 @@ F03012     (base 16)		Continental Autonomous Mobility Germany
 				shenzhen  guangdong  518000
 				CN
 
+68-AB-A9   (hex)		Sagemcom Broadband SAS
+68ABA9     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 6C-76-F7   (hex)		MainStreaming SpA
 6C76F7     (base 16)		MainStreaming SpA
 				Viale Sarca, 336/F
 				Milan  MI  20126
 				IT
 
-68-AB-A9   (hex)		Sagemcom Broadband SAS
-68ABA9     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+40-A4-4A   (hex)		Google, Inc.
+40A44A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183335,16 +183365,10 @@ E0315D     (base 16)		EM Microelectronic
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-DC-44-B1   (hex)		Hilti Corporation
-DC44B1     (base 16)		Hilti Corporation
-				Feldkircherstrasse 100
-				Schaan    9494
-				LI
-
-A4-4A-64   (hex)		Maverick Mobile LLC
-A44A64     (base 16)		Maverick Mobile LLC
-				8350 N. Central Expwy #1900
-				Dallas  TX  75206
+50-D0-6D   (hex)		Bird Buddy
+50D06D     (base 16)		Bird Buddy
+				169 Madison Avenue, Suite 15233
+				New York  NY  10016
 				US
 
 5C-C4-1D   (hex)		Stone Devices Sdn. Bhd.
@@ -183353,11 +183377,29 @@ A44A64     (base 16)		Maverick Mobile LLC
 				SENAI  JOHOR  81400
 				MY
 
-50-D0-6D   (hex)		Bird Buddy
-50D06D     (base 16)		Bird Buddy
-				169 Madison Avenue, Suite 15233
-				New York  NY  10016
+30-76-F5   (hex)		Espressif Inc.
+3076F5     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A4-4A-64   (hex)		Maverick Mobile LLC
+A44A64     (base 16)		Maverick Mobile LLC
+				8350 N. Central Expwy #1900
+				Dallas  TX  75206
 				US
+
+AC-E6-BB   (hex)		Google, Inc.
+ACE6BB     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+DC-44-B1   (hex)		Hilti Corporation
+DC44B1     (base 16)		Hilti Corporation
+				Feldkircherstrasse 100
+				Schaan    9494
+				LI
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -229048,3 +229090,9 @@ E8F6D7     (base 16)		IEEE Registration Authority
 				1601 South De Anza Blvd, Suite 248
 				Cupertino  CA  95014
 				US
+
+28-BB-B2   (hex)		Infinix mobility limited
+28BBB2     (base 16)		Infinix mobility limited
+				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+				HongKong  HongKong  999077
+				HK
