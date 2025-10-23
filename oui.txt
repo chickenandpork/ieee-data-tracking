@@ -46166,6 +46166,12 @@ BCD767     (base 16)		BAE Systems
 				Guildford  Surrey  GU2 7RQ
 				GB
 
+04-C5-CD   (hex)		Mellanox Technologies, Inc.
+04C5CD     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -137174,6 +137180,18 @@ F03012     (base 16)		Continental Autonomous Mobility Germany
 				Austin  TX  78701
 				US
 
+D8-3A-36   (hex)		AltoBeam Inc.
+D83A36     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+F0-55-82   (hex)		Arashi Vision Inc.
+F05582     (base 16)		Arashi Vision Inc.
+				Room 1101, 1102, 1103, 11th Floor, Building 2, Jinlitong Financial Center, 1100 Xingye Road, Haiwang Community, Xin'an Street, Bao'an District, Shenzhen, Guangdong, China
+				Shenzhen    518000
+				CN
+
 6C-76-F7   (hex)		MainStreaming SpA
 6C76F7     (base 16)		MainStreaming SpA
 				Viale Sarca, 336/F
@@ -137186,23 +137204,17 @@ F03012     (base 16)		Continental Autonomous Mobility Germany
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+F0-BC-50   (hex)		Mellanox Technologies, Inc.
+F0BC50     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 40-A4-4A   (hex)		Google, Inc.
 40A44A     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
-
-D8-3A-36   (hex)		AltoBeam Inc.
-D83A36     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
-F0-55-82   (hex)		Arashi Vision Inc.
-F05582     (base 16)		Arashi Vision Inc.
-				Room 1101, 1102, 1103, 11th Floor, Building 2, Jinlitong Financial Center, 1100 Xingye Road, Haiwang Community, Xin'an Street, Bao'an District, Shenzhen, Guangdong, China
-				Shenzhen    518000
-				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183412,6 +183424,12 @@ ACE6BB     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
+
+80-9F-E4   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+809FE4     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				Shenzhen    518052
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
