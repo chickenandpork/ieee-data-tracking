@@ -46172,6 +46172,12 @@ BCD767     (base 16)		BAE Systems
 				Sunnyvale  CA  94085
 				US
 
+4C-3C-8F   (hex)		Shenzhen Jingxun Technology Co., Ltd.
+4C3C8F     (base 16)		Shenzhen Jingxun Technology Co., Ltd.
+				3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District
+				Shenzhen    518071
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -229159,3 +229165,9 @@ DC83BF     (base 16)		Seiko Epson Corporation
 				2070 Kotobuki Koaka
 				Matsumoto-shi  Nagano-ken  399-8702
 				JP
+
+68-15-79   (hex)		BrosTrend Technology LLC
+681579     (base 16)		BrosTrend Technology LLC
+				8 The Green, Suite A
+				Dover  DE  19901
+				US
