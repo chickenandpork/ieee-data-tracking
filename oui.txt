@@ -8465,12 +8465,6 @@ D45EEC     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
 				Piscataway  NJ  08554
 				US
 
-9C-C9-EB   (hex)		NETGEAR
-9CC9EB     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 5C-B2-9E   (hex)		ASCO Power Technologies
 5CB29E     (base 16)		ASCO Power Technologies
 				160 Park Avenue
@@ -9875,12 +9869,6 @@ BC97E1     (base 16)		Broadcom Limited
 				Shenzhen  Guangdong  518055
 				CN
 
-38-94-ED   (hex)		NETGEAR
-3894ED     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 70-04-33   (hex)		California Things Inc.
 700433     (base 16)		California Things Inc.
 				650 main st
@@ -10468,12 +10456,6 @@ C02E25     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
 				Tenglong Road, Longhua District,   Shenzhen Guangdong  518000
 				CN
-
-10-0C-6B   (hex)		NETGEAR
-100C6B     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 58-EC-ED   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 58ECED     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -12103,12 +12085,6 @@ D0C5D8     (base 16)		LATECOERE
 				The Frist Building ,ShangKeng Industrial Zone,  Changping Town
 				Dongguan  Guangdong  523560
 				CN
-
-78-D2-94   (hex)		NETGEAR
-78D294     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 70-9F-A9   (hex)		TECNO MOBILE LIMITED
 709FA9     (base 16)		TECNO MOBILE LIMITED
@@ -17267,12 +17243,6 @@ C88722     (base 16)		Lumenpulse
 				Staefa    8712
 				CH
 
-B0-7F-B9   (hex)		NETGEAR
-B07FB9     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 3C-59-1E   (hex)		TCL King Electrical Appliances (Huizhou) Co., Ltd
 3C591E     (base 16)		TCL King Electrical Appliances (Huizhou) Co., Ltd
 				7/FTCL Multimedia Building, TCL International E City, No.1001 Zhongshanyuan Road, Nanshan 
@@ -17765,29 +17735,11 @@ A8D3F7     (base 16)		Arcadyan Technology Corporation
 				taipei  TAIPEI  235
 				TW
 
-4C-60-DE   (hex)		NETGEAR
-4C60DE     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-C4-3D-C7   (hex)		NETGEAR
-C43DC7     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 48-9D-24   (hex)		BlackBerry RTS
 489D24     (base 16)		BlackBerry RTS
 				451 Phillip Street
 				Waterloo  ON  N2L 3X2
 				CA
-
-08-BD-43   (hex)		NETGEAR
-08BD43     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 00-1F-E4   (hex)		Sony Corporation
 001FE4     (base 16)		Sony Corporation
@@ -46154,11 +46106,23 @@ B85384     (base 16)		Xiaomi Communications Co Ltd
 				dongguan   guangdong  523000
 				CN
 
-F8-10-37   (hex)		ENTOUCH Controls
-F81037     (base 16)		ENTOUCH Controls
-				681 N. Plano Road
-				Richardson  TX  75082
-				US
+70-4B-CA   (hex)		Espressif Inc.
+704BCA     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+8C-FD-49   (hex)		Espressif Inc.
+8CFD49     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+4C-3C-8F   (hex)		Shenzhen Jingxun Technology Co., Ltd.
+4C3C8F     (base 16)		Shenzhen Jingxun Technology Co., Ltd.
+				3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District
+				Shenzhen    518071
+				CN
 
 BC-D7-67   (hex)		BAE Systems
 BCD767     (base 16)		BAE Systems
@@ -46172,11 +46136,59 @@ BCD767     (base 16)		BAE Systems
 				Sunnyvale  CA  94085
 				US
 
-4C-3C-8F   (hex)		Shenzhen Jingxun Technology Co., Ltd.
-4C3C8F     (base 16)		Shenzhen Jingxun Technology Co., Ltd.
-				3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District
-				Shenzhen    518071
-				CN
+C4-3D-C7   (hex)		NETGEAR
+C43DC7     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+4C-60-DE   (hex)		NETGEAR
+4C60DE     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+F8-10-37   (hex)		ENTOUCH Controls
+F81037     (base 16)		ENTOUCH Controls
+				681 N. Plano Road
+				Richardson  TX  75082
+				US
+
+08-BD-43   (hex)		NETGEAR
+08BD43     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+B0-7F-B9   (hex)		NETGEAR
+B07FB9     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+78-D2-94   (hex)		NETGEAR
+78D294     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+10-0C-6B   (hex)		NETGEAR
+100C6B     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+38-94-ED   (hex)		NETGEAR
+3894ED     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+9C-C9-EB   (hex)		NETGEAR
+9CC9EB     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -55184,12 +55196,6 @@ FCE14F     (base 16)		BRK Brands, Inc.
 				Qingdao  Shandong  266510
 				CN
 
-44-A5-6E   (hex)		NETGEAR
-44A56E     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 5C-27-D4   (hex)		Shenzhen Qihu Intelligent Technology Company Limited
 5C27D4     (base 16)		Shenzhen Qihu Intelligent Technology Company Limited
 				Room 201, Block A, No.1, Qianwan Road 1,Qianhai Shenzhen HongKong Modern Service Industry Cooperation Zone
@@ -57272,12 +57278,6 @@ BC3E07     (base 16)		Hitron Technologies. Inc
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 90-86-9B   (hex)		zte corporation
 90869B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -57811,12 +57811,6 @@ A81087     (base 16)		Texas Instruments
 				6 building, No. 2, Xingguang three road
 				Yubei District  Chongqing  401120
 				CN
-
-14-59-C0   (hex)		NETGEAR
-1459C0     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 00-04-0B   (hex)		3COM EUROPE LTD
 00040B     (base 16)		3COM EUROPE LTD
@@ -59150,12 +59144,6 @@ BCFFEB     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Qingdao  Shandong  266101
 				CN
 
-CC-40-D0   (hex)		NETGEAR
-CC40D0     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 7C-76-30   (hex)		Shenzhen YOUHUA Technology Co., Ltd
 7C7630     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
@@ -60386,12 +60374,6 @@ F80BCB     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-08-02-8E   (hex)		NETGEAR
-08028E     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 B4-7C-9C   (hex)		Amazon Technologies Inc.
 B47C9C     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
@@ -61050,12 +61032,6 @@ F4CAE5     (base 16)		FREEBOX SAS
 0038DF     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
-				US
-
-9C-3D-CF   (hex)		NETGEAR
-9C3DCF     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
 				US
 
 40-F4-13   (hex)		Rubezh
@@ -63512,56 +63488,14 @@ E0CA94     (base 16)		ASKEY COMPUTER CORP
 				TAIWAN  TAIPEI  235
 				TW
 
-C4-04-15   (hex)		NETGEAR
-C40415     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-E8-FC-AF   (hex)		NETGEAR
-E8FCAF     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 84-1B-5E   (hex)		NETGEAR
 841B5E     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
 
-2C-B0-5D   (hex)		NETGEAR
-2CB05D     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-A0-21-B7   (hex)		NETGEAR
-A021B7     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 C0-FF-D4   (hex)		NETGEAR
 C0FFD4     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-6C-B0-CE   (hex)		NETGEAR
-6CB0CE     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-8E-F2   (hex)		NETGEAR
-008EF2     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-9C-D3-6D   (hex)		NETGEAR
-9CD36D     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
@@ -63580,18 +63514,6 @@ C0FFD4     (base 16)		NETGEAR
 
 00-24-B2   (hex)		NETGEAR
 0024B2     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-1B-2F   (hex)		NETGEAR
-001B2F     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-1F-33   (hex)		NETGEAR
-001F33     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
@@ -91580,6 +91502,18 @@ ACA704     (base 16)		Espressif Inc.
 				Courbevoie    92400
 				FR
 
+00-1F-33   (hex)		NETGEAR
+001F33     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-1B-2F   (hex)		NETGEAR
+001B2F     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
 50-61-3F   (hex)		eero inc.
 50613F     (base 16)		eero inc.
 				660 3rd Street 
@@ -91591,6 +91525,90 @@ ACA704     (base 16)		Espressif Inc.
 				2/F, Building 1, No.60 Naxian Road,Pudong
 				Shanghai  Shanghai  201210
 				CN
+
+C4-04-15   (hex)		NETGEAR
+C40415     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+9C-D3-6D   (hex)		NETGEAR
+9CD36D     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-8E-F2   (hex)		NETGEAR
+008EF2     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+6C-B0-CE   (hex)		NETGEAR
+6CB0CE     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+9C-3D-CF   (hex)		NETGEAR
+9C3DCF     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+08-02-8E   (hex)		NETGEAR
+08028E     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+CC-40-D0   (hex)		NETGEAR
+CC40D0     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+14-59-C0   (hex)		NETGEAR
+1459C0     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+44-A5-6E   (hex)		NETGEAR
+44A56E     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+A0-21-B7   (hex)		NETGEAR
+A021B7     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+2C-B0-5D   (hex)		NETGEAR
+2CB05D     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+E8-FC-AF   (hex)		NETGEAR
+E8FCAF     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+4C-EF-E1   (hex)		Dynacon Sp. z o.o.
+4CEFE1     (base 16)		Dynacon Sp. z o.o.
+				Wrzosowa 2
+				Kąty Wrocławskie  dolnośląskie  55-080
+				PL
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -95396,12 +95414,6 @@ CC4792     (base 16)		ASIX Electronics Corporation
 				Hsinchu    30078
 				TW
 
-E0-46-EE   (hex)		NETGEAR
-E046EE     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 58-76-AC   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 5876AC     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -95833,12 +95845,6 @@ C89BD7     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city
 				Fuzhou  Fujian  350002
 				CN
-
-94-18-65   (hex)		NETGEAR
-941865     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 A8-58-7C   (hex)		Shoogee GmbH & Co. KG
 A8587C     (base 16)		Shoogee GmbH & Co. KG
@@ -105566,12 +105572,6 @@ A86B7C     (base 16)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
 				SHENZHEN  GUANGDONG  518057
 				CN
 
-B0-39-56   (hex)		NETGEAR
-B03956     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 B4-E6-2A   (hex)		LG Innotek
 B4E62A     (base 16)		LG Innotek
 				26, Hanamsandan 5beon-ro
@@ -109232,24 +109232,6 @@ D40129     (base 16)		Broadcom
 				Waterloo  Ontario  N2L 3W8
 				CA
 
-00-14-6C   (hex)		NETGEAR
-00146C     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-1E-2A   (hex)		NETGEAR
-001E2A     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-18-4D   (hex)		NETGEAR
-00184D     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 00-04-0E   (hex)		AVM GmbH
 00040E     (base 16)		AVM GmbH
 				Alt-Moabit 95
@@ -109268,18 +109250,6 @@ A06391     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-20-E5-2A   (hex)		NETGEAR
-20E52A     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-44-94-FC   (hex)		NETGEAR
-4494FC     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 20-0C-C8   (hex)		NETGEAR
 200CC8     (base 16)		NETGEAR
 				350 East Plumeria Drive
@@ -109291,18 +109261,6 @@ A06391     (base 16)		NETGEAR
 				17/F, Jiangong Building
 				Hangzhou  ZheJiang  310012
 				CN
-
-74-44-01   (hex)		NETGEAR
-744401     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-E0-91-F5   (hex)		NETGEAR
-E091F5     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 40-BA-61   (hex)		ARIMA Communications Corp.
 40BA61     (base 16)		ARIMA Communications Corp.
@@ -137228,6 +137186,66 @@ F0BC50     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
+00-18-4D   (hex)		NETGEAR
+00184D     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-1E-2A   (hex)		NETGEAR
+001E2A     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-14-6C   (hex)		NETGEAR
+00146C     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+E0-91-F5   (hex)		NETGEAR
+E091F5     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+74-44-01   (hex)		NETGEAR
+744401     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+44-94-FC   (hex)		NETGEAR
+4494FC     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+20-E5-2A   (hex)		NETGEAR
+20E52A     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+B0-39-56   (hex)		NETGEAR
+B03956     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+94-18-65   (hex)		NETGEAR
+941865     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+E0-46-EE   (hex)		NETGEAR
+E046EE     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -139736,12 +139754,6 @@ B484D5     (base 16)		GooWi Wireless Technology Co., Limited
 				City Futian Shenzhen  Guangdong  518000
 				CN
 
-54-07-7D   (hex)		NETGEAR
-54077D     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 C4-53-79   (hex)		Micronview Limited Liability Company
 C45379     (base 16)		Micronview Limited Liability Company
 				700 LAVACA, STE 1401 AUSTIN?TX 787015
@@ -142124,12 +142136,6 @@ DC6294     (base 16)		Guangzhou Lango Electronics Technology Co.,Ltd.
 				Guangzhou  Guangdong  510336
 				CN
 
-34-98-B5   (hex)		NETGEAR
-3498B5     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 18-59-F5   (hex)		Cisco Systems, Inc
 1859F5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -143124,12 +143130,6 @@ EC-08-E5   (hex)		Motorola Mobility LLC, a Lenovo Company
 EC08E5     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
-				US
-
-80-CC-9C   (hex)		NETGEAR
-80CC9C     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
 				US
 
 28-0F-EB   (hex)		LG Innotek
@@ -144331,12 +144331,6 @@ A8F766     (base 16)		ITE Tech Inc
 				No.6-6,Yan Shan Rd.,Baoan District,Shenzhen City,China
 				Shenzhen  Guangdong  518105
 				CN
-
-94-A6-7E   (hex)		NETGEAR
-94A67E     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 FC-D4-36   (hex)		Motorola Mobility LLC, a Lenovo Company
 FCD436     (base 16)		Motorola Mobility LLC, a Lenovo Company
@@ -146858,12 +146852,6 @@ D4772B     (base 16)		Nanjing Ztlink Network Technology Co.,Ltd
 				UNION CITY  CA  94587
 				US
 
-BC-A5-11   (hex)		NETGEAR
-BCA511     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 F8-C4-F3   (hex)		Shanghai Infinity Wireless Technologies Co.,Ltd.
 F8C4F3     (base 16)		Shanghai Infinity Wireless Technologies Co.,Ltd.
 				Room 522, Building A, No.1687 Changyang Road, Yangpu District, Shanghai
@@ -148573,12 +148561,6 @@ B4F949     (base 16)		optilink networks pvt ltd
 				501/502, sanjona complex, hemu kalani marg, chembur
 				mumbai  maharashtra  400071
 				IN
-
-3C-37-86   (hex)		NETGEAR
-3C3786     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 A4-A1-E4   (hex)		Innotube, Inc.
 A4A1E4     (base 16)		Innotube, Inc.
@@ -152672,12 +152654,6 @@ C4F5A5     (base 16)		Kumalift Co., Ltd.
 				Ibaraki  Osaka  567-0085
 				JP
 
-A0-04-60   (hex)		NETGEAR
-A00460     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 98-84-E3   (hex)		Texas Instruments
 9884E3     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -154454,29 +154430,11 @@ FCB4E6     (base 16)		ASKEY COMPUTER CORP
 				San Jose  CA  95134
 				US
 
-50-4A-6E   (hex)		NETGEAR
-504A6E     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-E0-46-9A   (hex)		NETGEAR
-E0469A     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 40-6F-2A   (hex)		BlackBerry RTS
 406F2A     (base 16)		BlackBerry RTS
 				295 Phillip Street
 				Waterloo  Ontario  N2V 2S7
 				CA
-
-30-46-9A   (hex)		NETGEAR
-30469A     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 04-E6-76   (hex)		AMPAK Technology, Inc.
 04E676     (base 16)		AMPAK Technology, Inc.
@@ -155275,12 +155233,6 @@ F4FC32     (base 16)		Texas Instruments
 				15/F Bldg 1·Dezhong Plaza Torch Development Zone Zhongshan·Guangdong
 				ZhongShan  GuangDong  528437
 				CN
-
-2C-30-33   (hex)		NETGEAR
-2C3033     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 BC-44-34   (hex)		Shenzhen TINNO Mobile Technology Corp.
 BC4434     (base 16)		Shenzhen TINNO Mobile Technology Corp.
@@ -183431,11 +183383,11 @@ DC44B1     (base 16)		Hilti Corporation
 				Schaan    9494
 				LI
 
-80-9F-E4   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
-809FE4     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
-				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
-				Shenzhen    518052
-				CN
+F4-52-5B   (hex)		Antare Technology Ltd
+F4525B     (base 16)		Antare Technology Ltd
+				7 Bell Yard
+				London    WC2A 2JR
+				GB
 
 34-EF-8B   (hex)		NTT DOCOMO BUSINESS, Inc.
 34EF8B     (base 16)		NTT DOCOMO BUSINESS, Inc.
@@ -183449,11 +183401,89 @@ E0A366     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Chicago  IL  60654
 				US
 
-F4-52-5B   (hex)		Antare Technology Ltd
-F4525B     (base 16)		Antare Technology Ltd
-				7 Bell Yard
-				London    WC2A 2JR
-				GB
+80-9F-E4   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+809FE4     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				Shenzhen    518052
+				CN
+
+38-44-BE   (hex)		Espressif Inc.
+3844BE     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+30-46-9A   (hex)		NETGEAR
+30469A     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+E0-46-9A   (hex)		NETGEAR
+E0469A     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+A0-04-60   (hex)		NETGEAR
+A00460     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+2C-30-33   (hex)		NETGEAR
+2C3033     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+50-4A-6E   (hex)		NETGEAR
+504A6E     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+3C-37-86   (hex)		NETGEAR
+3C3786     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+BC-A5-11   (hex)		NETGEAR
+BCA511     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+94-A6-7E   (hex)		NETGEAR
+94A67E     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+80-CC-9C   (hex)		NETGEAR
+80CC9C     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+34-98-B5   (hex)		NETGEAR
+3498B5     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+54-07-7D   (hex)		NETGEAR
+54077D     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+E8-97-44   (hex)		LCFC(Hefei) Electronics Technology co., ltd
+E89744     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
+				No. 3188-1 Yungu Road (Comprehensive Bonded Zone), Hefei Economic & Technological Development Area，Anhui
+				HEFEI  ANHUI  230601
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -190304,12 +190334,6 @@ A062FB     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
 				Peterborough  Ontario  K9J 6X7
 				CA
 
-6C-CD-D6   (hex)		NETGEAR
-6CCDD6     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 54-07-64   (hex)		Huawei Device Co., Ltd.
 540764     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -193723,12 +193747,6 @@ A8A159     (base 16)		ASRock Incorporation
 				1, Gwanak-ro, Gwanak-gu
 				Seoul    08826
 				KR
-
-08-36-C9   (hex)		NETGEAR
-0836C9     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 CC-DC-55   (hex)		Dragonchip Limited
 CCDC55     (base 16)		Dragonchip Limited
@@ -197273,12 +197291,6 @@ E0D55E     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
 				Pin-Jen  Taoyuan  324
 				TW
 
-A0-40-A0   (hex)		NETGEAR
-A040A0     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 00-A3-8E   (hex)		Cisco Systems, Inc
 00A38E     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -200456,12 +200468,6 @@ A4BF01     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-10-DA-43   (hex)		NETGEAR
-10DA43     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 B8-05-AB   (hex)		zte corporation
 B805AB     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -201146,30 +201152,6 @@ A4E4B8     (base 16)		BlackBerry RTS
 				Waterloo  Ontario  N2L 3W8
 				CA
 
-80-37-73   (hex)		NETGEAR
-803773     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-A4-2B-8C   (hex)		NETGEAR
-A42B8C     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-28-C6-8E   (hex)		NETGEAR
-28C68E     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-04-A1-51   (hex)		NETGEAR
-04A151     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 F8-73-94   (hex)		NETGEAR
 F87394     (base 16)		NETGEAR
 				350 East Plumeria Drive
@@ -201178,18 +201160,6 @@ F87394     (base 16)		NETGEAR
 
 20-4E-7F   (hex)		NETGEAR
 204E7F     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-C0-3F-0E   (hex)		NETGEAR
-C03F0E     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-26-F2   (hex)		NETGEAR
-0026F2     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
@@ -201205,24 +201175,6 @@ C03F0E     (base 16)		NETGEAR
 				Unit No.1,12/F.,Perfect Industrial Building,31 Tai Yau Street, San Po Kong, Kowloon, Hong Kong 999077
 				Kowloon    999077
 				HK
-
-00-22-3F   (hex)		NETGEAR
-00223F     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-0F-B5   (hex)		NETGEAR
-000FB5     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-00-09-5B   (hex)		NETGEAR
-00095B     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 00-1A-4F   (hex)		AVM GmbH
 001A4F     (base 16)		AVM GmbH
@@ -205051,12 +205003,6 @@ C03D46     (base 16)		Shanghai Sango Network Technology Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
-
-E4-F4-C6   (hex)		NETGEAR
-E4F4C6     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
 
 90-AE-1B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 90AE1B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -225599,12 +225545,6 @@ DC1ED5     (base 16)		Espressif Inc.
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-E0-C2-50   (hex)		NETGEAR
-E0C250     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 98-C9-7C   (hex)		Shenzhen iComm Semiconductor CO.,LTD
 98C97C     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
 				Room204,scientific research building,Tsinghua Hi-Tech Park,No.13 Langshan Road,Nanshan District
@@ -227513,12 +227453,6 @@ A84616     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-C8-10-2F   (hex)		NETGEAR
-C8102F     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 A4-C7-88   (hex)		Xiaomi Communications Co Ltd
 A4C788     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
@@ -229148,10 +229082,10 @@ E8F6D7     (base 16)		IEEE Registration Authority
 				Qingdao    266101
 				CN
 
-0C-71-65   (hex)		Motorola Mobility LLC, a Lenovo Company
-0C7165     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
+68-15-79   (hex)		BrosTrend Technology LLC
+681579     (base 16)		BrosTrend Technology LLC
+				8 The Green, Suite A
+				Dover  DE  19901
 				US
 
 FC-DB-21   (hex)		SAMSARA NETWORKS INC
@@ -229166,8 +229100,104 @@ DC83BF     (base 16)		Seiko Epson Corporation
 				Matsumoto-shi  Nagano-ken  399-8702
 				JP
 
-68-15-79   (hex)		BrosTrend Technology LLC
-681579     (base 16)		BrosTrend Technology LLC
-				8 The Green, Suite A
-				Dover  DE  19901
+E4-F4-C6   (hex)		NETGEAR
+E4F4C6     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-09-5B   (hex)		NETGEAR
+00095B     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-0F-B5   (hex)		NETGEAR
+000FB5     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-22-3F   (hex)		NETGEAR
+00223F     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+00-26-F2   (hex)		NETGEAR
+0026F2     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+04-A1-51   (hex)		NETGEAR
+04A151     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+28-C6-8E   (hex)		NETGEAR
+28C68E     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+A4-2B-8C   (hex)		NETGEAR
+A42B8C     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+80-37-73   (hex)		NETGEAR
+803773     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+0C-71-65   (hex)		Motorola Mobility LLC, a Lenovo Company
+0C7165     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+C0-3F-0E   (hex)		NETGEAR
+C03F0E     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+10-DA-43   (hex)		NETGEAR
+10DA43     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+A0-40-A0   (hex)		NETGEAR
+A040A0     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+08-36-C9   (hex)		NETGEAR
+0836C9     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+6C-CD-D6   (hex)		NETGEAR
+6CCDD6     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+E0-C2-50   (hex)		NETGEAR
+E0C250     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+C8-10-2F   (hex)		NETGEAR
+C8102F     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
 				US
