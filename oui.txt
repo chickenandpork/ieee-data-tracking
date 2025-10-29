@@ -91610,6 +91610,36 @@ E8FCAF     (base 16)		NETGEAR
 				Kąty Wrocławskie  dolnośląskie  55-080
 				PL
 
+50-AB-29   (hex)		Trackunit ApS
+50AB29     (base 16)		Trackunit ApS
+				Gasvaerksvej 24, 4. sal 
+				Aalborg    9000
+				DK
+
+18-24-39   (hex)		YIPPEE ELECTRONICS CP.,LIMITED
+182439     (base 16)		YIPPEE ELECTRONICS CP.,LIMITED
+				19H MAXGRAND PLAZA NO.3 TAI YAU STREET SAN PO KONG KL
+				香港    999077
+				CN
+
+3C-81-29   (hex)		Inheco Industrial Heating and Cooling GmbH
+3C8129     (base 16)		Inheco Industrial Heating and Cooling GmbH
+				Fraunhoferstraße 11
+				Planegg    82152
+				DE
+
+EC-A7-8D   (hex)		Cisco Systems, Inc
+ECA78D     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+FC-72-88   (hex)		Cisco Systems, Inc
+FC7288     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -137245,6 +137275,18 @@ E046EE     (base 16)		NETGEAR
 				3553 N. First Street
 				San Jose  CA  95134
 				US
+
+0C-F2-F5   (hex)		Sichuan AI-Link Technology Co., Ltd.
+0CF2F5     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
+
+D0-45-8D   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+D0458D     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183484,6 +183526,18 @@ E89744     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 				No. 3188-1 Yungu Road (Comprehensive Bonded Zone), Hefei Economic & Technological Development Area，Anhui
 				HEFEI  ANHUI  230601
 				CN
+
+60-A9-54   (hex)		Cisco Systems, Inc
+60A954     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+44-1A-5C   (hex)		Cisco Systems, Inc
+441A5C     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
