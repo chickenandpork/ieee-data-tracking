@@ -46190,6 +46190,18 @@ B07FB9     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
+44-FB-76   (hex)		vivo Mobile Communication Co., Ltd.
+44FB76     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+20-2B-DA   (hex)		IEEE Registration Authority
+202BDA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -91638,6 +91650,30 @@ FC-72-88   (hex)		Cisco Systems, Inc
 FC7288     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+88-29-85   (hex)		SZ DJI TECHNOLOGY CO.,LTD
+882985     (base 16)		SZ DJI TECHNOLOGY CO.,LTD
+				DJI Sky City, No55 Xianyuan Road, Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
+24-82-CA   (hex)		vivo Mobile Communication Co., Ltd.
+2482CA     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+38-33-C5   (hex)		Microsoft Corporation
+3833C5     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+90-1C-9E   (hex)		Alcatel-Lucent Enterprise
+901C9E     (base 16)		Alcatel-Lucent Enterprise
+				2000 Corporate Center Dr Suite A
+				Thousand Oaks    91320
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -137288,6 +137324,12 @@ D0458D     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				Shenzhen  Guangdong  518057
 				CN
 
+9C-24-10   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+9C2410     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -159586,12 +159628,6 @@ BC629F     (base 16)		Telenet Systems P. Ltd.
 				2 Mani Bhuvan, Cama Road
 				Mumbai  Maharashtra  400086
 				IN
-
-38-0F-E4   (hex)		Dedicated Network Partners Oy
-380FE4     (base 16)		Dedicated Network Partners Oy
-				Linnoitustie 6
-				Espoo  -  02600
-				FI
 
 84-7A-88   (hex)		HTC Corporation
 847A88     (base 16)		HTC Corporation
@@ -183538,6 +183574,18 @@ E89744     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+E4-1B-43   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+E41B43     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+38-0F-E4   (hex)		Dedicated Network Partners Oy
+380FE4     (base 16)		Dedicated Network Partners Oy
+				Valimotie 13a
+				Helsinki    00380 
+				FI
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -229255,3 +229303,9 @@ C8102F     (base 16)		NETGEAR
 				3553 N. First Street
 				San Jose  CA  95134
 				US
+
+CC-03-3D   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+CC033D     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
