@@ -91634,11 +91634,17 @@ E8FCAF     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-50-AB-29   (hex)		Trackunit ApS
-50AB29     (base 16)		Trackunit ApS
-				Gasvaerksvej 24, 4. sal 
-				Aalborg    9000
-				DK
+38-33-C5   (hex)		Microsoft Corporation
+3833C5     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+90-1C-9E   (hex)		Alcatel-Lucent Enterprise
+901C9E     (base 16)		Alcatel-Lucent Enterprise
+				2000 Corporate Center Dr Suite A
+				Thousand Oaks    91320
+				US
 
 18-24-39   (hex)		YIPPEE ELECTRONICS CP.,LIMITED
 182439     (base 16)		YIPPEE ELECTRONICS CP.,LIMITED
@@ -91651,6 +91657,18 @@ E8FCAF     (base 16)		NETGEAR
 				Fraunhoferstraße 11
 				Planegg    82152
 				DE
+
+50-AB-29   (hex)		Trackunit ApS
+50AB29     (base 16)		Trackunit ApS
+				Gasvaerksvej 24, 4. sal 
+				Aalborg    9000
+				DK
+
+A4-2A-26   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+A42A26     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
 
 EC-A7-8D   (hex)		Cisco Systems, Inc
 ECA78D     (base 16)		Cisco Systems, Inc
@@ -91676,29 +91694,17 @@ FC7288     (base 16)		Cisco Systems, Inc
 				Dongguan  Guangdong  523860
 				CN
 
-38-33-C5   (hex)		Microsoft Corporation
-3833C5     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND  WA  98052
-				US
-
-90-1C-9E   (hex)		Alcatel-Lucent Enterprise
-901C9E     (base 16)		Alcatel-Lucent Enterprise
-				2000 Corporate Center Dr Suite A
-				Thousand Oaks    91320
-				US
-
-A4-2A-26   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-A42A26     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-				Midea Global Innovation Center,Beijiao Town,Shunde
-				Foshan  Guangdong  528311
-				CN
-
 74-08-AA   (hex)		Ruijie Networks Co.,LTD
 7408AA     (base 16)		Ruijie Networks Co.,LTD
 				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
 				Fuzhou    35000
 				CN
+
+50-E0-F9   (hex)		GE Vernova
+50E0F9     (base 16)		GE Vernova
+				1800 Nelson Rd
+				Longmont  CO  80501
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137358,6 +137364,12 @@ D8-E3-74   (hex)		Xiaomi Communications Co Ltd
 D8E374     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
+				CN
+
+3C-1A-CC   (hex)		Quectel Wireless Solutions Co.,Ltd.
+3C1ACC     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -183629,6 +183641,12 @@ F0ED51     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 				Qingdao  Shangdong  266510
 				CN
 
+44-65-8A   (hex)		Dukelana LLC
+44658A     (base 16)		Dukelana LLC
+				2945 Bell Rd #365
+				Auburn  CA  95603
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -229310,6 +229328,42 @@ C03F0E     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
+3C-EF-A5   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+3CEFA5     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+04-17-4C   (hex)		Nanjing SCIYON Wisdom Technology Group Co.,Ltd.
+04174C     (base 16)		Nanjing SCIYON Wisdom Technology Group Co.,Ltd.
+				No. 1266 Qingshuiting East Road, Jiangning District Nanjing
+				Nanjing    211800
+				CN
+
+CC-03-3D   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+CC033D     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+50-31-23   (hex)		FN-LINK TECHNOLOGY Ltd.
+503123     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
+E0-C2-50   (hex)		NETGEAR
+E0C250     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+C8-10-2F   (hex)		NETGEAR
+C8102F     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
 10-DA-43   (hex)		NETGEAR
 10DA43     (base 16)		NETGEAR
 				3553 N. First Street
@@ -229333,27 +229387,3 @@ A040A0     (base 16)		NETGEAR
 				3553 N. First Street
 				San Jose  CA  95134
 				US
-
-E0-C2-50   (hex)		NETGEAR
-E0C250     (base 16)		NETGEAR
-				3553 N. First Street
-				San Jose  CA  95134
-				US
-
-C8-10-2F   (hex)		NETGEAR
-C8102F     (base 16)		NETGEAR
-				3553 N. First Street
-				San Jose  CA  95134
-				US
-
-CC-03-3D   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-CC033D     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
-				CN
-
-04-17-4C   (hex)		Nanjing SCIYON Wisdom Technology Group Co.,Ltd.
-04174C     (base 16)		Nanjing SCIYON Wisdom Technology Group Co.,Ltd.
-				No. 1266 Qingshuiting East Road, Jiangning District Nanjing
-				Nanjing    211800
-				CN
