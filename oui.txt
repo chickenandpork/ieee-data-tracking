@@ -46214,6 +46214,36 @@ E0B9E5     (base 16)		Vantiva Technologies Belgium
 				Edegem - Belgium    B-2650
 				BE
 
+A0-55-2E   (hex)		zte corporation
+A0552E     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+A0-9A-0C   (hex)		Honor Device Co., Ltd.
+A09A0C     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+C0-57-24   (hex)		Honor Device Co., Ltd.
+C05724     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+28-EA-5B   (hex)		SAMSARA NETWORKS INC
+28EA5B     (base 16)		SAMSARA NETWORKS INC
+				525 York St
+				San Francisco  CA  94110
+				US
+
+44-9B-C6   (hex)		EOSS s.r.l.
+449BC6     (base 16)		EOSS s.r.l.
+				Via Chiese 6
+				Milan    IT20126
+				IT
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -91717,6 +91747,12 @@ A0B53C     (base 16)		Vantiva Technologies Belgium
 				Prins Boudewijnlaan 47
 				Edegem - Belgium    B-2650
 				BE
+
+64-EB-94   (hex)		zte corporation
+64EB94     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137348,16 +137384,16 @@ B03956     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-D8-E3-74   (hex)		Xiaomi Communications Co Ltd
-D8E374     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
-
 3C-1A-CC   (hex)		Quectel Wireless Solutions Co.,Ltd.
 3C1ACC     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
+				CN
+
+38-FB-A0   (hex)		Shenzhen Baseus Technology CoLtd
+38FBA0     (base 16)		Shenzhen Baseus Technology CoLtd
+				2nd Floor, Building B, Baseus Intelligence Park, No.2008, Xuegang Rd,Gangtou Community,Bantian Street, Longgang District
+				Shenzhen    518172
 				CN
 
 A4-B2-56   (hex)		Shenzhen Incar Technology Co., Ltd.
@@ -137365,18 +137401,6 @@ A4B256     (base 16)		Shenzhen Incar Technology Co., Ltd.
 				18th Floor, Zhongxi ECO Building, Shuiku Road, Xixiang Street, Bao'an District,
 				Shenzhen City  Guangdong Province  518102
 				CN
-
-60-3F-FB   (hex)		Telink Micro LLC
-603FFB     (base 16)		Telink Micro LLC
-				2975 Scott Blvd #120
-				Santa Clara    95054
-				US
-
-D8-78-F0   (hex)		Silicon Laboratories
-D878F0     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
 
 58-98-35   (hex)		Vantiva Technologies Belgium
 589835     (base 16)		Vantiva Technologies Belgium
@@ -137396,11 +137420,35 @@ A491B1     (base 16)		Vantiva Technologies Belgium
 				Edegem - Belgium    B-2650
 				BE
 
+D8-E3-74   (hex)		Xiaomi Communications Co Ltd
+D8E374     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+D8-78-F0   (hex)		Silicon Laboratories
+D878F0     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 D4-35-1D   (hex)		Vantiva Technologies Belgium
 D4351D     (base 16)		Vantiva Technologies Belgium
 				Prins Boudewijnlaan 47
 				Edegem - Belgium    B-2650
 				BE
+
+60-3F-FB   (hex)		Telink Micro LLC
+603FFB     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara    95054
+				US
+
+2C-2F-F4   (hex)		eero inc.
+2C2FF4     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183683,6 +183731,12 @@ A4B1E9     (base 16)		Vantiva Technologies Belgium
 				Edegem - Belgium    B-2650
 				BE
 
+68-2A-DD   (hex)		zte corporation
+682ADD     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -229435,3 +229489,9 @@ D4925E     (base 16)		Vantiva Technologies Belgium
 				Prins Boudewijnlaan 47
 				Edegem - Belgium    B-2650
 				BE
+
+40-0A-E7   (hex)		BSH Hausgeräte GmbH
+400AE7     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B35
+				Regensburg  Bayern  93059
+				DE
