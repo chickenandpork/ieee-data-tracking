@@ -137462,6 +137462,24 @@ D4351D     (base 16)		Vantiva Technologies Belgium
 				Qingdao  Shandong  266510
 				CN
 
+AC-EA-70   (hex)		ZUNDA Inc.
+ACEA70     (base 16)		ZUNDA Inc.
+				3/F Kamon Bldg, Shibuya 2-6-11
+				Shibuya-ku  Tokyo  150-0002
+				JP
+
+20-E1-5D   (hex)		TP-Link Systems Inc.
+20E15D     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+1C-04-60   (hex)		NXP Semiconductors Taiwan Ltd.
+1C0460     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -183755,6 +183773,12 @@ A4B1E9     (base 16)		Vantiva Technologies Belgium
 				Edegem - Belgium    B-2650
 				BE
 
+F4-64-B6   (hex)		Sercomm Corporation.
+F464B6     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -229519,3 +229543,9 @@ D4925E     (base 16)		Vantiva Technologies Belgium
 				Prins Boudewijnlaan 47
 				Edegem - Belgium    B-2650
 				BE
+
+AC-A7-F1   (hex)		TP-Link Systems Inc.
+ACA7F1     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
