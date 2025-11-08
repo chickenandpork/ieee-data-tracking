@@ -46184,42 +46184,6 @@ C43DC7     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-80-8F-97   (hex)		Xiaomi Communications Co Ltd
-808F97     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
-
-4C-E2-0F   (hex)		Xiaomi Communications Co Ltd
-4CE20F     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
-
-9C-97-26   (hex)		Vantiva Technologies Belgium
-9C9726     (base 16)		Vantiva Technologies Belgium
-				Prins Boudewijnlaan 47
-				Edegem - Belgium    B-2650
-				BE
-
-30-91-8F   (hex)		Vantiva Technologies Belgium
-30918F     (base 16)		Vantiva Technologies Belgium
-				Prins Boudewijnlaan 47
-				Edegem - Belgium    B-2650
-				BE
-
-E0-B9-E5   (hex)		Vantiva Technologies Belgium
-E0B9E5     (base 16)		Vantiva Technologies Belgium
-				Prins Boudewijnlaan 47
-				Edegem - Belgium    B-2650
-				BE
-
-A0-55-2E   (hex)		zte corporation
-A0552E     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 A0-9A-0C   (hex)		Honor Device Co., Ltd.
 A09A0C     (base 16)		Honor Device Co., Ltd.
 				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
@@ -46244,10 +46208,76 @@ C05724     (base 16)		Honor Device Co., Ltd.
 				Milan    IT20126
 				IT
 
+80-8F-97   (hex)		Xiaomi Communications Co Ltd
+808F97     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+4C-E2-0F   (hex)		Xiaomi Communications Co Ltd
+4CE20F     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
 C4-CD-50   (hex)		Shenzhen C-Data Technology Co., Ltd.
 C4CD50     (base 16)		Shenzhen C-Data Technology Co., Ltd.
 				#201, Building A4, Nanshan Zhiyuan, No.1001, Xueyuan Avenue, Changyuan Community,Taoyuan,Nanshan
 				Shenzhen  Guangdong  518055
+				CN
+
+9C-97-26   (hex)		Vantiva Technologies Belgium
+9C9726     (base 16)		Vantiva Technologies Belgium
+				Prins Boudewijnlaan 47
+				Edegem - Belgium    B-2650
+				BE
+
+30-91-8F   (hex)		Vantiva Technologies Belgium
+30918F     (base 16)		Vantiva Technologies Belgium
+				Prins Boudewijnlaan 47
+				Edegem - Belgium    B-2650
+				BE
+
+E0-B9-E5   (hex)		Vantiva Technologies Belgium
+E0B9E5     (base 16)		Vantiva Technologies Belgium
+				Prins Boudewijnlaan 47
+				Edegem - Belgium    B-2650
+				BE
+
+AC-8A-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC8AC7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+18-B6-57   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18B657     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+24-DB-94   (hex)		Juniper Networks
+24DB94     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+80-13-BE   (hex)		Juniper Networks
+8013BE     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+A0-55-2E   (hex)		zte corporation
+A0552E     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+DC-04-5A   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+DC045A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
 				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -91758,6 +91788,18 @@ A0B53C     (base 16)		Vantiva Technologies Belgium
 64EB94     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen   guangdong  518057
+				CN
+
+1C-70-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C7055     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+60-B7-05   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+60B705     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -137479,6 +137521,12 @@ ACEA70     (base 16)		ZUNDA Inc.
 				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
 				Nanzi Dist.  Kaohsiung  811643
 				TW
+
+98-53-5F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+98535F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183779,6 +183827,30 @@ F464B6     (base 16)		Sercomm Corporation.
 				Miao-Lih Hsuan    115
 				TW
 
+9C-DF-8A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9CDF8A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+FC-A2-7E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCA27E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+94-5A-EA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+945AEA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+74-8D-AA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+748DAA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -229549,3 +229621,15 @@ ACA7F1     (base 16)		TP-Link Systems Inc.
 				10 Mauchly
 				 Irvine  CA  92618
 				US
+
+10-88-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1088D3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-5E-BC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+145EBC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
