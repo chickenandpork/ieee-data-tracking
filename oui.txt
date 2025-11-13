@@ -46286,6 +46286,24 @@ DC045A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				Redmond  WA  98052
 				US
 
+54-AE-BC   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
+54AEBC     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
+				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
+				ShenZhen    518100
+				CN
+
+5C-F5-3A   (hex)		Zhongge Smart Technology(Shanghai) Co., Ltd
+5CF53A     (base 16)		Zhongge Smart Technology(Shanghai) Co., Ltd
+				5F Tower G WEST LINK, No. 2337 Gudai Road, Minhang District, Shanghai, China 
+				Shanghai  Shanghai  201100
+				CN
+
+14-4C-FF   (hex)		Grandstream Networks, Inc.
+144CFF     (base 16)		Grandstream Networks, Inc.
+				1297 Beacon Street
+				Brookline  MA  02446
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -91813,6 +91831,12 @@ A0B53C     (base 16)		Vantiva Technologies Belgium
 				4F, No. 16, Zhongxin St., Shulin Dist.
 				New Taipei City    238035
 				TW
+
+C8-E7-13   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+C8E713     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137545,6 +137569,18 @@ ECC07A     (base 16)		Ezurio, LLC
 				3F.-1, No.145, Xianzheng 9th Rd.,
 				Zhubei    30251
 				TW
+
+00-7A-A4   (hex)		FRITZ! Technology GmbH
+007AA4     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+20-B8-3D   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
+20B83D     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
+				No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway
+				Huizhou  Guangdong  516025
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -229622,24 +229658,6 @@ BCD9FB     (base 16)		China Mobile Group Device Co.,Ltd.
 				Regensburg  Bayern  93059
 				DE
 
-AC-A7-F1   (hex)		TP-Link Systems Inc.
-ACA7F1     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
-10-88-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-1088D3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-14-5E-BC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-145EBC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 20-0E-0F   (hex)		Panasonic Marketing Middle East & Africa FZE
 200E0F     (base 16)		Panasonic Marketing Middle East & Africa FZE
 				P.O Box 17985 Jebel Ali
@@ -229658,14 +229676,38 @@ D8031A     (base 16)		Ezurio, LLC
 				Zhubei    30251
 				TW
 
-18-C2-93   (hex)		Ezurio, LLC
-18C293     (base 16)		Ezurio, LLC
-				3F.-1, No.145, Xianzheng 9th Rd.,
-				Zhubei    30251
-				TW
-
 88-F9-C0   (hex)		KTS Kommunikationstechnik und Systeme GmbH
 88F9C0     (base 16)		KTS Kommunikationstechnik und Systeme GmbH
 				Schlossstrasse 123
 				Moenchengladbach  NRW  41238
 				DE
+
+10-88-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1088D3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-5E-BC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+145EBC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+AC-A7-F1   (hex)		TP-Link Systems Inc.
+ACA7F1     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+E4-01-77   (hex)		SafeOwl, Inc.
+E40177     (base 16)		SafeOwl, Inc.
+				8350 N. Central Expwy #1150
+				Dallas  TX  75206
+				US
+
+18-C2-93   (hex)		Ezurio, LLC
+18C293     (base 16)		Ezurio, LLC
+				3F.-1, No.145, Xianzheng 9th Rd.,
+				Zhubei    30251
+				TW
