@@ -23687,12 +23687,6 @@ B0D2F5     (base 16)		Vello Systems, Inc.
 				Menlo Park  California  94025
 				US
 
-B0-43-5D   (hex)		NuLEDs, Inc.
-B0435D     (base 16)		NuLEDs, Inc.
-				1497 Poinsettia Ave.
-				Vista  CA  92081
-				US
-
 08-08-EA   (hex)		AMSC
 0808EA     (base 16)		AMSC
 				15775 W Schaefer Court
@@ -46280,12 +46274,6 @@ DC045A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				Hsinchu City  Hsinchu  30071
 				TW
 
-24-F2-DD   (hex)		Radiant Vision Systems, LLC
-24F2DD     (base 16)		Radiant Vision Systems, LLC
-				18640 NE 67th Ct.
-				Redmond  WA  98052
-				US
-
 54-AE-BC   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
 54AEBC     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
 				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
@@ -46302,6 +46290,54 @@ DC045A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 144CFF     (base 16)		Grandstream Networks, Inc.
 				1297 Beacon Street
 				Brookline  MA  02446
+				US
+
+EC-E9-D2   (hex)		Apple, Inc.
+ECE9D2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+48-E1-CA   (hex)		Apple, Inc.
+48E1CA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C8-80-6D   (hex)		Apple, Inc.
+C8806D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-CF-7D   (hex)		Apple, Inc.
+98CF7D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-29-59   (hex)		Apple, Inc.
+742959     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+04-C9-DE   (hex)		Qingdao HaierTechnology Co.,Ltd
+04C9DE     (base 16)		Qingdao HaierTechnology Co.,Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
+
+24-F2-DD   (hex)		Radiant Vision Systems, LLC
+24F2DD     (base 16)		Radiant Vision Systems, LLC
+				18640 NE 67th Ct.
+				Redmond  WA  98052
+				US
+
+B0-43-5D   (hex)		MechoShade
+B0435D     (base 16)		MechoShade
+				1497 Poinsettia Ave.
+				Vista  CA  92081
 				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -91837,6 +91873,30 @@ C8E713     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
 				CN
+
+58-76-07   (hex)		IEEE Registration Authority
+587607     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+1C-8E-2A   (hex)		Apple, Inc.
+1C8E2A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+30-0E-43   (hex)		Apple, Inc.
+300E43     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-3F-8E   (hex)		Apple, Inc.
+743F8E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137581,6 +137641,24 @@ ECC07A     (base 16)		Ezurio, LLC
 				No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway
 				Huizhou  Guangdong  516025
 				CN
+
+24-53-ED   (hex)		Dell Inc.
+2453ED     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
+24-55-9A   (hex)		Apple, Inc.
+24559A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+4C-E6-50   (hex)		Apple, Inc.
+4CE650     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -183869,11 +183947,11 @@ A4B1E9     (base 16)		Vantiva Technologies Belgium
 				Edegem - Belgium    B-2650
 				BE
 
-F4-64-B6   (hex)		Sercomm Corporation.
-F464B6     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
+64-F6-4D   (hex)		CELESTICA INC.
+64F64D     (base 16)		CELESTICA INC.
+				1900-5140 Yonge Street PO Box 42   
+				Toronto  Ontario  M2N 6L7
+				CA
 
 9C-DF-8A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 9CDF8A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -183899,22 +183977,70 @@ FCA27E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+48-FC-7C   (hex)		Shenzhen Huidu Technology Co., Ltd.
+48FC7C     (base 16)		Shenzhen Huidu Technology Co., Ltd.
+				18F, No. 196 Tangtou Street, Shiyan Town, Baoan District, Shenzhen
+				Shenzhen    518000
+				CN
+
+F4-64-B6   (hex)		Sercomm Corporation.
+F464B6     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+74-14-D0   (hex)		Apple, Inc.
+7414D0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 C0-EE-40   (hex)		Ezurio, LLC
 C0EE40     (base 16)		Ezurio, LLC
 				50 South Main St
 				Akron    44308
 				US
 
-64-F6-4D   (hex)		CELESTICA INC.
-64F64D     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
+3C-FB-02   (hex)		Apple, Inc.
+3CFB02     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
-48-FC-7C   (hex)		Shenzhen Huidu Technology Co., Ltd.
-48FC7C     (base 16)		Shenzhen Huidu Technology Co., Ltd.
-				18F, No. 196 Tangtou Street, Shiyan Town, Baoan District, Shenzhen
-				Shenzhen    518000
+90-35-A2   (hex)		Apple, Inc.
+9035A2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+04-B5-B2   (hex)		Apple, Inc.
+04B5B2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F4-78-AC   (hex)		Apple, Inc.
+F478AC     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-92-35   (hex)		Apple, Inc.
+009235     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F0-2F-BA   (hex)		Apple, Inc.
+F02FBA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E4-CE-58   (hex)		Anhui Realloong Automotive Electronics Co.,Ltd
+E4CE58     (base 16)		Anhui Realloong Automotive Electronics Co.,Ltd
+				Anhui Realloong Automotive Electronics Co.,Ltd
+				Hefei  Anhui  230088
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -229711,3 +229837,21 @@ E40177     (base 16)		SafeOwl, Inc.
 				3F.-1, No.145, Xianzheng 9th Rd.,
 				Zhubei    30251
 				TW
+
+FC-88-27   (hex)		Apple, Inc.
+FC8827     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+04-34-CF   (hex)		Apple, Inc.
+0434CF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-DE-18   (hex)		Apple, Inc.
+60DE18     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
