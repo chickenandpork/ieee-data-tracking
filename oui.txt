@@ -46448,6 +46448,24 @@ D098B1     (base 16)		GScoolink Microelectronics (Beijing) Co.,LTD
 				Beijing  Beijing  100193
 				CN
 
+70-3A-8C   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+703A8C     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
+18-6C-60   (hex)		Jifeline Networks B.V.
+186C60     (base 16)		Jifeline Networks B.V.
+				Zweihaak 1
+				Werkendam    4251 LT
+				NL
+
+08-71-1C   (hex)		Cisco Meraki
+08711C     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92095,6 +92113,18 @@ B46415     (base 16)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 				No.289, Sinhu 3rd Rd., Neihu District, 
 				Taipei City     114
 				TW
+
+14-20-04   (hex)		zte corporation
+142004     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+B4-72-D4   (hex)		zte corporation
+B472D4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -137894,30 +137924,6 @@ B082E2     (base 16)		ASUSTek COMPUTER INC.
 				Cupertino  CA  95014
 				US
 
-6C-68-A4   (hex)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
-6C68A4     (base 16)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
-				13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District
-				Guangzhou  Guangdong  510663
-				CN
-
-90-C9-52   (hex)		Durin, Inc
-90C952     (base 16)		Durin, Inc
-				440 N Wolfe Rd
-				Sunnyvale  CA  94085
-				US
-
-A0-FD-D9   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
-A0FDD9     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
-				No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway
-				Huizhou  Guangdong  516025
-				CN
-
-BC-2B-1E   (hex)		Cresyn Co., Ltd.
-BC2B1E     (base 16)		Cresyn Co., Ltd.
-				CRESYN B/D, Gangnam-daero 107-gil, Seocho-gu, Seoul
-				Seoul  CRESYN B/D, Gangnam-daero 107-gil  06254
-				KR
-
 EC-1A-C3   (hex)		Ugreen Group Limited
 EC1AC3     (base 16)		Ugreen Group Limited
 				4F, Plant 6, 1F-6/F, Block 7, YuAn Zone, Gaofeng Community, Dalang Street, Longhua District
@@ -137936,11 +137942,53 @@ BCBCCA     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+A0-FD-D9   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
+A0FDD9     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
+				No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway
+				Huizhou  Guangdong  516025
+				CN
+
+BC-2B-1E   (hex)		Cresyn Co., Ltd.
+BC2B1E     (base 16)		Cresyn Co., Ltd.
+				CRESYN B/D, Gangnam-daero 107-gil, Seocho-gu, Seoul
+				Seoul  CRESYN B/D, Gangnam-daero 107-gil  06254
+				KR
+
+6C-68-A4   (hex)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+6C68A4     (base 16)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+				13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District
+				Guangzhou  Guangdong  510663
+				CN
+
 A4-C0-B0   (hex)		Drivenets
 A4C0B0     (base 16)		Drivenets
 				1st Zarhin St.
 				Raanana  Israel  4366235
 				IL
+
+90-C9-52   (hex)		Durin, Inc
+90C952     (base 16)		Durin, Inc
+				440 N Wolfe Rd
+				Sunnyvale  CA  94085
+				US
+
+B8-64-68   (hex)		BBSakura Networks, Inc.
+B86468     (base 16)		BBSakura Networks, Inc.
+				Sumitomo Fudosan Nishishinjuku Building, 7-20-1 Nishi-shinjuku
+				Shinjuku-ku  Tokyo  160-0023
+				JP
+
+08-6A-0B   (hex)		Cisco Meraki
+086A0B     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+C8-63-40   (hex)		Cisco Meraki
+C86340     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -184376,18 +184424,6 @@ CC7645     (base 16)		Microsoft Corporation
 				Singapore    068902
 				SG
 
-64-A3-37   (hex)		Garmin International
-64A337     (base 16)		Garmin International
-				1200 E. 151st St
-				Olathe  KS  66062
-				US
-
-54-56-18   (hex)		Huawei Device Co., Ltd.
-545618     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
 F0-16-1D   (hex)		Espressif Inc.
 F0161D     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -184400,10 +184436,40 @@ F0161D     (base 16)		Espressif Inc.
 				Brooklyn  NY  11210
 				US
 
+54-56-18   (hex)		Huawei Device Co., Ltd.
+545618     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+58-50-9F   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+58509F     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+78-66-A5   (hex)		Chipsea Technologies (Shenzhen) Crop.
+7866A5     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
+
 38-EC-07   (hex)		Motorola Mobility LLC, a Lenovo Company
 38EC07     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
+				US
+
+90-6F-A7   (hex)		Funshion Online Technologies Co.,Ltd
+906FA7     (base 16)		Funshion Online Technologies Co.,Ltd
+				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
+				Beijing     100029
+				CN
+
+64-A3-37   (hex)		Garmin International
+64A337     (base 16)		Garmin International
+				1200 E. 151st St
+				Olathe  KS  66062
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -230323,3 +230389,21 @@ F891F5     (base 16)		Dingtian Technologies Co., Ltd
 				Rm.3306, Building6, Runyueshan, No.33 Huangzhukeng Rd.,Biling Street,Pingshan District
 				Shenzhen  Guangdong  518100
 				CN
+
+4C-43-F6   (hex)		SZ DJI TECHNOLOGY CO.,LTD
+4C43F6     (base 16)		SZ DJI TECHNOLOGY CO.,LTD
+				DJI Sky City, No55 Xianyuan Road, Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
+D8-31-39   (hex)		zte corporation
+D83139     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+A0-59-11   (hex)		Cisco Meraki
+A05911     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
