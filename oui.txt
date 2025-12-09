@@ -92240,6 +92240,12 @@ A8D162     (base 16)		Samsung Electronics Co.,Ltd
 				Bengaluru  Karnataka  560100
 				IN
 
+10-96-1D   (hex)		NXP USA, Inc
+10961D     (base 16)		NXP USA, Inc
+				6501 William Cannon Dr. - West
+				Austin  TX  78735
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -138110,30 +138116,6 @@ A4C0B0     (base 16)		Drivenets
 				Raanana  Israel  4366235
 				IL
 
-28-D6-EC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-28D6EC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-AC-E0-11   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-ACE011     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-FC-26-8C   (hex)		Signify B.V.
-FC268C     (base 16)		Signify B.V.
-				High Tech Campus 7
-				Eindhoven    5656AE
-				NL
-
-98-A9-42   (hex)		Tozed Kangwei Tech Co., Ltd
-98A942     (base 16)		Tozed Kangwei Tech Co., Ltd
-				Room 1301, NO. 37 Jinlong , Nansha Street, Xiangjiang Financial Business Center, Nansha District
-				Guangzhou  Guangdong  511458
-				CN
-
 34-F0-15   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 34F015     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
@@ -138158,17 +138140,29 @@ A05866     (base 16)		Qorvo Utrecht B.V.
 				REDMOND  WA  98052
 				US
 
-64-CE-0C   (hex)		Funshion Online Technologies Co.,Ltd
-64CE0C     (base 16)		Funshion Online Technologies Co.,Ltd
-				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
-				Beijing     100029
+98-A9-42   (hex)		Tozed Kangwei Tech Co., Ltd
+98A942     (base 16)		Tozed Kangwei Tech Co., Ltd
+				Room 1301, NO. 37 Jinlong , Nansha Street, Xiangjiang Financial Business Center, Nansha District
+				Guangzhou  Guangdong  511458
 				CN
 
-84-48-80   (hex)		Amazon Technologies Inc.
-844880     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
+28-D6-EC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28D6EC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+AC-E0-11   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+ACE011     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+CC-C4-B2   (hex)		Shenzhen Trolink Technology Co.,LTD
+CCC4B2     (base 16)		Shenzhen Trolink Technology Co.,LTD
+				7th Floor, Building 5, Phase 2, Donghua Intelligent Manufacturing Park, Sanwei Community, Hangcheng Street, Bao'an District
+				Shenzhen  Guangdong  518101
+				CN
 
 60-B4-A2   (hex)		Samsung Electronics Co.,Ltd
 60B4A2     (base 16)		Samsung Electronics Co.,Ltd
@@ -138181,6 +138175,24 @@ A05866     (base 16)		Qorvo Utrecht B.V.
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+64-CE-0C   (hex)		Funshion Online Technologies Co.,Ltd
+64CE0C     (base 16)		Funshion Online Technologies Co.,Ltd
+				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
+				Beijing     100029
+				CN
+
+84-48-80   (hex)		Amazon Technologies Inc.
+844880     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+FC-26-8C   (hex)		Signify B.V.
+FC268C     (base 16)		Signify B.V.
+				High Tech Campus 7
+				Eindhoven    5656AE
+				NL
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -184730,6 +184742,18 @@ BC277A     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+BC-AF-6E   (hex)		Arcadyan Corporation
+BCAF6E     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+08-9C-74   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
+089C74     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
+				No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway
+				Huizhou  Guangdong  516025
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -230666,6 +230690,12 @@ A05911     (base 16)		Cisco Meraki
 				San Francisco    94158
 				US
 
+F0-16-53   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+F01653     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+				309, 3th Floor, No.16, Yun Ding North Road, Huli District
+				xiamen  Fujian  361015
+				CN
+
 B0-61-A9   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 B061A9     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 				309, 3th Floor, No.16, Yun Ding North Road, Huli District
@@ -230696,23 +230726,17 @@ C46DD1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-F0-16-53   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
-F01653     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
-				309, 3th Floor, No.16, Yun Ding North Road, Huli District
-				xiamen  Fujian  361015
-				CN
-
-58-AD-08   (hex)		IEEE Registration Authority
-58AD08     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 70-97-51   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 709751     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
 				CN
+
+5C-D3-3D   (hex)		Samsung Electronics Co.,Ltd
+5CD33D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 AC-DE-01   (hex)		Ruckus Wireless
 ACDE01     (base 16)		Ruckus Wireless
@@ -230720,8 +230744,8 @@ ACDE01     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
-5C-D3-3D   (hex)		Samsung Electronics Co.,Ltd
-5CD33D     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+58-AD-08   (hex)		IEEE Registration Authority
+58AD08     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
