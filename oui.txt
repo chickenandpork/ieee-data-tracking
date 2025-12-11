@@ -46484,30 +46484,6 @@ C8AFF0     (base 16)		CDVI Wireless SpA
 				San Francisco    94158
 				US
 
-70-AD-43   (hex)		Blink by Amazon 
-70AD43     (base 16)		Blink by Amazon 
-				100 Riverpark Drive
-				North Reading   MA  01864
-				US
-
-88-5E-54   (hex)		Samsung Electronics Co.,Ltd
-885E54     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  16677
-				KR
-
-5C-3A-A2   (hex)		Silicon Laboratories
-5C3AA2     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-CC-AF-E3   (hex)		Amazon Technologies Inc.
-CCAFE3     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
-
 44-0F-B4   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 440FB4     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
@@ -46526,16 +46502,58 @@ E4FAE4     (base 16)		Shenzhen SDMC Technology CP,.LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
+88-5E-54   (hex)		Samsung Electronics Co.,Ltd
+885E54     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
 8C-A3-EC   (hex)		Samsung Electronics Co.,Ltd
 8CA3EC     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
+5C-3A-A2   (hex)		Silicon Laboratories
+5C3AA2     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+CC-AF-E3   (hex)		Amazon Technologies Inc.
+CCAFE3     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
 14-C1-9F   (hex)		Espressif Inc.
 14C19F     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+AC-3A-E2   (hex)		NVIDIA Corporation
+AC3AE2     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
+
+70-AD-43   (hex)		Blink by Amazon 
+70AD43     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
+
+B8-1E-61   (hex)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
+B81E61     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
+				Av. Buriti, 1900 – Setor B – Distrito Industrial
+				Manaus  Amazonas  69075-000
+				BR
+
+40-6E-0F   (hex)		SKYASTAR TECHNOLOGLES(ZHUHAI) LTD
+406E0F     (base 16)		SKYASTAR TECHNOLOGLES(ZHUHAI) LTD
+				3F, 5# Building, Maker Town, Jinwan, Zhuhai, Guangdong, 519090 China
+				ZHUHAI  Guangdong  519090
 				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -92270,6 +92288,36 @@ FC5708     (base 16)		Broadcom Limited
 				Shenzhen    518052
 				CN
 
+E8-2D-79   (hex)		AltoBeam Inc.
+E82D79     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+AC-D3-FB   (hex)		Arycs Technologies Inc
+ACD3FB     (base 16)		Arycs Technologies Inc
+				718 University Ave Suite 200
+				Los Gatos    95032
+				US
+
+2C-9D-90   (hex)		Mellanox Technologies, Inc.
+2C9D90     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+E4-6D-AB   (hex)		Mellanox Technologies, Inc.
+E46DAB     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+90-74-AE   (hex)		AzureWave Technology Inc.
+9074AE     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -123647,12 +123695,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				    852
 				HK
 
-00-12-4F   (hex)		nVent
-00124F     (base 16)		nVent
-				1665 Utica Avenue, Suite 700
-				St Louis Park  MN  55416
-				US
-
 00-12-49   (hex)		Delta Elettronica S.p.A.
 001249     (base 16)		Delta Elettronica S.p.A.
 				Via Astico 41
@@ -138170,54 +138212,6 @@ FC268C     (base 16)		Signify B.V.
 				Eindhoven    5656AE
 				NL
 
-A0-F2-62   (hex)		Espressif Inc.
-A0F262     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-A0-58-66   (hex)		Qorvo Utrecht B.V.
-A05866     (base 16)		Qorvo Utrecht B.V.
-				Leidseveer 10
-				Utrecht  Utrecht  3511 SB
-				NL
-
-7C-6D-12   (hex)		Microsoft Corporation
-7C6D12     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND  WA  98052
-				US
-
-64-CE-0C   (hex)		Funshion Online Technologies Co.,Ltd
-64CE0C     (base 16)		Funshion Online Technologies Co.,Ltd
-				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
-				Beijing     100029
-				CN
-
-84-48-80   (hex)		Amazon Technologies Inc.
-844880     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
-
-60-B4-A2   (hex)		Samsung Electronics Co.,Ltd
-60B4A2     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-14-0B-9E   (hex)		Samsung Electronics Co.,Ltd
-140B9E     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-CC-C4-B2   (hex)		Shenzhen Trolink Technology Co.,LTD
-CCC4B2     (base 16)		Shenzhen Trolink Technology Co.,LTD
-				7th Floor, Building 5, Phase 2, Donghua Intelligent Manufacturing Park, Sanwei Community, Hangcheng Street, Bao'an District
-				Shenzhen  Guangdong  518101
-				CN
-
 E8-3D-C1   (hex)		Espressif Inc.
 E83DC1     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -138242,11 +138236,65 @@ B8C924     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+A0-F2-62   (hex)		Espressif Inc.
+A0F262     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A0-58-66   (hex)		Qorvo Utrecht B.V.
+A05866     (base 16)		Qorvo Utrecht B.V.
+				Leidseveer 10
+				Utrecht  Utrecht  3511 SB
+				NL
+
+7C-6D-12   (hex)		Microsoft Corporation
+7C6D12     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+CC-C4-B2   (hex)		Shenzhen Trolink Technology Co.,LTD
+CCC4B2     (base 16)		Shenzhen Trolink Technology Co.,LTD
+				7th Floor, Building 5, Phase 2, Donghua Intelligent Manufacturing Park, Sanwei Community, Hangcheng Street, Bao'an District
+				Shenzhen  Guangdong  518101
+				CN
+
+60-B4-A2   (hex)		Samsung Electronics Co.,Ltd
+60B4A2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+14-0B-9E   (hex)		Samsung Electronics Co.,Ltd
+140B9E     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+64-CE-0C   (hex)		Funshion Online Technologies Co.,Ltd
+64CE0C     (base 16)		Funshion Online Technologies Co.,Ltd
+				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
+				Beijing     100029
+				CN
+
 88-13-C2   (hex)		Tendyron Corporation
 8813C2     (base 16)		Tendyron Corporation
 				Tendyron Building,Zhongguancun NO.1 Park,Beiqing Road,Haidian District,Beijing,China
 				Beijing    100000
 				CN
+
+84-48-80   (hex)		Amazon Technologies Inc.
+844880     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+00-12-4F   (hex)		Chemelex LLC
+00124F     (base 16)		Chemelex LLC
+				1665 Utica Avenue, Suite 700
+				St Louis Park  MN  55416
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -230845,3 +230893,9 @@ B858FF     (base 16)		Arista Networks
 				5453 Great America Parkway
 				Santa Clara  CA  95054
 				US
+
+D4-C1-A8   (hex)		KYKXCOM Co., Ltd.
+D4C1A8     (base 16)		KYKXCOM Co., Ltd.
+				Building 2, No.8, Yuanhua Road, Xianlin UniversityTown, Xianlin Subdistrict, Qixia District
+				Nanjing  Jiangsu  210033
+				CN
