@@ -46556,6 +46556,18 @@ B81E61     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
 				ZHUHAI  Guangdong  519090
 				CN
 
+EC-B5-0A   (hex)		Quectel Wireless Solutions Co.,Ltd.
+ECB50A     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+38-E0-54   (hex)		Security Design, Inc.
+38E054     (base 16)		Security Design, Inc.
+				Nishiki-cho Trad Square 4F, 3-20 Kanda Nishiki-cho
+				Chiyoda-ku  Tokyo  101-0054
+				JP
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92317,6 +92329,24 @@ E46DAB     (base 16)		Mellanox Technologies, Inc.
 				8F., No. 94, Baozhong Rd.
 				New Taipei City  Taiwan  231
 				TW
+
+8C-DD-30   (hex)		Ruijie Networks Co.,LTD
+8CDD30     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
+				CN
+
+60-83-DA   (hex)		Silicon Laboratories
+6083DA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+E0-72-91   (hex)		Silicon Laboratories
+E07291     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -138295,6 +138325,12 @@ CCC4B2     (base 16)		Shenzhen Trolink Technology Co.,LTD
 				1665 Utica Avenue, Suite 700
 				St Louis Park  MN  55416
 				US
+
+30-F0-3A   (hex)		UEI Electronics Private Ltd.
+30F03A     (base 16)		UEI Electronics Private Ltd.
+				#49, 1 st floor, East wing, Khanjabhavan, Racecourse Road.
+				Bengaluru  Karnataka  560001
+				IN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -184862,6 +184898,18 @@ BCAF6E     (base 16)		Arcadyan Corporation
 				Foshan  Guangdong  528311
 				CN
 
+24-AF-CC   (hex)		Chiun Mai Communication System, Inc
+24AFCC     (base 16)		Chiun Mai Communication System, Inc
+				No.4, MingSheng St. TuCheng District
+				New Taipei City    23679
+				TW
+
+A4-9D-B8   (hex)		SHENZHEN TECNO TECHNOLOGY 
+A49DB8     (base 16)		SHENZHEN TECNO TECHNOLOGY 
+				101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China
+				Shenzhen  guangdong  518000
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -230898,4 +230946,10 @@ D4-C1-A8   (hex)		KYKXCOM Co., Ltd.
 D4C1A8     (base 16)		KYKXCOM Co., Ltd.
 				Building 2, No.8, Yuanhua Road, Xianlin UniversityTown, Xianlin Subdistrict, Qixia District
 				Nanjing  Jiangsu  210033
+				CN
+
+58-BD-35   (hex)		SHANGHAI XIANGCHENG COMMUNICATION TECHNOLOGY CO., LTD
+58BD35     (base 16)		SHANGHAI XIANGCHENG COMMUNICATION TECHNOLOGY CO., LTD
+				Room 211-5, Building 1, No. 290 Wankang Road, Minhang District
+				Shanghai  Shanghai  201100
 				CN
