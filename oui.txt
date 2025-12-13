@@ -1463,12 +1463,6 @@ C4A1AE     (base 16)		Huawei Device Co., Ltd.
 				Seoul    08512
 				KR
 
-44-20-63   (hex)		Continental Automotive Technologies GmbH
-442063     (base 16)		Continental Automotive Technologies GmbH
-				Siemensstr. 12
-				Regensburg    93055
-				DE
-
 08-61-95   (hex)		Rockwell Automation
 086195     (base 16)		Rockwell Automation
 				1 Allen-Bradley Dr.
@@ -5447,12 +5441,6 @@ B4E454     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
-D4-94-FB   (hex)		Continental Automotive Systems Inc.
-D494FB     (base 16)		Continental Automotive Systems Inc.
-				21440 W. Lake Cook Rd.
-				Deer Park  IL  60010
-				US
-
 44-A9-2C   (hex)		IEEE Registration Authority
 44A92C     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -5680,12 +5668,6 @@ F44637     (base 16)		Intel Corporate
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
 				CN
-
-24-08-5D   (hex)		Continental Aftermarket & Services GmbH
-24085D     (base 16)		Continental Aftermarket & Services GmbH
-				Sodener Strasse 9
-				Schwalbach am Taunus  Hessen  65824
-				DE
 
 A8-48-FA   (hex)		Espressif Inc.
 A848FA     (base 16)		Espressif Inc.
@@ -13645,12 +13627,6 @@ CC5A53     (base 16)		Cisco Systems, Inc
 				Sokerilinnantie 11 C
 				Espoo    02650
 				FI
-
-8C-5F-48   (hex)		Continental Intelligent Transportation Systems LLC
-8C5F48     (base 16)		Continental Intelligent Transportation Systems LLC
-				3901 North First Street
-				San Jose  CA  95134
-				US
 
 94-7E-B9   (hex)		National Narrowband Network Communications Pty Ltd
 947EB9     (base 16)		National Narrowband Network Communications Pty Ltd
@@ -35075,12 +35051,6 @@ A09805     (base 16)		OpenVox Communication Co Ltd
 				Irwindale  CA  91706
 				US
 
-00-02-DC   (hex)		Fujitsu General Limited
-0002DC     (base 16)		Fujitsu General Limited
-				1116, Suenaga, Takatsu-Ku,
-				  213-8502  
-				JP
-
 00-02-E1   (hex)		Integrated Network Corporation
 0002E1     (base 16)		Integrated Network Corporation
 				757 Route 202/206
@@ -41693,12 +41663,6 @@ CC6E2A     (base 16)		Cisco Meraki
 				Dongguan  Guangdong  523860
 				CN
 
-E4-1E-33   (hex)		Continental Automotive Technologies GmbH
-E41E33     (base 16)		Continental Automotive Technologies GmbH
-				Heinrich-Hertz-Strasse 45
-				Villingen-Schwenningen    78052
-				DE
-
 74-AD-45   (hex)		Valeo Auto- Electric Hungary Ltd
 74AD45     (base 16)		Valeo Auto- Electric Hungary Ltd
 				Piramis street 1
@@ -41800,12 +41764,6 @@ E88088     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 				No.3188-1,YunGu Road(Comprehensive Bonded Zone),Hefei Economic and Technological Development Area
 				HEFEI  ANHUI  230601
 				CN
-
-40-85-56   (hex)		Continental Automotive Romania SLR
-408556     (base 16)		Continental Automotive Romania SLR
-				Str Siemens no.1, 300701 Timisoara, Romania
-				Timisoara    300701
-				RO
 
 9C-69-ED   (hex)		Arista Networks
 9C69ED     (base 16)		Arista Networks
@@ -43867,12 +43825,6 @@ E0EFBF     (base 16)		Nintendo Co.,Ltd
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-D4-00-CA   (hex)		Continental Automotive Systems S.R.L
-D400CA     (base 16)		Continental Automotive Systems S.R.L
-				Str. Salzburg Nr. 8, 550018 
-				Sibiu  Sibiu  550018
-				RO
 
 A8-0D-E1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 A80DE1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -46567,6 +46519,54 @@ ECB50A     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				Nishiki-cho Trad Square 4F, 3-20 Kanda Nishiki-cho
 				Chiyoda-ku  Tokyo  101-0054
 				JP
+
+00-02-DC   (hex)		 GENERAL Inc.
+0002DC     (base 16)		 GENERAL Inc.
+				   3-3-17,Suenaga,Takatsu-ku
+				Kawasaki-City  Kanagawa-Pref  213-8502
+				JP
+
+D4-00-CA   (hex)		AUMOVIO Systems Romania S.R.L.
+D400CA     (base 16)		AUMOVIO Systems Romania S.R.L.
+				Str. Salzburg Nr. 8, 550018 
+				Sibiu  Sibiu  550018
+				RO
+
+40-85-56   (hex)		AUMOVIO Technologies Romania S.R.L.
+408556     (base 16)		AUMOVIO Technologies Romania S.R.L.
+				Str Siemens no.1, 300701 Timisoara, Romania
+				Timisoara    300701
+				RO
+
+8C-5F-48   (hex)		AUMOVIO Systems, Inc.
+8C5F48     (base 16)		AUMOVIO Systems, Inc.
+				3901 North First Street
+				San Jose  CA  95134
+				US
+
+24-08-5D   (hex)		AUMOVIO Aftermarket GmbH
+24085D     (base 16)		AUMOVIO Aftermarket GmbH
+				Sodener Strasse 9
+				Schwalbach am Taunus  Hessen  65824
+				DE
+
+D4-94-FB   (hex)		AUMOVIO Systems, Inc.
+D494FB     (base 16)		AUMOVIO Systems, Inc.
+				21440 W. Lake Cook Rd.
+				Deer Park  IL  60010
+				US
+
+44-20-63   (hex)		AUMOVIO Germany GmbH
+442063     (base 16)		AUMOVIO Germany GmbH
+				Siemensstr. 12
+				Regensburg    93055
+				DE
+
+E4-1E-33   (hex)		AUMOVIO Germany GmbH
+E41E33     (base 16)		AUMOVIO Germany GmbH
+				Heinrich-Hertz-Strasse 45
+				Villingen-Schwenningen    78052
+				DE
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -53120,12 +53120,6 @@ E428A4     (base 16)		Prama India Private Limited
 				Reno  NV  89507
 				US
 
-18-4C-AE   (hex)		CONTINENTAL
-184CAE     (base 16)		CONTINENTAL
-				1 AVENUE PAUL OURLIAC
-				TOULOUSE    31100
-				FR
-
 C4-D0-E3   (hex)		Intel Corporate
 C4D0E3     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
@@ -55099,12 +55093,6 @@ C4A402     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Zhichun road NO7 Building B Room1203 Haidian District
 				Beijing    100191
 				CN
-
-9C-28-BF   (hex)		Continental Automotive Czech Republic s.r.o.
-9C28BF     (base 16)		Continental Automotive Czech Republic s.r.o.
-				Průmyslová 1851
-				Brandýs nad Labem    250 01
-				CZ
 
 00-06-B3   (hex)		Diagraph Corporation
 0006B3     (base 16)		Diagraph Corporation
@@ -58003,12 +57991,6 @@ E89363     (base 16)		Nokia
 				E Block No. 1 in Ecological Area in Puzhai NewArea
 				Fengshun County, Meizhou  Guangdong province  514000
 				CN
-
-20-AD-56   (hex)		Continental Automotive Systems Inc.
-20AD56     (base 16)		Continental Automotive Systems Inc.
-				21440 W. Lake Cook Rd.
-				Deer Park  IL  60010
-				US
 
 50-29-F5   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 5029F5     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -71266,12 +71248,6 @@ AC932F     (base 16)		Nokia Corporation
 				Elektroniikkatie 10
 				Oulu    90570
 				FI
-
-00-54-AF   (hex)		Continental Automotive Systems Inc.
-0054AF     (base 16)		Continental Automotive Systems Inc.
-				21440 W. Lake Cook Rd.
-				Deer Park  IL  60010
-				US
 
 AC-CA-BA   (hex)		Midokura Co., Ltd. 
 ACCABA     (base 16)		Midokura Co., Ltd. 
@@ -92294,17 +92270,29 @@ FC5708     (base 16)		Broadcom Limited
 				Austin  TX  78735
 				US
 
-8C-05-28   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
-8C0528     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
-				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
-				Shenzhen    518052
+34-87-FB   (hex)		GTAI
+3487FB     (base 16)		GTAI
+				Room 208, Building B11, Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District,
+				Shenzhen  Guangdong  518102
 				CN
 
-E8-2D-79   (hex)		AltoBeam Inc.
-E82D79     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
+8C-DD-30   (hex)		Ruijie Networks Co.,LTD
+8CDD30     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
 				CN
+
+60-83-DA   (hex)		Silicon Laboratories
+6083DA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+E0-72-91   (hex)		Silicon Laboratories
+E07291     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 AC-D3-FB   (hex)		Arycs Technologies Inc
 ACD3FB     (base 16)		Arycs Technologies Inc
@@ -92324,28 +92312,46 @@ E46DAB     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
+8C-05-28   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+8C0528     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				Shenzhen    518052
+				CN
+
 90-74-AE   (hex)		AzureWave Technology Inc.
 9074AE     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.
 				New Taipei City  Taiwan  231
 				TW
 
-8C-DD-30   (hex)		Ruijie Networks Co.,LTD
-8CDD30     (base 16)		Ruijie Networks Co.,LTD
-				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
-				Fuzhou    35000
+E8-2D-79   (hex)		AltoBeam Inc.
+E82D79     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
 				CN
 
-60-83-DA   (hex)		Silicon Laboratories
-6083DA     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
+9C-28-BF   (hex)		AUMOVIO Czech Republic s.r.o.
+9C28BF     (base 16)		AUMOVIO Czech Republic s.r.o.
+				Průmyslová 1851
+				Brandýs nad Labem    250 01
+				CZ
+
+18-4C-AE   (hex)		AUMOVIO France S.A.S.
+184CAE     (base 16)		AUMOVIO France S.A.S.
+				1 AVENUE PAUL OURLIAC
+				TOULOUSE    31100
+				FR
+
+00-54-AF   (hex)		AUMOVIO Systems, Inc.
+0054AF     (base 16)		AUMOVIO Systems, Inc.
+				21440 W. Lake Cook Rd.
+				Deer Park  IL  60010
 				US
 
-E0-72-91   (hex)		Silicon Laboratories
-E07291     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
+20-AD-56   (hex)		AUMOVIO Systems, Inc.
+20AD56     (base 16)		AUMOVIO Systems, Inc.
+				21440 W. Lake Cook Rd.
+				Deer Park  IL  60010
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -103693,12 +103699,6 @@ C44F33     (base 16)		Espressif Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-B4-DD-D0   (hex)		Continental Automotive Hungary Kft
-B4DDD0     (base 16)		Continental Automotive Hungary Kft
-				Napmátka u. 6.
-				Budapest  Pest  H-1106
-				HU
 
 48-F0-27   (hex)		Chengdu newifi Co.,Ltd
 48F027     (base 16)		Chengdu newifi Co.,Ltd
@@ -137780,12 +137780,6 @@ A4C139     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
 				Shanghai  Shanghai  201204
 				CN
 
-F0-30-12   (hex)		Continental Autonomous Mobility Germany
-F03012     (base 16)		Continental Autonomous Mobility Germany
-				Ringlerstr. 17
-				Ingolstadt    85057
-				DE
-
 84-FC-14   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 84FC14     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
@@ -138331,6 +138325,18 @@ CCC4B2     (base 16)		Shenzhen Trolink Technology Co.,LTD
 				#49, 1 st floor, East wing, Khanjabhavan, Racecourse Road.
 				Bengaluru  Karnataka  560001
 				IN
+
+F0-30-12   (hex)		AUMOVIO Autonomous Mobility Germany GmbH
+F03012     (base 16)		AUMOVIO Autonomous Mobility Germany GmbH
+				Ringlerstr. 17
+				Ingolstadt    85057
+				DE
+
+B4-DD-D0   (hex)		AUMOVIO Hungary Kft.
+B4DDD0     (base 16)		AUMOVIO Hungary Kft.
+				Napmátka u. 6.
+				Budapest  Pest  H-1106
+				HU
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -148417,12 +148423,6 @@ C4E1A1     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
-
-AC-C3-58   (hex)		Continental Automotive Czech Republic s.r.o.
-ACC358     (base 16)		Continental Automotive Czech Republic s.r.o.
-				Průmyslová 1851
-				Brandýs nad Labem    250 01
-				CZ
 
 F0-99-19   (hex)		Garmin International
 F09919     (base 16)		Garmin International
@@ -172952,12 +172952,6 @@ A06A00     (base 16)		Verilink Corporation
 				San Carlos  CA  94070
 				US
 
-00-05-DB   (hex)		PSI Nentec GmbH
-0005DB     (base 16)		PSI Nentec GmbH
-				Greschbachstraße12
-				Karlsruhe    76229
-				DE
-
 00-05-DD   (hex)		Cisco Systems, Inc
 0005DD     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -178570,12 +178564,6 @@ B0C7DE     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
-
-E4-12-26   (hex)		Continental Automotive Romania SLR
-E41226     (base 16)		Continental Automotive Romania SLR
-				Str Siemens no.1, 300701 Timisoara, Romania
-				Timisoara    300701
-				RO
 
 30-FB-68   (hex)		Wuhan Zmvision Technology Co. Ltd.
 30FB68     (base 16)		Wuhan Zmvision Technology Co. Ltd.
@@ -184909,6 +184897,24 @@ A49DB8     (base 16)		SHENZHEN TECNO TECHNOLOGY
 				101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China
 				Shenzhen  guangdong  518000
 				CN
+
+00-05-DB   (hex)		PSI Software SE,
+0005DB     (base 16)		PSI Software SE,
+				Ostring 6
+				Karlsruhe    76131 
+				DE
+
+AC-C3-58   (hex)		AUMOVIO Czech Republic s.r.o.
+ACC358     (base 16)		AUMOVIO Czech Republic s.r.o.
+				Průmyslová 1851
+				Brandýs nad Labem    250 01
+				CZ
+
+E4-12-26   (hex)		AUMOVIO Technologies Romania S.R.L.
+E41226     (base 16)		AUMOVIO Technologies Romania S.R.L.
+				Str Siemens no.1, 300701 Timisoara, Romania
+				Timisoara    300701
+				RO
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -199799,12 +199805,6 @@ E02CF3     (base 16)		MRS Electronic GmbH
 				Colombes    92700
 				FR
 
-00-1E-AE   (hex)		Continental Automotive Systems Inc.
-001EAE     (base 16)		Continental Automotive Systems Inc.
-				21440 West Lake Cook Road
-				Deer Park  IL  60010
-				US
-
 2C-BA-BA   (hex)		Samsung Electronics Co.,Ltd
 2CBABA     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -201748,12 +201748,6 @@ F462D0     (base 16)		Not for Radio, LLC
 				No. 76, Ligong St., Beitou,
 				Taipei    112
 				TW
-
-40-82-56   (hex)		Continental Automotive GmbH
-408256     (base 16)		Continental Automotive GmbH
-				VD=-Strasse 1
-				Babenhausen  Garmany  64832
-				DE
 
 E4-A1-E6   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
 E4A1E6     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
@@ -230953,3 +230947,27 @@ D4C1A8     (base 16)		KYKXCOM Co., Ltd.
 				Room 211-5, Building 1, No. 290 Wankang Road, Minhang District
 				Shanghai  Shanghai  201100
 				CN
+
+80-99-9B   (hex)		Murata Manufacturing Co., Ltd.
+80999B     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+18-F7-F6   (hex)		Ericsson AB
+18F7F6     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
+
+40-82-56   (hex)		AUMOVIO Germany GmbH
+408256     (base 16)		AUMOVIO Germany GmbH
+				VDO-Strasse 1
+				Babenhausen  Garmany  64832
+				DE
+
+00-1E-AE   (hex)		AUMOVIO Systems, Inc.
+001EAE     (base 16)		AUMOVIO Systems, Inc.
+				21440 West Lake Cook Road
+				Deer Park  IL  60010
+				US
