@@ -46496,36 +46496,6 @@ AC3AE2     (base 16)		NVIDIA Corporation
 				North Reading   MA  01864
 				US
 
-B8-1E-61   (hex)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
-B81E61     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
-				Av. Buriti, 1900 – Setor B – Distrito Industrial
-				Manaus  Amazonas  69075-000
-				BR
-
-40-6E-0F   (hex)		SKYASTAR TECHNOLOGLES(ZHUHAI) LTD
-406E0F     (base 16)		SKYASTAR TECHNOLOGLES(ZHUHAI) LTD
-				3F, 5# Building, Maker Town, Jinwan, Zhuhai, Guangdong, 519090 China
-				ZHUHAI  Guangdong  519090
-				CN
-
-EC-B5-0A   (hex)		Quectel Wireless Solutions Co.,Ltd.
-ECB50A     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
-				Shanghai    200233
-				CN
-
-38-E0-54   (hex)		Security Design, Inc.
-38E054     (base 16)		Security Design, Inc.
-				Nishiki-cho Trad Square 4F, 3-20 Kanda Nishiki-cho
-				Chiyoda-ku  Tokyo  101-0054
-				JP
-
-00-02-DC   (hex)		 GENERAL Inc.
-0002DC     (base 16)		 GENERAL Inc.
-				   3-3-17,Suenaga,Takatsu-ku
-				Kawasaki-City  Kanagawa-Pref  213-8502
-				JP
-
 D4-00-CA   (hex)		AUMOVIO Systems Romania S.R.L.
 D400CA     (base 16)		AUMOVIO Systems Romania S.R.L.
 				Str. Salzburg Nr. 8, 550018 
@@ -46556,6 +46526,42 @@ D494FB     (base 16)		AUMOVIO Systems, Inc.
 				Deer Park  IL  60010
 				US
 
+B8-1E-61   (hex)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
+B81E61     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
+				Av. Buriti, 1900 – Setor B – Distrito Industrial
+				Manaus  Amazonas  69075-000
+				BR
+
+40-6E-0F   (hex)		SKYASTAR TECHNOLOGLES(ZHUHAI) LTD
+406E0F     (base 16)		SKYASTAR TECHNOLOGLES(ZHUHAI) LTD
+				3F, 5# Building, Maker Town, Jinwan, Zhuhai, Guangdong, 519090 China
+				ZHUHAI  Guangdong  519090
+				CN
+
+EC-B5-0A   (hex)		Quectel Wireless Solutions Co.,Ltd.
+ECB50A     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+38-E0-54   (hex)		Security Design, Inc.
+38E054     (base 16)		Security Design, Inc.
+				Nishiki-cho Trad Square 4F, 3-20 Kanda Nishiki-cho
+				Chiyoda-ku  Tokyo  101-0054
+				JP
+
+44-7C-AC   (hex)		Invictus-AV
+447CAC     (base 16)		Invictus-AV
+				17650 Hillcrest Drive
+				Meadow Vista  CA  95722
+				US
+
+6C-D5-52   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+6CD552     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
+
 44-20-63   (hex)		AUMOVIO Germany GmbH
 442063     (base 16)		AUMOVIO Germany GmbH
 				Siemensstr. 12
@@ -46568,16 +46574,28 @@ E41E33     (base 16)		AUMOVIO Germany GmbH
 				Villingen-Schwenningen    78052
 				DE
 
-44-7C-AC   (hex)		Invictus-AV
-447CAC     (base 16)		Invictus-AV
-				17650 Hillcrest Drive
-				Meadow Vista  CA  95722
+00-02-DC   (hex)		 GENERAL Inc.
+0002DC     (base 16)		 GENERAL Inc.
+				   3-3-17,Suenaga,Takatsu-ku
+				Kawasaki-City  Kanagawa-Pref  213-8502
+				JP
+
+C4-B1-6B   (hex)		Advantech Czech
+C4B16B     (base 16)		Advantech Czech
+				Sokolska 71
+				Usti nad Orlici    56204
+				CZ
+
+B4-AB-F3   (hex)		IEEE Registration Authority
+B4ABF3     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
-6C-D5-52   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-6CD552     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
-				shenzhen  guangdong  518000
+A4-AB-39   (hex)		Shenzhen Taichi Technology Limited
+A4AB39     (base 16)		Shenzhen Taichi Technology Limited
+				A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District, 
+				Shenzhen  Guangdong Province  518000
 				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -92385,6 +92403,18 @@ DC74CE     (base 16)		ITOCHU Techno-Solutions Corporation
 1003CD     (base 16)		Calix Inc.
 				2777 Orchard Pkwy
 				San Jose  CA  95131
+				US
+
+B4-E2-5B   (hex)		HP Inc.
+B4E25B     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
+				US
+
+D8-FC-92   (hex)		Tuya Smart Inc.
+D8FC92     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -138353,12 +138383,6 @@ CCC4B2     (base 16)		Shenzhen Trolink Technology Co.,LTD
 				St Louis Park  MN  55416
 				US
 
-30-F0-3A   (hex)		UEI Electronics Private Ltd.
-30F03A     (base 16)		UEI Electronics Private Ltd.
-				#49, 1 st floor, East wing, Khanjabhavan, Racecourse Road.
-				Bengaluru  Karnataka  560001
-				IN
-
 F0-30-12   (hex)		AUMOVIO Autonomous Mobility Germany GmbH
 F03012     (base 16)		AUMOVIO Autonomous Mobility Germany GmbH
 				Ringlerstr. 17
@@ -138370,6 +138394,30 @@ B4DDD0     (base 16)		AUMOVIO Hungary Kft.
 				Napmátka u. 6.
 				Budapest  Pest  H-1106
 				HU
+
+30-F0-3A   (hex)		UEI Electronics Private Ltd.
+30F03A     (base 16)		UEI Electronics Private Ltd.
+				#49, 1 st floor, East wing, Khanjabhavan, Racecourse Road.
+				Bengaluru  Karnataka  560001
+				IN
+
+94-2D-3A   (hex)		PRIZOR VIZTECH LIMITED
+942D3A     (base 16)		PRIZOR VIZTECH LIMITED
+				514, Maple Trade Ctr Rd, near Surdhara Circle, Thaltej
+				Ahmedabad  Gujarat   380052
+				IN
+
+08-18-14   (hex)		Hewlett Packard Enterprise
+081814     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+30-48-7D   (hex)		Tuya Smart Inc.
+30487D     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -184967,6 +185015,18 @@ ACC358     (base 16)		AUMOVIO Czech Republic s.r.o.
 				Karlsruhe    76131 
 				DE
 
+64-18-DF   (hex)		Sagemcom Broadband SAS
+6418DF     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+98-78-00   (hex)		TCT mobile ltd
+987800     (base 16)		TCT mobile ltd
+				No.86 hechang 7th road, zhongkai, Hi-Tech District
+				Hui Zhou  Guang Dong  516006
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231034,3 +231094,15 @@ B858FF     (base 16)		Arista Networks
 				2777 Orchard Pkwy
 				San Jose  CA  95131
 				US
+
+54-B2-7E   (hex)		Sagemcom Broadband SAS
+54B27E     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+D8-99-99   (hex)		TECNO MOBILE LIMITED
+D89999     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
