@@ -92360,12 +92360,6 @@ E82D79     (base 16)		AltoBeam Inc.
 				Beijing  Beijing  100083
 				CN
 
-9C-28-BF   (hex)		AUMOVIO Czech Republic s.r.o.
-9C28BF     (base 16)		AUMOVIO Czech Republic s.r.o.
-				Průmyslová 1851
-				Brandýs nad Labem    250 01
-				CZ
-
 18-4C-AE   (hex)		AUMOVIO France S.A.S.
 184CAE     (base 16)		AUMOVIO France S.A.S.
 				1 AVENUE PAUL OURLIAC
@@ -92393,16 +92387,10 @@ D0EA11     (base 16)		Routerboard.com
 				Riga  Riga  LV1009
 				LV
 
-DC-74-CE   (hex)		ITOCHU Techno-Solutions Corporation
-DC74CE     (base 16)		ITOCHU Techno-Solutions Corporation
-				Kamiyacho Trust Tower, 4-1-1, Toranomon, Minato-ku,
-				Tokyo  Tokyo  105-6950
-				JP
-
-10-03-CD   (hex)		Calix Inc.
-1003CD     (base 16)		Calix Inc.
-				2777 Orchard Pkwy
-				San Jose  CA  95131
+D8-FC-92   (hex)		Tuya Smart Inc.
+D8FC92     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
 				US
 
 B4-E2-5B   (hex)		HP Inc.
@@ -92411,11 +92399,29 @@ B4E25B     (base 16)		HP Inc.
 				Spring  TX  77389
 				US
 
-D8-FC-92   (hex)		Tuya Smart Inc.
-D8FC92     (base 16)		Tuya Smart Inc.
-				160 Greentree Drive, Suite 101
-				Dover  DE  19904
+DC-74-CE   (hex)		ITOCHU Techno-Solutions Corporation
+DC74CE     (base 16)		ITOCHU Techno-Solutions Corporation
+				Kamiyacho Trust Tower, 4-1-1, Toranomon, Minato-ku,
+				Tokyo  Tokyo  105-6950
+				JP
+
+B8-51-1D   (hex)		TELECHIPS, INC
+B8511D     (base 16)		TELECHIPS, INC
+				27, Geumto-ro 80beon-gil, Sujeong-gu,
+				Seongnam-si,  Gyeonggi-do,  13453
+				KR
+
+10-03-CD   (hex)		Calix Inc.
+1003CD     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
 				US
+
+9C-28-BF   (hex)		AUMOVIO Czech Republic s.r.o.
+9C28BF     (base 16)		AUMOVIO Czech Republic s.r.o.
+				Průmyslová 1851
+				Brandýs nad Labem    250 01
+				CZ
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -138418,6 +138424,12 @@ B4DDD0     (base 16)		AUMOVIO Hungary Kft.
 				160 Greentree Drive, Suite 101
 				Dover  DE  19904
 				US
+
+D0-CD-BF   (hex)		LG Electronics
+D0CDBF     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -185025,6 +185037,12 @@ ACC358     (base 16)		AUMOVIO Czech Republic s.r.o.
 987800     (base 16)		TCT mobile ltd
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
+				CN
+
+A8-57-BA   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
