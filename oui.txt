@@ -92405,16 +92405,16 @@ E46DAB     (base 16)		Mellanox Technologies, Inc.
 				New Taipei City  Taiwan  231
 				TW
 
-DC-74-CE   (hex)		ITOCHU Techno-Solutions Corporation
-DC74CE     (base 16)		ITOCHU Techno-Solutions Corporation
-				Kamiyacho Trust Tower, 4-1-1, Toranomon, Minato-ku,
-				Tokyo  Tokyo  105-6950
-				JP
+B8-51-1D   (hex)		TELECHIPS, INC
+B8511D     (base 16)		TELECHIPS, INC
+				27, Geumto-ro 80beon-gil, Sujeong-gu,
+				Seongnam-si,  Gyeonggi-do,  13453
+				KR
 
-10-03-CD   (hex)		Calix Inc.
-1003CD     (base 16)		Calix Inc.
-				2777 Orchard Pkwy
-				San Jose  CA  95131
+D8-FC-92   (hex)		Tuya Smart Inc.
+D8FC92     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
 				US
 
 B4-E2-5B   (hex)		HP Inc.
@@ -92423,17 +92423,17 @@ B4E25B     (base 16)		HP Inc.
 				Spring  TX  77389
 				US
 
-D8-FC-92   (hex)		Tuya Smart Inc.
-D8FC92     (base 16)		Tuya Smart Inc.
-				160 Greentree Drive, Suite 101
-				Dover  DE  19904
-				US
+F4-70-18   (hex)		Hangzhou Ezviz Software Co.,Ltd.
+F47018     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
+				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
 
-B8-51-1D   (hex)		TELECHIPS, INC
-B8511D     (base 16)		TELECHIPS, INC
-				27, Geumto-ro 80beon-gil, Sujeong-gu,
-				Seongnam-si,  Gyeonggi-do,  13453
-				KR
+DC-74-CE   (hex)		ITOCHU Techno-Solutions Corporation
+DC74CE     (base 16)		ITOCHU Techno-Solutions Corporation
+				Kamiyacho Trust Tower, 4-1-1, Toranomon, Minato-ku,
+				Tokyo  Tokyo  105-6950
+				JP
 
 4C-55-B2   (hex)		Xiaomi Communications Co Ltd
 4C55B2     (base 16)		Xiaomi Communications Co Ltd
@@ -92441,11 +92441,11 @@ B8511D     (base 16)		TELECHIPS, INC
 				Beijing  Haidian District  100085
 				CN
 
-F4-70-18   (hex)		Hangzhou Ezviz Software Co.,Ltd.
-F47018     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
-				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
-				Hangzhou  Zhejiang  310051
-				CN
+10-03-CD   (hex)		Calix Inc.
+1003CD     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -138465,6 +138465,18 @@ D0CDBF     (base 16)		LG Electronics
 908A80     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+00-B4-63   (hex)		Ring LLC
+00B463     (base 16)		Ring LLC
+				12515 Cerise Ave
+				Hawthorne    90250
+				US
+
+94-EA-E7   (hex)		Lynq Technologies
+94EAE7     (base 16)		Lynq Technologies
+				11101 West 120th Avenue
+				Broomfield  CO  80021
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -185111,6 +185123,18 @@ A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				San Jose  CA  94568
 				US
 
+C0-A4-B9   (hex)		Sichuan AI-Link Technology Co., Ltd.
+C0A4B9     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
+
+40-5A-DD   (hex)		Actions Microelectronics
+405ADD     (base 16)		Actions Microelectronics
+				201, No. 9 Building, Software Park, KeJiZhongEr Road., GaoXingQu, NanShan
+				Shenzhen  Guangdong  518057
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231185,12 +231209,6 @@ C0B550     (base 16)		Broadcom Limited
 				Tampere    33720
 				FI
 
-D8-99-99   (hex)		TECNO MOBILE LIMITED
-D89999     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 44-45-BA   (hex)		Edgecore Americas Networking Corporation
 4445BA     (base 16)		Edgecore Americas Networking Corporation
 				20 Mason
@@ -231203,8 +231221,26 @@ D89999     (base 16)		TECNO MOBILE LIMITED
 				San Diego  CA  92101
 				US
 
+D8-99-99   (hex)		TECNO MOBILE LIMITED
+D89999     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 84-C7-E2   (hex)		VusionGroup
 84C7E2     (base 16)		VusionGroup
 				Kalsdorfer Straße 12
 				Fernitz-Mellach  Steiermark  8072
 				AT
+
+34-17-DD   (hex)		Sercomm France Sarl
+3417DD     (base 16)		Sercomm France Sarl
+				2/4 Rue Maurice Hartmann 92370  Issy Les Moulineaux France
+				Moulineaux    92370
+				FR
+
+60-15-9F   (hex)		IEEE Registration Authority
+60159F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
