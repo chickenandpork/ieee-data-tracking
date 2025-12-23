@@ -46598,17 +46598,23 @@ A4AB39     (base 16)		Shenzhen Taichi Technology Limited
 				Fernitz-Mellach  Steiermark  8072
 				AT
 
+D0-2C-39   (hex)		Cisco Systems, Inc
+D02C39     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-26-89   (hex)		General Dynamics Land Systems Inc.
 002689     (base 16)		General Dynamics Land Systems Inc.
 				1231 Tech Court
 				Westminster  MD  21157
 				US
 
-D0-2C-39   (hex)		Cisco Systems, Inc
-D02C39     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+1C-FF-3F   (hex)		Cust2mate
+1CFF3F     (base 16)		Cust2mate
+				4 Ariel Sharon St
+				Givatayim    5320047
+				IL
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -92446,6 +92452,24 @@ DC74CE     (base 16)		ITOCHU Techno-Solutions Corporation
 				2777 Orchard Pkwy
 				San Jose  CA  95131
 				US
+
+0C-0F-D8   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+0C0FD8     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+14-4F-F0   (hex)		NXP Semiconductors Taiwan Ltd.
+144FF0     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+D4-13-68   (hex)		Shenzhen Intellirocks Tech. Co. Ltd.
+D41368     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
+				No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue,Xili Community, Xili Street, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -185111,6 +185135,24 @@ A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				San Jose  CA  95002
 				US
 
+88-45-58   (hex)		Amicro Technology Co., Ltd.
+884558     (base 16)		Amicro Technology Co., Ltd.
+				14F Novotown Huixin Office Building,No. 88, Zhishui Road, Hengqin
+				Zhuhai  Guangdong  519000
+				CN
+
+10-CB-33   (hex)		NXP Semiconductors Taiwan Ltd.
+10CB33     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+40-5A-DD   (hex)		Actions Microelectronics
+405ADD     (base 16)		Actions Microelectronics
+				201, No. 9 Building, Software Park, KeJiZhongEr Road., GaoXingQu, NanShan
+				Shenzhen  Guangdong  518057
+				CN
+
 7C-87-67   (hex)		Cisco Systems, Inc
 7C8767     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -185123,16 +185165,16 @@ A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				San Jose  CA  94568
 				US
 
+24-A5-FF   (hex)		Fairbanks Scales
+24A5FF     (base 16)		Fairbanks Scales
+				2176 Portland Street
+				St.Johnsbury  VT  05819
+				US
+
 C0-A4-B9   (hex)		Sichuan AI-Link Technology Co., Ltd.
 C0A4B9     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou, Industrial Park
 				Mianyang  Sichuan  622650
-				CN
-
-40-5A-DD   (hex)		Actions Microelectronics
-405ADD     (base 16)		Actions Microelectronics
-				201, No. 9 Building, Software Park, KeJiZhongEr Road., GaoXingQu, NanShan
-				Shenzhen  Guangdong  518057
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
