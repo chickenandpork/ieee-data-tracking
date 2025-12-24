@@ -46616,6 +46616,18 @@ D02C39     (base 16)		Cisco Systems, Inc
 				Givatayim    5320047
 				IL
 
+80-BF-21   (hex)		vivo Mobile Communication Co., Ltd.
+80BF21     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+D0-B3-24   (hex)		Apple, Inc.
+D0B324     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92470,6 +92482,42 @@ D41368     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
 				No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue,Xili Community, Xili Street, Nanshan District
 				Shenzhen  Guangdong  518000
 				CN
+
+A4-22-B6   (hex)		Motorola Mobility LLC, a Lenovo Company
+A422B6     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+CC-80-8F   (hex)		Apple, Inc.
+CC808F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E0-BA-78   (hex)		Apple, Inc.
+E0BA78     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E4-53-41   (hex)		Apple, Inc.
+E45341     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+68-A7-29   (hex)		Apple, Inc.
+68A729     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-29-17   (hex)		Apple, Inc.
+742917     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -138485,6 +138533,30 @@ D0CDBF     (base 16)		LG Electronics
 				Pyeongtaek-si  Gyeonggi-do  451-713
 				KR
 
+A4-F0-1F   (hex)		CANON INC.
+A4F01F     (base 16)		CANON INC.
+				30-2 Shimomaruko 3-chome,
+				Ohta-ku  Tokyo  146-8501
+				JP
+
+90-B9-F9   (hex)		Motorola Mobility LLC, a Lenovo Company
+90B9F9     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+04-6F-00   (hex)		LG Electronics
+046F00     (base 16)		LG Electronics
+				Lot CN02, Trang Due Industrial Park,An Phong Ward, Hai Phong City, Vietnam
+				Hai Phong    184956
+				VN
+
+94-EA-E7   (hex)		Lynq Technologies
+94EAE7     (base 16)		Lynq Technologies
+				11101 West 120th Avenue
+				Broomfield  CO  80021
+				US
+
 90-8A-80   (hex)		Cisco Systems, Inc
 908A80     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -138497,10 +138569,34 @@ D0CDBF     (base 16)		LG Electronics
 				Hawthorne    90250
 				US
 
-94-EA-E7   (hex)		Lynq Technologies
-94EAE7     (base 16)		Lynq Technologies
-				11101 West 120th Avenue
-				Broomfield  CO  80021
+24-2A-EA   (hex)		Apple, Inc.
+242AEA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-E8-59   (hex)		Apple, Inc.
+98E859     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-13-AC   (hex)		Apple, Inc.
+5C13AC     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-E5-A1   (hex)		Apple, Inc.
+0CE5A1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-A3-B2   (hex)		Apple, Inc.
+0CA3B2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -185177,6 +185273,36 @@ C0A4B9     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Mianyang  Sichuan  622650
 				CN
 
+74-29-20   (hex)		MCX-PRO Kft.
+742920     (base 16)		MCX-PRO Kft.
+				Etele tér 4. 3.em.
+				Budapest    1115
+				HU
+
+30-A0-33   (hex)		Apple, Inc.
+30A033     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C4-49-1B   (hex)		Apple, Inc.
+C4491B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-47-15   (hex)		Apple, Inc.
+804715     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-D1-AD   (hex)		Apple, Inc.
+7CD1AD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231285,4 +231411,40 @@ D89999     (base 16)		TECNO MOBILE LIMITED
 60159F     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+AC-40-1E   (hex)		vivo Mobile Communication Co., Ltd.
+AC401E     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+68-1A-47   (hex)		Apple, Inc.
+681A47     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+28-49-E9   (hex)		Apple, Inc.
+2849E9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+78-96-0D   (hex)		Apple, Inc.
+78960D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-1D-39   (hex)		Apple, Inc.
+801D39     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+CC-72-2A   (hex)		Apple, Inc.
+CC722A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
