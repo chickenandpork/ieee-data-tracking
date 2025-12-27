@@ -46634,6 +46634,12 @@ D0B324     (base 16)		Apple, Inc.
 				 Irvine  CA  92618
 				US
 
+48-76-96   (hex)		Huaan Zhongyun Co., Ltd.
+487696     (base 16)		Huaan Zhongyun Co., Ltd.
+				Room 201, 2nd Floor, Building A, No. 128 Qiming Road, Yinzhou District, Ningbo City
+				Ningbo  Ningbo   315100
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -185273,6 +185279,24 @@ A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Nanzi Dist.  Kaohsiung  811643
 				TW
 
+C4-49-1B   (hex)		Apple, Inc.
+C4491B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-47-15   (hex)		Apple, Inc.
+804715     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-D1-AD   (hex)		Apple, Inc.
+7CD1AD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 24-A5-FF   (hex)		Fairbanks Scales
 24A5FF     (base 16)		Fairbanks Scales
 				2176 Portland Street
@@ -185291,22 +185315,16 @@ A857BA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Cupertino  CA  95014
 				US
 
-C4-49-1B   (hex)		Apple, Inc.
-C4491B     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+08-02-99   (hex)		HC Corporation
+080299     (base 16)		HC Corporation
+				1201, 12th F, Seongnam Woolim Lion’s Valley 1Bldg, 27, Dunchen-Daero 457beon-gil, Jungwon-gu
+				Seongnam  Gyengido  13219
+				KR
 
-80-47-15   (hex)		Apple, Inc.
-804715     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-7C-D1-AD   (hex)		Apple, Inc.
-7CD1AD     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+80-77-86   (hex)		IEEE Registration Authority
+807786     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -231460,3 +231478,15 @@ AC401E     (base 16)		vivo Mobile Communication Co., Ltd.
 				10 Mauchly
 				 Irvine  CA  92618
 				US
+
+64-D4-F0   (hex)		NETVUE，INC.
+64D4F0     (base 16)		NETVUE，INC.
+				1055 East Colorado Boulevard 5th Floor
+				Pasadena  CA  91106
+				US
+
+14-AE-E0   (hex)		ETHERNEXION NETWORKS PTE. LTD.
+14AEE0     (base 16)		ETHERNEXION NETWORKS PTE. LTD.
+				7500A BEACH ROAD#04-307 THE PLAZA 
+				SINGAPORE  SINGAPORE  199591
+				SG
