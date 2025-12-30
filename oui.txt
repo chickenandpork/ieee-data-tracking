@@ -46610,16 +46610,34 @@ D02C39     (base 16)		Cisco Systems, Inc
 				Westminster  MD  21157
 				US
 
-1C-FF-3F   (hex)		Cust2mate
-1CFF3F     (base 16)		Cust2mate
-				4 Ariel Sharon St
-				Givatayim    5320047
-				IL
+48-76-96   (hex)		Huaan Zhongyun Co., Ltd.
+487696     (base 16)		Huaan Zhongyun Co., Ltd.
+				Room 201, 2nd Floor, Building A, No. 128 Qiming Road, Yinzhou District, Ningbo City
+				Ningbo  Ningbo   315100
+				CN
+
+64-2F-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+642F1C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+18-69-45   (hex)		TP-Link Systems Inc.
+186945     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
 
 80-BF-21   (hex)		vivo Mobile Communication Co., Ltd.
 80BF21     (base 16)		vivo Mobile Communication Co., Ltd.
 				No.1, vivo Road, Chang'an
 				Dongguan  Guangdong  523860
+				CN
+
+5C-FF-A9   (hex)		zte corporation
+5CFFA9     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
 				CN
 
 D0-B3-24   (hex)		Apple, Inc.
@@ -46628,16 +46646,16 @@ D0B324     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-18-69-45   (hex)		TP-Link Systems Inc.
-186945     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
+1C-FF-3F   (hex)		Cust2mate
+1CFF3F     (base 16)		Cust2mate
+				4 Ariel Sharon St
+				Givatayim    5320047
+				IL
 
-48-76-96   (hex)		Huaan Zhongyun Co., Ltd.
-487696     (base 16)		Huaan Zhongyun Co., Ltd.
-				Room 201, 2nd Floor, Building A, No. 128 Qiming Road, Yinzhou District, Ningbo City
-				Ningbo  Ningbo   315100
+50-61-7E   (hex)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+50617E     (base 16)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+				3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District
+				Shenzhen  Guangdong  518110
 				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -92529,6 +92547,54 @@ E0-BA-78   (hex)		Apple, Inc.
 E0BA78     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
+				US
+
+6C-77-42   (hex)		zte corporation
+6C7742     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+10-CD-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10CD54     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+94-A2-5D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+94A25D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-C3-D9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4C3D9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+54-26-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+542618     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+98-2A-FD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+982AFD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+2C-AE-46   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+2CAE46     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+90-20-D7   (hex)		Microsoft Corporation
+9020D7     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -138581,18 +138647,6 @@ A4F01F     (base 16)		CANON INC.
 				Hai Phong    184956
 				VN
 
-24-2A-EA   (hex)		Apple, Inc.
-242AEA     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-98-E8-59   (hex)		Apple, Inc.
-98E859     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 5C-13-AC   (hex)		Apple, Inc.
 5C13AC     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -138609,6 +138663,54 @@ A4F01F     (base 16)		CANON INC.
 0CA3B2     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
+				US
+
+24-2A-EA   (hex)		Apple, Inc.
+242AEA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-E8-59   (hex)		Apple, Inc.
+98E859     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D8-3E-EB   (hex)		AltoBeam Inc.
+D83EEB     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+5C-48-79   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C4879     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+DC-57-5C   (hex)		PR Electronics A/S
+DC575C     (base 16)		PR Electronics A/S
+				Lerbakken 10
+				Følle    8410
+				DK
+
+E4-85-FB   (hex)		Quectel Wireless Solutions Co.,Ltd.
+E485FB     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+54-6C-50   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+546C50     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+B8-BA-66   (hex)		Microsoft Corporation
+B8BA66     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -185327,6 +185429,30 @@ C4491B     (base 16)		Apple, Inc.
 				Piscataway  NJ  08554
 				US
 
+8C-22-D2   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+8C22D2     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
+20-9B-DD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+209BDD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+3C-65-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C65D1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+F4-A3-C2   (hex)		Shenzhen iComm Semiconductor CO.,LTD
+F4A3C2     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
+				Room204,scientific research building,Tsinghua Hi-Tech Park,No.13 Langshan Road,Nanshan District
+				Shenzhen  Guangdong  518067
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231490,3 +231616,21 @@ AC401E     (base 16)		vivo Mobile Communication Co., Ltd.
 				7500A BEACH ROAD#04-307 THE PLAZA 
 				SINGAPORE  SINGAPORE  199591
 				SG
+
+74-E6-C7   (hex)		LUXSHARE-ICT Co., Ltd.
+74E6C7     (base 16)		LUXSHARE-ICT Co., Ltd.
+				1F, No. 22, Lane 35, Jihu Road, Neihu district
+				Taipei City  Taiwan  114754
+				TW
+
+84-16-23   (hex)		zte corporation
+841623     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+D0-F8-15   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0F815     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
