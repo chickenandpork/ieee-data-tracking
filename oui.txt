@@ -138713,6 +138713,12 @@ B8BA66     (base 16)		Microsoft Corporation
 				REDMOND  WA  98052
 				US
 
+64-B4-E8   (hex)		Shenzhen D-Robotics Co., Ltd.
+64B4E8     (base 16)		Shenzhen D-Robotics Co., Ltd.
+				Room 1107-1108, Block C, Building 1, Section 1, Chuangzhi Yuncheng, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -231633,4 +231639,10 @@ D0-F8-15   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 D0F815     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+04-5E-0A   (hex)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+045E0A     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
+				Shenzhen    518000
 				CN
