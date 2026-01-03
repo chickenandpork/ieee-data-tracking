@@ -46658,6 +46658,12 @@ D0B324     (base 16)		Apple, Inc.
 				Shenzhen  Guangdong  518110
 				CN
 
+74-83-A0   (hex)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+7483A0     (base 16)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+				3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District
+				Shenzhen  Guangdong  518110
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92601,6 +92607,12 @@ E0BA78     (base 16)		Apple, Inc.
 28B20B     (base 16)		NXP USA, Inc
 				6501 William Cannon Dr. - West
 				Austin  TX  78735
+				US
+
+80-AF-9F   (hex)		eero inc.
+80AF9F     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -138723,6 +138735,12 @@ B8BA66     (base 16)		Microsoft Corporation
 64B4E8     (base 16)		Shenzhen D-Robotics Co., Ltd.
 				Room 1107-1108, Block C, Building 1, Section 1, Chuangzhi Yuncheng, Nanshan District
 				Shenzhen  Guangdong  518000
+				CN
+
+38-47-12   (hex)		Luxottica Tristar (Dongguan) Optical Co.,Ltd
+384712     (base 16)		Luxottica Tristar (Dongguan) Optical Co.,Ltd
+				Oudeng Zone, Gaobu Town, Dongguan City, GuangDong, China
+				Dongguan  GuangDong  523000
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -231658,3 +231676,9 @@ D0F815     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
 				Shenzhen    518000
 				CN
+
+A8-6A-CB   (hex)		EVAR
+A86ACB     (base 16)		EVAR
+				42, Changeop-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
+				Seoul  Gyunggi-do  13449
+				KR
