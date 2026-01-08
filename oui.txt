@@ -27950,12 +27950,6 @@ A09805     (base 16)		OpenVox Communication Co Ltd
 				CHENNAI  TAMILNADU  600018
 				IN
 
-00-21-04   (hex)		Gigaset Communications GmbH
-002104     (base 16)		Gigaset Communications GmbH
-				Frankenstrasse 2
-				46395  Bocholt  
-				DE
-
 00-1F-FB   (hex)		Green Packet Bhd
 001FFB     (base 16)		Green Packet Bhd
 				Lot 1-4, Incubator 2, Technology Park Malaysia
@@ -46652,23 +46646,53 @@ D0B324     (base 16)		Apple, Inc.
 				Givatayim    5320047
 				IL
 
-50-61-7E   (hex)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
-50617E     (base 16)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
-				3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District
-				Shenzhen  Guangdong  518110
-				CN
-
 74-83-A0   (hex)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 7483A0     (base 16)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 				3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District
 				Shenzhen  Guangdong  518110
 				CN
 
+60-25-ED   (hex)		Hewlett Packard Enterprise
+6025ED     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 20-4B-2E   (hex)		Pizzato Elettrica S.r.l.
 204B2E     (base 16)		Pizzato Elettrica S.r.l.
 				Via Torino, 1
 				Marostica  VI  36063
 				IT
+
+50-61-7E   (hex)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+50617E     (base 16)		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+				3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District
+				Shenzhen  Guangdong  518110
+				CN
+
+2C-79-BE   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+2C79BE     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+4C-09-97   (hex)		Arista Networks
+4C0997     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+04-64-FA   (hex)		Dell Inc.
+0464FA     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
+00-21-04   (hex)		Gigaset Technologies GmbH
+002104     (base 16)		Gigaset Technologies GmbH
+				Frankenstrasse 2
+				46395  Bocholt  
+				DE
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -92561,6 +92585,18 @@ E0BA78     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+98-2A-FD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+982AFD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+2C-AE-46   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+2CAE46     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
 6C-77-42   (hex)		zte corporation
 6C7742     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -92591,16 +92627,10 @@ B4C3D9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-98-2A-FD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-982AFD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-2C-AE-46   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-2CAE46     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
-				Nanning  Guangxi  530007
+88-99-86   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+889986     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
 				CN
 
 90-20-D7   (hex)		Microsoft Corporation
@@ -92620,6 +92650,12 @@ B4C3D9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
+
+60-95-F8   (hex)		Arcadyan Corporation
+6095F8     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -103594,12 +103630,6 @@ A40C66     (base 16)		Shenzhen Colorful Yugong Technology and Development Co., L
 				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
 				Hong Kong    999077
 				HK
-
-58-9E-C6   (hex)		Gigaset Communications GmbH
-589EC6     (base 16)		Gigaset Communications GmbH
-				Frankenstrasse 2
-				Bocholt  NRW  46395
-				DE
 
 B0-C3-87   (hex)		GOEFER, Inc.
 B0C387     (base 16)		GOEFER, Inc.
@@ -138719,10 +138749,22 @@ DC575C     (base 16)		PR Electronics A/S
 				Følle    8410
 				DK
 
-E4-85-FB   (hex)		Quectel Wireless Solutions Co.,Ltd.
-E485FB     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
-				Shanghai    200233
+44-66-90   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+446690     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+38-47-12   (hex)		Luxottica Tristar (Dongguan) Optical Co.,Ltd
+384712     (base 16)		Luxottica Tristar (Dongguan) Optical Co.,Ltd
+				Oudeng Zone, Gaobu Town, Dongguan City, GuangDong, China
+				Dongguan  GuangDong  523000
+				CN
+
+64-B4-E8   (hex)		Shenzhen D-Robotics Co., Ltd.
+64B4E8     (base 16)		Shenzhen D-Robotics Co., Ltd.
+				Room 1107-1108, Block C, Building 1, Section 1, Chuangzhi Yuncheng, Nanshan District
+				Shenzhen  Guangdong  518000
 				CN
 
 54-6C-50   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
@@ -138731,23 +138773,35 @@ E485FB     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				 Nanjing  Jiangsu  210012
 				CN
 
+E4-85-FB   (hex)		Quectel Wireless Solutions Co.,Ltd.
+E485FB     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
 B8-BA-66   (hex)		Microsoft Corporation
 B8BA66     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
 
-64-B4-E8   (hex)		Shenzhen D-Robotics Co., Ltd.
-64B4E8     (base 16)		Shenzhen D-Robotics Co., Ltd.
-				Room 1107-1108, Block C, Building 1, Section 1, Chuangzhi Yuncheng, Nanshan District
-				Shenzhen  Guangdong  518000
+60-65-F4   (hex)		Chipsea Technologies (Shenzhen) Crop.
+6065F4     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
 				CN
 
-38-47-12   (hex)		Luxottica Tristar (Dongguan) Optical Co.,Ltd
-384712     (base 16)		Luxottica Tristar (Dongguan) Optical Co.,Ltd
-				Oudeng Zone, Gaobu Town, Dongguan City, GuangDong, China
-				Dongguan  GuangDong  523000
-				CN
+58-9E-C6   (hex)		Gigaset Technologies GmbH
+589EC6     (base 16)		Gigaset Technologies GmbH
+				Frankenstrasse 2
+				Bocholt  NRW  46395
+				DE
+
+E8-47-F3   (hex)		upscale ai
+E847F3     (base 16)		upscale ai
+				3101 Jay St.
+				Santa Clara  CA  95054
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -185507,6 +185561,18 @@ F4A3C2     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
 				Piscataway  NJ  08554
 				US
 
+64-31-36   (hex)		Mellanox Technologies, Inc.
+643136     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+94-FC-87   (hex)		Hirschmann Automation and Control GmbH
+94FC87     (base 16)		Hirschmann Automation and Control GmbH
+				Stuttgarter Straße 45-51
+				Neckartenzlingen    D-72654
+				DE
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231700,3 +231766,27 @@ A86ACB     (base 16)		EVAR
 				10 Mauchly
 				 Irvine  CA  92618
 				US
+
+70-79-2D   (hex)		Mellanox Technologies, Inc.
+70792D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+A4-43-1B   (hex)		Dreamtek Intelligent Technology Co., Ltd
+A4431B     (base 16)		Dreamtek Intelligent Technology Co., Ltd
+				Room 508, Building A2, Area one of Zhongan Chuanggu Science Park, No. 900 of Wangjiang West Road, High-tech Zone, Hefei, Anhui, China
+				Shanghai    230000
+				CN
+
+B8-84-11   (hex)		Shenzhen Shokz Co., Ltd.
+B88411     (base 16)		Shenzhen Shokz Co., Ltd.
+				Baoan District Shiyan street Shancheng Industrial zone 26 building
+				Shenzhen  Guangdong  518108
+				CN
+
+84-B8-90   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+84B890     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
