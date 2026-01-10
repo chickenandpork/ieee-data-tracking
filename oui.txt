@@ -46694,6 +46694,12 @@ D0B324     (base 16)		Apple, Inc.
 				46395  Bocholt  
 				DE
 
+AC-D2-0C   (hex)		Chengdu SingCore Technology Co.,Ltd.
+ACD20C     (base 16)		Chengdu SingCore Technology Co.,Ltd.
+				Room 4, 16th Floor, Building 10, No. 399 West Fucheng Avenue, Chengdu High-Tech Zone, China (Sichuan) Pilot Free Trade Zone,Chengdu, Sichuan Province, China. 
+				Chengdu  Sichuan  610041
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92621,17 +92627,11 @@ E0BA78     (base 16)		Apple, Inc.
 				REDMOND  WA  98052
 				US
 
-28-B2-0B   (hex)		NXP USA, Inc
-28B20B     (base 16)		NXP USA, Inc
-				6501 William Cannon Dr. - West
-				Austin  TX  78735
-				US
-
-80-AF-9F   (hex)		eero inc.
-80AF9F     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
+80-2A-F6   (hex)		Honor Device Co., Ltd.
+802AF6     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
 
 88-99-86   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 889986     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -92645,6 +92645,12 @@ E0BA78     (base 16)		Apple, Inc.
 				Hsinchu City  Hsinchu  30071
 				TW
 
+28-B2-0B   (hex)		NXP USA, Inc
+28B20B     (base 16)		NXP USA, Inc
+				6501 William Cannon Dr. - West
+				Austin  TX  78735
+				US
+
 00-11-1E   (hex)		B&R Industrial Automation GmbH 
 00111E     (base 16)		B&R Industrial Automation GmbH 
 				 B&R Strasse 1
@@ -92656,6 +92662,18 @@ E0BA78     (base 16)		Apple, Inc.
 				 B&R Strasse 1
 				Eggelsberg          5142
 				AT
+
+80-AF-9F   (hex)		eero inc.
+80AF9F     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+00-A3-07   (hex)		Honor Device Co., Ltd.
+00A307     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -138808,6 +138826,12 @@ E847F3     (base 16)		upscale ai
 				229, rue St Honore
 				Paris  IDF  75001
 				FR
+
+B8-61-FC   (hex)		Juniper Networks
+B861FC     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -185591,6 +185615,24 @@ B8328F     (base 16)		eero inc.
 				San Francisco  CA  94107
 				US
 
+88-F1-55   (hex)		Espressif Inc.
+88F155     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+AC-27-6E   (hex)		Espressif Inc.
+AC276E     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+E4-79-3F   (hex)		Juniper Networks
+E4793F     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231773,17 +231815,17 @@ D0F815     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-04-5E-0A   (hex)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
-045E0A     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
-				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
-				Shenzhen    518000
+B8-84-11   (hex)		Shenzhen Shokz Co., Ltd.
+B88411     (base 16)		Shenzhen Shokz Co., Ltd.
+				Baoan District Shiyan street Shancheng Industrial zone 26 building
+				Shenzhen  Guangdong  518108
 				CN
 
-A8-6A-CB   (hex)		EVAR
-A86ACB     (base 16)		EVAR
-				42, Changeop-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
-				Seoul  Gyunggi-do  13449
-				KR
+84-B8-90   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+84B890     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 70-79-2D   (hex)		Mellanox Technologies, Inc.
 70792D     (base 16)		Mellanox Technologies, Inc.
@@ -231797,17 +231839,29 @@ A4431B     (base 16)		Dreamtek Intelligent Technology Co., Ltd
 				Shanghai    230000
 				CN
 
-B8-84-11   (hex)		Shenzhen Shokz Co., Ltd.
-B88411     (base 16)		Shenzhen Shokz Co., Ltd.
-				Baoan District Shiyan street Shancheng Industrial zone 26 building
-				Shenzhen  Guangdong  518108
+94-6A-7C   (hex)		OnePlus Technology (Shenzhen) Co., Ltd
+946A7C     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
+				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
+				Shenzhen  Guangdong  518000
 				CN
 
-84-B8-90   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-84B890     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
+20-9B-A9   (hex)		Espressif Inc.
+209BA9     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
+
+04-5E-0A   (hex)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+045E0A     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
+				Shenzhen    518000
+				CN
+
+A8-6A-CB   (hex)		EVAR
+A86ACB     (base 16)		EVAR
+				42, Changeop-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
+				Seoul  Gyunggi-do  13449
+				KR
 
 F0-4F-E0   (hex)		Vizio, Inc
 F04FE0     (base 16)		Vizio, Inc
