@@ -46712,6 +46712,18 @@ ACD20C     (base 16)		Chengdu SingCore Technology Co.,Ltd.
 				Guangzhou    510540
 				CN
 
+68-78-A8   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+6878A8     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+B8-1E-0B   (hex)		Extreme Networks Headquarters
+B81E0B     (base 16)		Extreme Networks Headquarters
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -125939,12 +125951,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				San Francisco  California  94124
 				US
 
-00-09-D8   (hex)		Fält Communications AB
-0009D8     (base 16)		Fält Communications AB
-				Kylgränd 6a
-				SE 906 20  Umeå  
-				SE
-
 00-09-DB   (hex)		eSpace
 0009DB     (base 16)		eSpace
 				9623 Simsbury Ct.
@@ -138868,6 +138874,18 @@ E847F3     (base 16)		upscale ai
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+40-68-F9   (hex)		Shenzhen SuperElectron Technology Co.,Ltd.
+4068F9     (base 16)		Shenzhen SuperElectron Technology Co.,Ltd.
+				1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city
+				Shenzhen  Guangdong  518000
+				CN
+
+00-09-D8   (hex)		Telia Company AB
+0009D8     (base 16)		Telia Company AB
+				Östermalmsgatan 63A
+				Umeå     903 35 
+				SE
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -185681,6 +185699,36 @@ CC58C7     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+E8-F0-94   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+E8F094     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+B8-CD-58   (hex)		Shenzhen SuperElectron Technology Co.,Ltd.
+B8CD58     (base 16)		Shenzhen SuperElectron Technology Co.,Ltd.
+				1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city
+				Shenzhen  Guangdong  518000
+				CN
+
+BC-8D-2D   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+BC8D2D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+EC-30-DD   (hex)		eero inc.
+EC30DD     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+00-B8-1D   (hex)		Extreme Networks Headquarters
+00B81D     (base 16)		Extreme Networks Headquarters
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -231922,3 +231970,15 @@ F04FE0     (base 16)		Vizio, Inc
 				39 Tesla
 				Irvine  CA  92618
 				US
+
+14-2E-43   (hex)		Hisense broadband multimedia technology Co.,Ltd
+142E43     (base 16)		Hisense broadband multimedia technology Co.,Ltd
+				Song ling Road 399
+				Qingdao    266000
+				CN
+
+04-22-E7   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+0422E7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
