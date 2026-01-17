@@ -46736,6 +46736,18 @@ B81E0B     (base 16)		Extreme Networks Headquarters
 				Shanghai  Shanghai  201203
 				CN
 
+90-0A-75   (hex)		New H3C Technologies Co., Ltd
+900A75     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+98-04-5F   (hex)		Huawei Device Co., Ltd.
+98045F     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92721,6 +92733,36 @@ BC9C8D     (base 16)		Ruckus Wireless
 647084     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
+				CN
+
+64-D5-62   (hex)		Huawei Device Co., Ltd.
+64D562     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+08-94-EC   (hex)		Huawei Device Co., Ltd.
+0894EC     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+CC-B7-75   (hex)		Huawei Device Co., Ltd.
+CCB775     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+98-A3-75   (hex)		Huawei Device Co., Ltd.
+98A375     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B8-75-2E   (hex)		Huawei Device Co., Ltd.
+B8752E     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -138921,6 +138963,18 @@ B861FC     (base 16)		Juniper Networks
 80C2F0     (base 16)		Xiamen Yeastar Digital Technology Co.,Ltd
 				Building C09, Software Park Phase III, Xiamen 361024, Fujian, China
 				XIAMEN  FUJIAN  361024
+				CN
+
+14-49-C5   (hex)		Huawei Device Co., Ltd.
+1449C5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B4-54-F2   (hex)		Huawei Device Co., Ltd.
+B454F2     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -185783,6 +185837,24 @@ CC58C7     (base 16)		Nokia
 				Hsichu  Taiwan  300
 				TW
 
+64-1B-85   (hex)		Vantiva USA LLC
+641B85     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+1C-69-32   (hex)		Hisense Home Appliances Group Co., Ltd. Qingdao Branch
+1C6932     (base 16)		Hisense Home Appliances Group Co., Ltd. Qingdao Branch
+				Hisense R&D center,#399 Songling Road,Qingdao,Shandong,266000,China
+				Qingdao     266000
+				CN
+
+F4-A1-57   (hex)		Huawei Device Co., Ltd.
+F4A157     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -232019,11 +232091,11 @@ F04FE0     (base 16)		Vizio, Inc
 				Irvine  CA  92618
 				US
 
-0C-88-2F   (hex)		Frog Innovations Limited
-0C882F     (base 16)		Frog Innovations Limited
-				C23, Sector 80, Phase-II
-				Noida  Uttar Pradesh  201305
-				IN
+A4-CB-8F   (hex)		Espressif Inc.
+A4CB8F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 14-2E-43   (hex)		Hisense broadband multimedia technology Co.,Ltd
 142E43     (base 16)		Hisense broadband multimedia technology Co.,Ltd
@@ -232037,8 +232109,20 @@ F04FE0     (base 16)		Vizio, Inc
 				Wuhan  Hubei  430074
 				CN
 
-A4-CB-8F   (hex)		Espressif Inc.
-A4CB8F     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
+2C-63-A1   (hex)		Huawei Device Co., Ltd.
+2C63A1     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
+
+2C-E1-87   (hex)		New H3C Technologies Co., Ltd
+2CE187     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+0C-88-2F   (hex)		Frog Innovations Limited
+0C882F     (base 16)		Frog Innovations Limited
+				C23, Sector 80, Phase-II
+				Noida  Uttar Pradesh  201305
+				IN
