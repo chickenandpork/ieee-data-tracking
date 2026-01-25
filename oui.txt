@@ -46802,6 +46802,12 @@ ECF33C     (base 16)		Intel Corporate
 				Chengdu  Sichuan  611330
 				CN
 
+4C-4B-1F   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+4C4B1F     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -92783,6 +92789,12 @@ BC9C8D     (base 16)		Ruckus Wireless
 				Eggelsberg          5142
 				AT
 
+DC-15-5C   (hex)		Anntec （Beijing） Technology Co.,Ltd.
+DC155C     (base 16)		Anntec （Beijing） Technology Co.,Ltd.
+				F803, Shangdi Third Street, No.9,HaiDian District
+				Beijing    100080
+				CN
+
 08-94-EC   (hex)		Huawei Device Co., Ltd.
 0894EC     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -92806,24 +92818,6 @@ B8752E     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
-
-EC-50-A6   (hex)		Sagemcom Broadband SAS
-EC50A6     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-0C-52-7F   (hex)		Check Point Software Technologies Ltd.
-0C527F     (base 16)		Check Point Software Technologies Ltd.
-				5 Ha'solelim St
-				Tel Aviv    67897
-				IL
-
-60-46-4C   (hex)		Ligent Tech,Inc
-60464C     (base 16)		Ligent Tech,Inc
-				2580 N 1st, STE400
-				 San Jose  CA  95131
-				US
 
 10-A8-79   (hex)		Intel Corporate
 10A879     (base 16)		Intel Corporate
@@ -92855,17 +92849,23 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 				Kulim  Kedah  09000
 				MY
 
-9C-47-11   (hex)		ACCTON TECHNOLOGY CORPORATION
-9C4711     (base 16)		ACCTON TECHNOLOGY CORPORATION
-				No.1, Creation Road 3, Hsinchu Science Park,
-				Hsinchu    30077
-				TW
+EC-50-A6   (hex)		Sagemcom Broadband SAS
+EC50A6     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
-68-1E-A3   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
-681EA3     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
-				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
-				Chengdu  Sichuan  611330
-				CN
+0C-52-7F   (hex)		Check Point Software Technologies Ltd.
+0C527F     (base 16)		Check Point Software Technologies Ltd.
+				5 Ha'solelim St
+				Tel Aviv    67897
+				IL
+
+88-FE-B6   (hex)		ASKEY COMPUTER CORP
+88FEB6     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
 
 6C-56-40   (hex)		BLU Products Inc
 6C5640     (base 16)		BLU Products Inc
@@ -92883,6 +92883,24 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 0C0CEA     (base 16)		BLU Products Inc
 				8600 NW 36th Street  Suite 200
 				Miami  FL  33166
+				US
+
+68-1E-A3   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+681EA3     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
+
+9C-47-11   (hex)		ACCTON TECHNOLOGY CORPORATION
+9C4711     (base 16)		ACCTON TECHNOLOGY CORPORATION
+				No.1, Creation Road 3, Hsinchu Science Park,
+				Hsinchu    30077
+				TW
+
+60-46-4C   (hex)		Ligent Tech,Inc
+60464C     (base 16)		Ligent Tech,Inc
+				2580 N 1st, STE400
+				 San Jose  CA  95131
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -139073,10 +139091,10 @@ E847F3     (base 16)		upscale ai
 				Umeå     903 35 
 				SE
 
-80-C2-F0   (hex)		Xiamen Yeastar Digital Technology Co.,Ltd
-80C2F0     (base 16)		Xiamen Yeastar Digital Technology Co.,Ltd
-				Building C09, Software Park Phase III, Xiamen 361024, Fujian, China
-				XIAMEN  FUJIAN  361024
+34-6F-3F   (hex)		Hon Hai Precision Industry Co.,LTD
+346F3F     (base 16)		Hon Hai Precision Industry Co.,LTD
+				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
+				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
 				CN
 
 14-49-C5   (hex)		Huawei Device Co., Ltd.
@@ -139091,12 +139109,6 @@ B454F2     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-FC-66-37   (hex)		Sagemcom Broadband SAS
-FC6637     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 68-F9-0F   (hex)		Intel Corporate
 68F90F     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
@@ -139109,10 +139121,22 @@ D08E17     (base 16)		ACCTON TECHNOLOGY CORPORATION
 				Hsinchu    30077
 				TW
 
-8C-69-14   (hex)		FREEBOX SAS
-8C6914     (base 16)		FREEBOX SAS
-				16 rue de la Ville l'Eveque
-				PARIS  IdF  75008
+54-A0-AB   (hex)		Maiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
+54A0AB     (base 16)		Maiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
+				Room 1283, Building 3, No.288 Jiushenggang Road, Guoxiang Street, Economic Development Zone, Suzhou,China
+				Suzhou    215000
+				CN
+
+80-C2-F0   (hex)		Xiamen Yeastar Digital Technology Co.,Ltd
+80C2F0     (base 16)		Xiamen Yeastar Digital Technology Co.,Ltd
+				Building C09, Software Park Phase III, Xiamen 361024, Fujian, China
+				XIAMEN  FUJIAN  361024
+				CN
+
+FC-66-37   (hex)		Sagemcom Broadband SAS
+FC6637     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
 E4-C8-01   (hex)		BLU Products Inc
@@ -139120,6 +139144,12 @@ E4C801     (base 16)		BLU Products Inc
 				8600 NW 36th Street  Suite 200
 				Miami  FL  33166
 				US
+
+8C-69-14   (hex)		FREEBOX SAS
+8C6914     (base 16)		FREEBOX SAS
+				16 rue de la Ville l'Eveque
+				PARIS  IdF  75008
+				FR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -186035,6 +186065,12 @@ A8724D     (base 16)		Intel Corporate
 				Miami  FL  33166
 				US
 
+A8-CA-87   (hex)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
+A8CA87     (base 16)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
+				No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China
+				HANGZHOU    311400
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -232354,3 +232390,9 @@ A4CB8F     (base 16)		Espressif Inc.
 				Lot 8, Jalan Hi-Tech 2/3  
 				Kulim  Kedah  09000
 				MY
+
+EC-58-65   (hex)		Shenzhen Xinguodu Technology Co., Ltd
+EC5865     (base 16)		Shenzhen Xinguodu Technology Co., Ltd
+				17B, Jinson Building, Tairan 4th Road, Shatou Subdistrict, Futian District
+				Shenzhen  Guangdong  518048
+				CN
