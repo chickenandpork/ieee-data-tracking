@@ -46796,16 +46796,40 @@ ECF33C     (base 16)		Intel Corporate
 				Northridge  CA  91329
 				US
 
-88-00-C6   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
-8800C6     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
-				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
-				Chengdu  Sichuan  611330
+E4-06-E0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E406E0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
-4C-4B-1F   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-4C4B1F     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
-				Nanning  Guangxi  530007
+A4-59-BF   (hex)		Silicon Laboratories
+A459BF     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+DC-B4-3F   (hex)		eero inc.
+DCB43F     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+14-90-7A   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+14907A     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+1C-8F-57   (hex)		Espressif Inc.
+1C8F57     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+10-BD-A3   (hex)		Espressif Inc.
+10BDA3     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 9C-97-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -46826,23 +46850,17 @@ C05BBD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-E4-06-E0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-E406E0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+4C-4B-1F   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+4C4B1F     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
 				CN
 
-A4-59-BF   (hex)		Silicon Laboratories
-A459BF     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-DC-B4-3F   (hex)		eero inc.
-DCB43F     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
+88-00-C6   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+8800C6     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
 
 44-83-46   (hex)		Texas Instruments
 448346     (base 16)		Texas Instruments
@@ -93004,6 +93022,12 @@ A4A64E     (base 16)		Mellanox Technologies, Inc.
 				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
 				Shenzhen    518052
 				CN
+
+80-79-EF   (hex)		SUB-ZERO GROUP, INC.
+8079EF     (base 16)		SUB-ZERO GROUP, INC.
+				2835 Buds Drive
+				Fitchburg  WI  53719
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -139253,6 +139277,24 @@ E4C801     (base 16)		BLU Products Inc
 				PARIS  IdF  75008
 				FR
 
+24-64-77   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+246477     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+7C-B4-0F   (hex)		Fibocom Wireless Inc.
+7CB40F     (base 16)		Fibocom Wireless Inc.
+				1101,Tower A, Building 6, Shenzhen International Innovation Valley, Dashi 1st Rd, Nanshan
+				Shenzhen  Guangdong  518055
+				CN
+
+50-9F-B9   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+509FB9     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 DC-7E-F5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 DC7EF5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -139264,12 +139306,6 @@ DC7EF5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
-
-7C-B4-0F   (hex)		Fibocom Wireless Inc.
-7CB40F     (base 16)		Fibocom Wireless Inc.
-				1101,Tower A, Building 6, Shenzhen International Innovation Valley, Dashi 1st Rd, Nanshan
-				Shenzhen  Guangdong  518055
-				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -186226,6 +186262,12 @@ DC5D31     (base 16)		ITEL MOBILE LIMITED
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
 				Hong Kong  KOWLOON  999077
 				HK
+
+14-63-93   (hex)		Espressif Inc.
+146393     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
