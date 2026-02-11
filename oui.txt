@@ -46952,6 +46952,33 @@ C02FCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+FC-8F-A4   (hex)		NXP Semiconductors Taiwan Ltd.
+FC8FA4     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+A4-61-77   (hex)		AMOSENSE
+A46177     (base 16)		AMOSENSE
+				Narutu street 56
+				SEOUL  Sucho gu  06527
+				KR
+
+58-DF-70   (hex)		Private
+58DF70     (base 16)		Private
+
+54-01-4A   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+54014A     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+90-DF-06   (hex)		Ciena Corporation
+90DF06     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93121,8 +93148,26 @@ A4A64E     (base 16)		Mellanox Technologies, Inc.
 
 00-05-BA   (hex)		XK22 Enterprises, LLC
 0005BA     (base 16)		XK22 Enterprises, LLC
-				1148 Euclid Ave., Suite 400
-				Cleveland  OH  4415
+				2646 Wooster Rd. 
+				Rocky River  OH  44116
+				US
+
+B4-C0-C3   (hex)		TP-Link Systems Inc.
+B4C0C3     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+3C-BE-8E   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+3CBE8E     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+20-33-89   (hex)		Google, Inc.
+203389     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -126005,12 +126050,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				Tucson  AZ  85711
 				US
 
-00-0B-7C   (hex)		Telex Communications
-000B7C     (base 16)		Telex Communications
-				8601 E. Cornhusker Hwy
-				Lincoln  NE  68505
-				US
-
 00-0B-83   (hex)		DATAWATT B.V.
 000B83     (base 16)		DATAWATT B.V.
 				HOUTSTRAAT 5
@@ -139462,6 +139501,30 @@ F074C1     (base 16)		Blink by Amazon
 				No.65/113, Chamnan Phenjati, 12A Floor, Rama9 road
 				Bangkok  Bangkok  10310
 				TH
+
+00-0B-7C   (hex)		Electro-Voice Dynacord LLC
+000B7C     (base 16)		Electro-Voice Dynacord LLC
+				130 Perinton Parkway
+				Fairport  NY  14450
+				US
+
+E4-FE-E4   (hex)		Ciena Corporation
+E4FEE4     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+80-B5-C6   (hex)		OMRON Corporation
+80B5C6     (base 16)		OMRON Corporation
+				Shiokoji Horikawa, Shimogyo-ku
+				Kyoto    600-8530
+				JP
+
+48-78-5B   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+48785B     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -186440,29 +186503,11 @@ D489C1     (base 16)		Ubiquiti Inc
 				New York  NY  New York NY 10017
 				US
 
-F0-0C-51   (hex)		zte corporation
-F00C51     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 8C-0F-7E   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 8C0F7E     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
 				guangdong  China  518058
 				CN
-
-84-7C-EE   (hex)		Cisco Systems, Inc
-847CEE     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-08-95-36   (hex)		Actiontec Electronics Inc.
-089536     (base 16)		Actiontec Electronics Inc.
-				2445 Augustine Dr #501
-				Santa Clara   CA  95054
-				US
 
 08-9B-27   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 089B27     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
@@ -186470,10 +186515,52 @@ F00C51     (base 16)		zte corporation
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
 
+68-5E-DF   (hex)		NXP Semiconductors Taiwan Ltd.
+685EDF     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+F0-0C-51   (hex)		zte corporation
+F00C51     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+08-95-36   (hex)		Actiontec Electronics Inc.
+089536     (base 16)		Actiontec Electronics Inc.
+				2445 Augustine Dr #501
+				Santa Clara   CA  95054
+				US
+
+84-7C-EE   (hex)		Cisco Systems, Inc
+847CEE     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 90-6F-18   (hex)		Afero, Inc.
 906F18     (base 16)		Afero, Inc.
 				4410 El Camino Real, Suite 200
 				Los Altos    94022
+				US
+
+24-D6-60   (hex)		Silicon Laboratories
+24D660     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+18-C3-E4   (hex)		IEEE Registration Authority
+18C3E4     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+C0-3A-55   (hex)		TP-Link Systems Inc.
+C03A55     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -215153,12 +215240,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				Shenzhen  Guangdong  518035
 				CN
 
-00-1C-44   (hex)		Bosch Security Systems BV
-001C44     (base 16)		Bosch Security Systems BV
-				Kapittelweg 10
-				4827 HG  Breda  Brabant  4827
-				NL
-
 00-1C-4C   (hex)		Petrotest Instruments
 001C4C     (base 16)		Petrotest Instruments
 				Ludwig-Erhard-Ring 13
@@ -223435,12 +223516,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				RABIN BUILDING
 				D.N. MISGAV 201    
 				IL
-
-00-E0-AD   (hex)		EES TECHNOLOGY, LTD.
-00E0AD     (base 16)		EES TECHNOLOGY, LTD.
-				25 EASTWAYS
-				WITHAM, ESSEX, CM8 3AL    
-				GB
 
 00-E0-94   (hex)		OSAI SRL
 00E094     (base 16)		OSAI SRL
@@ -232903,3 +232978,27 @@ CC35D9     (base 16)		Ubiquiti Inc
 				Dukes Meadow, Millboard Raod Bourne End BU
 				Bourne End BU    SL8 5FH
 				GB
+
+00-1C-44   (hex)		Electro Voice Dynacord BV
+001C44     (base 16)		Electro Voice Dynacord BV
+				Achtseweg Zuid 173
+				5651 GW Eindhoven  Eindhoven  5651
+				NL
+
+00-E0-AD   (hex)		Brandywine Communications UK Ltd. 
+00E0AD     (base 16)		Brandywine Communications UK Ltd. 
+				20a Westside Centre London Road, Stanway, Colchester
+				ESSEX  England  CO3 8PH
+				GB
+
+58-8C-CF   (hex)		Silicon Laboratories
+588CCF     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+44-10-30   (hex)		Google, Inc.
+441030     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
