@@ -93170,6 +93170,18 @@ B4C0C3     (base 16)		TP-Link Systems Inc.
 				Mountain View  CA  94043
 				US
 
+34-4A-86   (hex)		Honor Device Co., Ltd.
+344A86     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+DC-69-CC   (hex)		LG Innotek
+DC69CC     (base 16)		LG Innotek
+				26, HANAMSANDAN 5BEON-RO
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -139524,6 +139536,30 @@ E4FEE4     (base 16)		Ciena Corporation
 48785B     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				No.555 Qianmo Road 
 				Hangzhou  Zhejiang  310052
+				CN
+
+60-7A-D8   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+607AD8     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+BC-00-23   (hex)		Honor Device Co., Ltd.
+BC0023     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+88-7C-C1   (hex)		Zebronics India Pvt Ltd
+887CC1     (base 16)		Zebronics India Pvt Ltd
+				No 13/7, Smith Road, Royapettah
+				Chennai  Tamil Nadu  600002
+				IN
+
+3C-CB-01   (hex)		Beijing Lingji innovations Technology Co., LTD.
+3CCB01     (base 16)		Beijing Lingji innovations Technology Co., LTD.
+				Room 106, 1F, A1 Bldg. Zhongguancun Dongsheng Technology Park (Northern Territory), No. 66, Xixiaokou Rd, Haidian Dist., Beijing, China
+				Beijing  Beijing  100192
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -186563,6 +186599,12 @@ C03A55     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
+6C-28-13   (hex)		nFore Technology Co., Ltd.
+6C2813     (base 16)		nFore Technology Co., Ltd.
+				5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist., 
+				Taipei city    114
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -193562,12 +193604,6 @@ A899DC     (base 16)		i-TOP DESING TECHNOLOGY CO.,LTD
 				SASEBO-City  NAGASAKI Prefecture  857-0115
 				JP
 
-50-C3-A2   (hex)		nFore Technology Co.,Ltd.
-50C3A2     (base 16)		nFore Technology Co.,Ltd.
-				5F., No.31, Ln. 258, Ruiguang Rd. Neihu Dist., Taipei City 114, Taiwan
-				Taipei    114
-				TW
-
 1C-D1-BA   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 1CD1BA     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -194365,12 +194401,6 @@ AC9572     (base 16)		Jovision Technology Co., Ltd.
 				Floor 12, Building 3, Aosheng Square, No.1166 Xinluo Street
 				Jinan  Shandong  250101
 				CN
-
-00-17-53   (hex)		nFore Technology Inc.
-001753     (base 16)		nFore Technology Inc.
-				5F, NO 31, Ln 258, Rulguang Rd
-				Taipei  Neihu District  11491
-				TW
 
 00-16-36   (hex)		Quanta Computer Inc.
 001636     (base 16)		Quanta Computer Inc.
@@ -200116,12 +200146,6 @@ F88A3C     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-A4-04-50   (hex)		nFore Technology Inc.
-A40450     (base 16)		nFore Technology Inc.
-				5F, NO 31, Ln 258, Rulguang Rd
-				Taipei  Neihu District  11491
-				TW
 
 FC-5A-1D   (hex)		Hitron Technologies. Inc
 FC5A1D     (base 16)		Hitron Technologies. Inc
@@ -232967,10 +232991,28 @@ CC35D9     (base 16)		Ubiquiti Inc
 				Piscataway  NJ  08554
 				US
 
-50-71-64   (hex)		Cisco Systems, Inc
-507164     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
+50-C3-A2   (hex)		nFore Technology Co., Ltd.
+50C3A2     (base 16)		nFore Technology Co., Ltd.
+				5F., No.31, Ln. 258, Ruiguang Rd. Neihu Dist., Taipei City 114, Taiwan
+				Taipei    114
+				TW
+
+A4-04-50   (hex)		nFore Technology Co., Ltd.
+A40450     (base 16)		nFore Technology Co., Ltd.
+				5F, NO 31, Ln 258, Rulguang Rd
+				Taipei  Neihu District  11491
+				TW
+
+00-17-53   (hex)		nFore Technology Co., Ltd.
+001753     (base 16)		nFore Technology Co., Ltd.
+				5F, NO 31, Ln 258, Rulguang Rd
+				Taipei  Neihu District  11491
+				TW
+
+44-10-30   (hex)		Google, Inc.
+441030     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
 				US
 
 80-C4-29   (hex)		Renesas Electronics Operations Services Limited
@@ -232978,12 +233020,6 @@ CC35D9     (base 16)		Ubiquiti Inc
 				Dukes Meadow, Millboard Raod Bourne End BU
 				Bourne End BU    SL8 5FH
 				GB
-
-00-1C-44   (hex)		Electro Voice Dynacord BV
-001C44     (base 16)		Electro Voice Dynacord BV
-				Achtseweg Zuid 173
-				5651 GW Eindhoven  Eindhoven  5651
-				NL
 
 00-E0-AD   (hex)		Brandywine Communications UK Ltd. 
 00E0AD     (base 16)		Brandywine Communications UK Ltd. 
@@ -232997,8 +233033,26 @@ CC35D9     (base 16)		Ubiquiti Inc
 				Austin  TX  78701
 				US
 
-44-10-30   (hex)		Google, Inc.
-441030     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
+50-71-64   (hex)		Cisco Systems, Inc
+507164     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
+
+00-1C-44   (hex)		Electro Voice Dynacord BV
+001C44     (base 16)		Electro Voice Dynacord BV
+				Achtseweg Zuid 173
+				5651 GW Eindhoven  Eindhoven  5651
+				NL
+
+B0-37-31   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+B03731     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
+				CN
+
+24-99-00   (hex)		FRITZ! Technology GmbH
+249900     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
