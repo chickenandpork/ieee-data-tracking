@@ -46991,6 +46991,12 @@ EC73F6     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Northridge  CA  91329
 				US
 
+2C-DE-F5   (hex)		TVS REGZA Corporation
+2CDEF5     (base 16)		TVS REGZA Corporation
+				19F, Kowa Kawasaki West Exit Building66-2 Horikawa-cho, Saiwai-ku
+				Kawasaki-shi  Kanagawa  2120013
+				JP
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93205,6 +93211,12 @@ D0C6BE     (base 16)		HPRO-Video
 				1875 Mission St, Ste 103
 				San Francisco  CA  94103
 				US
+
+C0-2D-10   (hex)		MOHAN ELECTRONICS AND SYSTEMS
+C02D10     (base 16)		MOHAN ELECTRONICS AND SYSTEMS
+				571, STREET NO. 6, CHANDERLOK, SHAHDARA, DELHI
+				DELHI  DELHI  110093
+				IN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -139520,11 +139532,23 @@ DC7EF5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Hsinchu    300094
 				TW
 
-F0-74-C1   (hex)		Blink by Amazon 
-F074C1     (base 16)		Blink by Amazon 
-				100 Riverpark Drive
-				North Reading   MA  01864
-				US
+BC-00-23   (hex)		Honor Device Co., Ltd.
+BC0023     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+88-7C-C1   (hex)		Zebronics India Pvt Ltd
+887CC1     (base 16)		Zebronics India Pvt Ltd
+				No 13/7, Smith Road, Royapettah
+				Chennai  Tamil Nadu  600002
+				IN
+
+3C-CB-01   (hex)		Beijing Lingji innovations Technology Co., LTD.
+3CCB01     (base 16)		Beijing Lingji innovations Technology Co., LTD.
+				Room 106, 1F, A1 Bldg. Zhongguancun Dongsheng Technology Park (Northern Territory), No. 66, Xixiaokou Rd, Haidian Dist., Beijing, China
+				Beijing  Beijing  100192
+				CN
 
 18-14-54   (hex)		CIG SHANGHAI CO LTD
 181454     (base 16)		CIG SHANGHAI CO LTD
@@ -139537,12 +139561,6 @@ F074C1     (base 16)		Blink by Amazon
 				No.65/113, Chamnan Phenjati, 12A Floor, Rama9 road
 				Bangkok  Bangkok  10310
 				TH
-
-00-0B-7C   (hex)		Electro-Voice Dynacord LLC
-000B7C     (base 16)		Electro-Voice Dynacord LLC
-				130 Perinton Parkway
-				Fairport  NY  14450
-				US
 
 E4-FE-E4   (hex)		Ciena Corporation
 E4FEE4     (base 16)		Ciena Corporation
@@ -139568,23 +139586,17 @@ E4FEE4     (base 16)		Ciena Corporation
 				Foshan  Guangdong  528311
 				CN
 
-BC-00-23   (hex)		Honor Device Co., Ltd.
-BC0023     (base 16)		Honor Device Co., Ltd.
-				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
-				Shenzhen   Guangdong  518040
-				CN
+F0-74-C1   (hex)		Blink by Amazon 
+F074C1     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
 
-88-7C-C1   (hex)		Zebronics India Pvt Ltd
-887CC1     (base 16)		Zebronics India Pvt Ltd
-				No 13/7, Smith Road, Royapettah
-				Chennai  Tamil Nadu  600002
-				IN
-
-3C-CB-01   (hex)		Beijing Lingji innovations Technology Co., LTD.
-3CCB01     (base 16)		Beijing Lingji innovations Technology Co., LTD.
-				Room 106, 1F, A1 Bldg. Zhongguancun Dongsheng Technology Park (Northern Territory), No. 66, Xixiaokou Rd, Haidian Dist., Beijing, China
-				Beijing  Beijing  100192
-				CN
+00-0B-7C   (hex)		Electro-Voice Dynacord LLC
+000B7C     (base 16)		Electro-Voice Dynacord LLC
+				130 Perinton Parkway
+				Fairport  NY  14450
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
