@@ -46985,6 +46985,24 @@ FC8FA4     (base 16)		NXP Semiconductors Taiwan Ltd.
 				Northridge  CA  91329
 				US
 
+B0-2B-64   (hex)		Cisco Systems, Inc
+B02B64     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+10-E6-76   (hex)		Cisco Systems, Inc
+10E676     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+FC-50-0C   (hex)		Sitehop Ltd
+FC500C     (base 16)		Sitehop Ltd
+				9 South Street
+				Sheffield  South Yorkshire  S2 5QX
+				GB
+
 00-26-89   (hex)		General Dynamics Land Systems Inc.
 002689     (base 16)		General Dynamics Land Systems Inc.
 				38500 Mound Road
@@ -46996,12 +47014,6 @@ FC8FA4     (base 16)		NXP Semiconductors Taiwan Ltd.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-FC-50-0C   (hex)		Sitehop Ltd
-FC500C     (base 16)		Sitehop Ltd
-				9 South Street
-				Sheffield  South Yorkshire  S2 5QX
-				GB
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -93258,6 +93270,12 @@ BC74EA     (base 16)		Apple, Inc.
 2C1CF7     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
+				US
+
+C8-26-91   (hex)		Arista Networks, Inc.
+C82691     (base 16)		Arista Networks, Inc.
+				5453 Great America Parkway
+				Santa Clara    95054
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -139664,6 +139682,12 @@ CCBE61     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+B8-57-D6   (hex)		Cisco Systems, Inc
+B857D6     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -169556,12 +169580,6 @@ A07332     (base 16)		Cashmaster International Limited
 				Pune  Maharashtra  411 038
 				IN
 
-00-17-1E   (hex)		Theo Benning GmbH & Co. KG
-00171E     (base 16)		Theo Benning GmbH & Co. KG
-				Muensterstraße 135-137
-				Bocholt  NRW  46397
-				DE
-
 00-17-12   (hex)		ISCO International
 001712     (base 16)		ISCO International
 				1001 Cambridge Drive
@@ -186753,6 +186771,24 @@ D4CE40     (base 16)		Apple, Inc.
 887015     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
+				US
+
+00-17-1E   (hex)		Benning Elektrotechnik und Elektronik GmbH & Co. KG
+00171E     (base 16)		Benning Elektrotechnik und Elektronik GmbH & Co. KG
+				Muensterstraße 135-137
+				Bocholt  NRW  46397
+				DE
+
+D8-62-CA   (hex)		Cisco Systems, Inc
+D862CA     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+F0-D0-18   (hex)		Hewlett Packard Enterprise
+F0D018     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -233254,3 +233290,9 @@ E88F8E     (base 16)		Hoags Technologies India Private Limited
 				Eppelheimer Straße 82
 				Heidelberg  Baden-Württemberg  69123
 				DE
+
+E8-FC-5F   (hex)		Ruckus Wireless
+E8FC5F     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
