@@ -77897,12 +77897,6 @@ CC0080     (base 16)		BETTINI SRL
 				Oslo    NO-0216
 				NO
 
-00-13-AE   (hex)		Radiance Technologies, Inc.
-0013AE     (base 16)		Radiance Technologies, Inc.
-				350 Wynn Dr.
-				Huntsville  Alabama  35805
-				US
-
 00-13-44   (hex)		Fargo Electronics Inc.
 001344     (base 16)		Fargo Electronics Inc.
 				6533 Flying Cloud Drive
@@ -93319,6 +93313,12 @@ B80B9A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-13-AE   (hex)		Radiance Technologies, Inc.
+0013AE     (base 16)		Radiance Technologies, Inc.
+				310 Bob Heath Dr.
+				Huntsville    35806
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -127322,12 +127322,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				Kanagawa    215-0034
 				JP
 
-00-07-8B   (hex)		Wegener Communications, Inc.
-00078B     (base 16)		Wegener Communications, Inc.
-				11350 Technology Circle
-				Duluth  GA  30097
-				US
-
 00-07-83   (hex)		SynCom Network, Inc.
 000783     (base 16)		SynCom Network, Inc.
 				4F, No. 31, Hsintai Road, Chupei City,
@@ -139735,6 +139729,12 @@ B857D6     (base 16)		Cisco Systems, Inc
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
 				CN
+
+00-07-8B   (hex)		Wegener Communications, Inc.
+00078B     (base 16)		Wegener Communications, Inc.
+				930 Interstate Ridge Drive, Ste. A,
+				Gainesville  GA  30501
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
