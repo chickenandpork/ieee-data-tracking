@@ -47045,6 +47045,24 @@ FC500C     (base 16)		Sitehop Ltd
 				Sheffield  South Yorkshire  S2 5QX
 				GB
 
+58-2A-BD   (hex)		Espressif Inc.
+582ABD     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+C8-C8-73   (hex)		CHIPSEN INC.
+C8C873     (base 16)		CHIPSEN INC.
+				501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil
+				Gwangmyeong-si  Gyeonggi-do  14353
+				KR
+
+D4-9F-F9   (hex)		Earda Technologies co Ltd
+D49FF9     (base 16)		Earda Technologies co Ltd
+				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
+				Guangzhou  Guangdong  511455
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93319,6 +93337,18 @@ B80B9A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				310 Bob Heath Dr.
 				Huntsville    35806
 				US
+
+A4-D7-D6   (hex)		Shenzhen Linkoh Network Technology Co;Ltd
+A4D7D6     (base 16)		Shenzhen Linkoh Network Technology Co;Ltd
+				Yangguang Industrial Park, Hangcheng, Bao'an
+				Shenzhen  Guangdong  518000
+				CN
+
+CC-0C-9C   (hex)		CIG SHANGHAI CO LTD
+CC0C9C     (base 16)		CIG SHANGHAI CO LTD
+				5th Floor, Building 8 No 2388 Chenhang Road 
+				SHANGHAI    201114
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -139735,6 +139765,30 @@ B857D6     (base 16)		Cisco Systems, Inc
 				930 Interstate Ridge Drive, Ste. A,
 				Gainesville  GA  30501
 				US
+
+90-64-9B   (hex)		Espressif Inc.
+90649B     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+E4-02-74   (hex)		FW Murphy Production Controls
+E40274     (base 16)		FW Murphy Production Controls
+				4646 S Harvard Ave
+				Tulsa  OK  74135
+				US
+
+14-0A-02   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+140A02     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
+
+38-E1-58   (hex)		Flaircomm Microelectronics,Inc.
+38E158     (base 16)		Flaircomm Microelectronics,Inc.
+				7F，Guomai Building,Guomai Science and Technology Park,116 Jiangbin East Avenue,Mawei District,Fuzhou City
+				Fuzhou  FUJIAN  350015
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -186857,6 +186911,18 @@ D862CA     (base 16)		Cisco Systems, Inc
 				Dongguan    523808
 				CN
 
+50-37-CD   (hex)		Quectel Wireless Solutions Co., Ltd.
+5037CD     (base 16)		Quectel Wireless Solutions Co., Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+74-25-54   (hex)		NVIDIA Corporation
+742554     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -233333,6 +233399,30 @@ E88F8E     (base 16)		Hoags Technologies India Private Limited
 				Beijing    100096
 				CN
 
+E8-FC-5F   (hex)		Ruckus Wireless
+E8FC5F     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-0C-DE   (hex)		ABB AG.
+000CDE     (base 16)		ABB AG.
+				Eppelheimer Straße 82
+				Heidelberg  Baden-Württemberg  69123
+				DE
+
+50-63-82   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+506382     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+BC-68-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC68C3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 3C-BF-D7   (hex)		Apple, Inc.
 3CBFD7     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -233351,28 +233441,10 @@ E88F8E     (base 16)		Hoags Technologies India Private Limited
 				Cupertino  CA  95014
 				US
 
-00-0C-DE   (hex)		ABB AG.
-000CDE     (base 16)		ABB AG.
-				Eppelheimer Straße 82
-				Heidelberg  Baden-Württemberg  69123
-				DE
-
-E8-FC-5F   (hex)		Ruckus Wireless
-E8FC5F     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
-50-63-82   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-506382     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-BC-68-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-BC68C3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+9C-CC-01   (hex)		Espressif Inc.
+9CCC01     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 A4-93-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
