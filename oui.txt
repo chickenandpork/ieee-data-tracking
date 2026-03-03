@@ -22799,12 +22799,6 @@ D42751     (base 16)		Infopia Co., Ltd
 				Regensburg  Bayern  93059
 				DE
 
-F4-C6-D7   (hex)		blackned GmbH
-F4C6D7     (base 16)		blackned GmbH
-				Am Hartholz 21
-				Alling  Bavaria  82239
-				DE
-
 4C-CA-53   (hex)		Skyera, Inc.
 4CCA53     (base 16)		Skyera, Inc.
 				1704 Automation Pkwy
@@ -47015,16 +47009,22 @@ FC500C     (base 16)		Sitehop Ltd
 				Cupertino  CA  95014
 				US
 
+58-2A-BD   (hex)		Espressif Inc.
+582ABD     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+C8-C8-73   (hex)		CHIPSEN INC.
+C8C873     (base 16)		CHIPSEN INC.
+				501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil
+				Gwangmyeong-si  Gyeonggi-do  14353
+				KR
+
 AC-45-B0   (hex)		Shenzhen Jidao Technology Co Ltd
 AC45B0     (base 16)		Shenzhen Jidao Technology Co Ltd
 				Room 605, Building 1, Saiba Technology Building, No. 16, North Keji Er Road
 				Shenzhen  Guangdong  518057
-				CN
-
-10-C1-97   (hex)		Xiaomi Communications Co Ltd
-10C197     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
 				CN
 
 3C-B9-22   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -47045,23 +47045,29 @@ AC45B0     (base 16)		Shenzhen Jidao Technology Co Ltd
 				Dongguan    523808
 				CN
 
-58-2A-BD   (hex)		Espressif Inc.
-582ABD     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-C8-C8-73   (hex)		CHIPSEN INC.
-C8C873     (base 16)		CHIPSEN INC.
-				501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil
-				Gwangmyeong-si  Gyeonggi-do  14353
-				KR
-
 D4-9F-F9   (hex)		Earda Technologies co Ltd
 D49FF9     (base 16)		Earda Technologies co Ltd
 				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
 				Guangzhou  Guangdong  511455
 				CN
+
+10-C1-97   (hex)		Xiaomi Communications Co Ltd
+10C197     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+90-0E-84   (hex)		eero inc.
+900E84     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+F4-C6-D7   (hex)		blackned GmbH
+F4C6D7     (base 16)		blackned GmbH
+				Zugspitzstrasse 1
+				Bavaria  Heimertingen  87751 
+				DE
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -139790,6 +139796,12 @@ E40274     (base 16)		FW Murphy Production Controls
 				Fuzhou  FUJIAN  350015
 				CN
 
+40-79-55   (hex)		Datacolor
+407955     (base 16)		Datacolor
+				2 Shengpu Road, Suzhou Industrial Park, Export Processing Zone B, Suzhou, Jiangsu, P.R. China
+				Suzhou     215000
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -186923,6 +186935,18 @@ D862CA     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+54-E6-FD   (hex)		Sony Interactive Entertainment Inc.
+54E6FD     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+6C-BF-2F   (hex)		eero inc.
+6CBF2F     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -233375,12 +233399,6 @@ A41894     (base 16)		IQSIGHT B.V.
 				Eindhoven    5651 GW
 				NL
 
-00-0C-DE   (hex)		ABB AG.
-000CDE     (base 16)		ABB AG.
-				Eppelheimer Straße 82
-				Heidelberg  Baden-Württemberg  69123
-				DE
-
 64-C9-05   (hex)		Apple, Inc.
 64C905     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -233452,3 +233470,15 @@ A493FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+00-0C-DE   (hex)		ABB AG
+000CDE     (base 16)		ABB AG
+				Eppelheimer Straße 82
+				Heidelberg  Baden-Württemberg  69123
+				DE
+
+E8-23-FB   (hex)		Redder
+E823FB     (base 16)		Redder
+				Via B. Ferracina, 2
+				Camisano Vicentino  VI  36043
+				IT
