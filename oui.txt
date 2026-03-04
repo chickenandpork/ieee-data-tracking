@@ -139802,6 +139802,18 @@ E40274     (base 16)		FW Murphy Production Controls
 				Suzhou     215000
 				CN
 
+00-7F-1D   (hex)		Fantasia Trading LLC
+007F1D     (base 16)		Fantasia Trading LLC
+				5350 Ontario Mills Pkwy, Suite 100
+				Ontario  CA  91764
+				US
+
+58-21-9D   (hex)		Shanghai Timar Integrated Circuit Co., LTD
+58219D     (base 16)		Shanghai Timar Integrated Circuit Co., LTD
+				Room 1208, No. 999 West Zhongshan Road, Changning District, Shanghai, China
+				shanghai  shanghai  200030
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -186947,6 +186959,18 @@ D862CA     (base 16)		Cisco Systems, Inc
 				San Francisco  CA  94107
 				US
 
+1C-E4-DD   (hex)		Technicolor (China) Technology Co., Ltd.
+1CE4DD     (base 16)		Technicolor (China) Technology Co., Ltd.
+				No.A2181,2F,Zhongguancun Dongsheng Science and Technology Park, Jia No.18, Xueqing Rd., Haidian District
+				Beijing    100083
+				CN
+
+38-B1-4E   (hex)		IEEE Registration Authority
+38B14E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -233453,6 +233477,24 @@ E8FC5F     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
+E8-68-B1   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+E868B1     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+B0-F0-79   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+B0F079     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+E8-23-FB   (hex)		Redder
+E823FB     (base 16)		Redder
+				Via B. Ferracina, 2
+				Camisano Vicentino  VI  36043
+				IT
+
 BC-68-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 BC68C3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -233471,14 +233513,14 @@ A493FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Shanghai  Shanghai  201203
 				CN
 
+40-BA-09   (hex)		Dell Inc.
+40BA09     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
 00-0C-DE   (hex)		ABB AG
 000CDE     (base 16)		ABB AG
 				Eppelheimer Straße 82
 				Heidelberg  Baden-Württemberg  69123
 				DE
-
-E8-23-FB   (hex)		Redder
-E823FB     (base 16)		Redder
-				Via B. Ferracina, 2
-				Camisano Vicentino  VI  36043
-				IT
