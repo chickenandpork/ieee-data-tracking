@@ -17681,12 +17681,6 @@ DC446D     (base 16)		Allwinner Technology Co., Ltd
 				Dongguan    523808
 				CN
 
-A8-D3-F7   (hex)		Arcadyan Technology Corporation
-A8D3F7     (base 16)		Arcadyan Technology Corporation
-				No.8, Sec.2, Guangfu Rd.,
-				Hsinchu City  Hsinchu  30071
-				TW
-
 00-0D-92   (hex)		ARIMA Communications Corp.
 000D92     (base 16)		ARIMA Communications Corp.
 				16, lane 658, Ying-Tao Road
@@ -47075,11 +47069,11 @@ F4C6D7     (base 16)		blackned GmbH
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-D4-4A-85   (hex)		Silicon Laboratories
-D44A85     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
+E0-D3-8E   (hex)		Chipsea Technologies (Shenzhen) Crop.
+E0D38E     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
 
 CC-C8-37   (hex)		Quectel Wireless Solutions Co.,Ltd.
 CCC837     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -47087,11 +47081,23 @@ CCC837     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				Shanghai    200233
 				CN
 
-E0-D3-8E   (hex)		Chipsea Technologies (Shenzhen) Crop.
-E0D38E     (base 16)		Chipsea Technologies (Shenzhen) Crop.
-				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
-				Shenzhen    518000
-				CN
+D4-4A-85   (hex)		Silicon Laboratories
+D44A85     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+38-A3-E0   (hex)		1Finity Inc
+38A3E0     (base 16)		1Finity Inc
+				4-1-1 Kamikodanaka, Nakahara-ku, Kawasaki-shi, Kanagawa211-8588, Japan
+				Kawasaki  Kanagawa  211-8588
+				JP
+
+A8-D3-F7   (hex)		Arcadyan Corporation
+A8D3F7     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.,
+				Hsinchu City  Hsinchu  30071
+				TW
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -64348,18 +64354,6 @@ C0FFD4     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
-
-00-26-4D   (hex)		Arcadyan Technology Corporation
-00264D     (base 16)		Arcadyan Technology Corporation
-				4F., No. 9 , Park Avenue II ,
-				Hsinchu  Taiwan  300
-				TW
-
-84-9C-A6   (hex)		Arcadyan Technology Corporation
-849CA6     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
 
 00-24-B2   (hex)		NETGEAR
 0024B2     (base 16)		NETGEAR
@@ -93422,6 +93416,18 @@ B4B650     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				Chongqing   China  401120
 				CN
 
+84-9C-A6   (hex)		Arcadyan Corporation
+849CA6     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+00-26-4D   (hex)		Arcadyan Corporation
+00264D     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II ,
+				Hsinchu  Taiwan  300
+				TW
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -102734,12 +102740,6 @@ AC8D34     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-74-31-70   (hex)		Arcadyan Technology Corporation
-743170     (base 16)		Arcadyan Technology Corporation
-				4F. , No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
-
 40-11-75   (hex)		IEEE Registration Authority
 401175     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -110900,24 +110900,6 @@ C4473F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-5C-DC-96   (hex)		Arcadyan Technology Corporation
-5CDC96     (base 16)		Arcadyan Technology Corporation
-				No.8, Sec.2, Guangfu Rd.,
-				Hsinchu City 30071,    12345
-				TW
-
-00-1A-2A   (hex)		Arcadyan Technology Corporation
-001A2A     (base 16)		Arcadyan Technology Corporation
-				4F., No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
-
-88-25-2C   (hex)		Arcadyan Technology Corporation
-88252C     (base 16)		Arcadyan Technology Corporation
-				4F., NO.9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
 00-E0-63   (hex)		Cabletron Systems, Inc.
 00E063     (base 16)		Cabletron Systems, Inc.
 				35 INDUSTRIAL WAY
@@ -110959,18 +110941,6 @@ D40129     (base 16)		Broadcom
 				ATIDIM TECHNOLOGICAL PK-BLDG.3
 				Tel-aviv    12345
 				IL
-
-1C-C6-3C   (hex)		Arcadyan Technology Corporation
-1CC63C     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-18-83-BF   (hex)		Arcadyan Technology Corporation
-1883BF     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
 
 68-ED-43   (hex)		BlackBerry RTS
 68ED43     (base 16)		BlackBerry RTS
@@ -139898,6 +139868,42 @@ E40A75     (base 16)		Silicon Laboratories
 				Suzhou     215000
 				CN
 
+18-83-BF   (hex)		Arcadyan Corporation
+1883BF     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+1C-C6-3C   (hex)		Arcadyan Corporation
+1CC63C     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+88-25-2C   (hex)		Arcadyan Corporation
+88252C     (base 16)		Arcadyan Corporation
+				4F., NO.9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+00-1A-2A   (hex)		Arcadyan Corporation
+001A2A     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
+
+5C-DC-96   (hex)		Arcadyan Corporation
+5CDC96     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.,
+				Hsinchu City 30071,    12345
+				TW
+
+74-31-70   (hex)		Arcadyan Corporation
+743170     (base 16)		Arcadyan Corporation
+				4F. , No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -156986,34 +156992,10 @@ D0D04B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-4C-09-D4   (hex)		Arcadyan Technology Corporation
-4C09D4     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
 C8-FF-28   (hex)		Liteon Technology Corporation
 C8FF28     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
-				TW
-
-9C-80-DF   (hex)		Arcadyan Technology Corporation
-9C80DF     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-00-23-08   (hex)		Arcadyan Technology Corporation
-002308     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-88-03-55   (hex)		Arcadyan Technology Corporation
-880355     (base 16)		Arcadyan Technology Corporation
-				4F., No.9 , Park Avenue II
-				Hsinchu    300
 				TW
 
 34-BB-1F   (hex)		BlackBerry RTS
@@ -187103,6 +187085,30 @@ B8D5AD     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+88-03-55   (hex)		Arcadyan Corporation
+880355     (base 16)		Arcadyan Corporation
+				4F., No.9 , Park Avenue II
+				Hsinchu    300
+				TW
+
+00-23-08   (hex)		Arcadyan Corporation
+002308     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+9C-80-DF   (hex)		Arcadyan Corporation
+9C80DF     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+4C-09-D4   (hex)		Arcadyan Corporation
+4C09D4     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -204607,30 +204613,6 @@ BC620E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-00-1D-19   (hex)		Arcadyan Technology Corporation
-001D19     (base 16)		Arcadyan Technology Corporation
-				4F., No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
-
-00-12-BF   (hex)		Arcadyan Technology Corporation
-0012BF     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II
-				Hsinchu    300
-				TW
-
-50-7E-5D   (hex)		Arcadyan Technology Corporation
-507E5D     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
-
-7C-4F-B5   (hex)		Arcadyan Technology Corporation
-7C4FB5     (base 16)		Arcadyan Technology Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
 
 00-20-D4   (hex)		Cabletron Systems, Inc.
 0020D4     (base 16)		Cabletron Systems, Inc.
@@ -233686,3 +233668,39 @@ DCB87D     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
 				US
+
+C0-6B-C7   (hex)		Gallagher Group Limited
+C06BC7     (base 16)		Gallagher Group Limited
+				181 Kahikatea Drive
+				Hamilton  Waikato  3204
+				NZ
+
+24-7E-7F   (hex)		D-Fend Solutions A.D Ltd
+247E7F     (base 16)		D-Fend Solutions A.D Ltd
+				13 Zarhin st
+				Raanana  Sharon  4366241
+				IL
+
+7C-4F-B5   (hex)		Arcadyan Corporation
+7C4FB5     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+50-7E-5D   (hex)		Arcadyan Corporation
+507E5D     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+00-12-BF   (hex)		Arcadyan Corporation
+0012BF     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II
+				Hsinchu    300
+				TW
+
+00-1D-19   (hex)		Arcadyan Corporation
+001D19     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
