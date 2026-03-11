@@ -47099,6 +47099,18 @@ A8D3F7     (base 16)		Arcadyan Corporation
 				Hsinchu City  Hsinchu  30071
 				TW
 
+74-13-6A   (hex)		Motorola Mobility LLC, a Lenovo Company
+74136A     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+08-D0-1E   (hex)		Juniper Networks
+08D01E     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93427,6 +93439,18 @@ B4B650     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				4F., No. 9 , Park Avenue II ,
 				Hsinchu  Taiwan  300
 				TW
+
+EC-B5-AF   (hex)		RayService a.s.
+ECB5AF     (base 16)		RayService a.s.
+				Huštěnovská 2022
+				Staré Město  Czech Republic  686 03
+				CZ
+
+20-B3-7F   (hex)		IEEE Registration Authority
+20B37F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -139903,6 +139927,12 @@ E40A75     (base 16)		Silicon Laboratories
 				4F. , No. 9 , Park Avenue II,
 				Hsinchu    300
 				TW
+
+EC-6F-F9   (hex)		Pioseed Technology(Chengdu)Co.,Ltd.
+EC6FF9     (base 16)		Pioseed Technology(Chengdu)Co.,Ltd.
+				Unit 1,Building 2,177 Tianquan Road,Chengdu High-tech Zone(self-numbered)
+				Chengdu  Sichuan  610097
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -187079,17 +187109,17 @@ EC72F7     (base 16)		DJI BAIWANG TECHNOLOGY CO LTD
 				Shenzhen  Guangdong  518057
 				CN
 
+38-6D-ED   (hex)		Juniper Networks
+386DED     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 B8-D5-AD   (hex)		Nokia
 B8D5AD     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
-
-88-03-55   (hex)		Arcadyan Corporation
-880355     (base 16)		Arcadyan Corporation
-				4F., No.9 , Park Avenue II
-				Hsinchu    300
-				TW
 
 00-23-08   (hex)		Arcadyan Corporation
 002308     (base 16)		Arcadyan Corporation
@@ -187100,6 +187130,18 @@ B8D5AD     (base 16)		Nokia
 9C-80-DF   (hex)		Arcadyan Corporation
 9C80DF     (base 16)		Arcadyan Corporation
 				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
+
+30-08-4D   (hex)		Trumpf Hüttinger
+30084D     (base 16)		Trumpf Hüttinger
+				Bötzingerstraße 80
+				Freiburg    79111
+				DE
+
+88-03-55   (hex)		Arcadyan Corporation
+880355     (base 16)		Arcadyan Corporation
+				4F., No.9 , Park Avenue II
 				Hsinchu    300
 				TW
 
@@ -233639,6 +233681,18 @@ A493FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Heidelberg  Baden-Württemberg  69123
 				DE
 
+64-CA-80   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+64CA80     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
+
+00-1D-19   (hex)		Arcadyan Corporation
+001D19     (base 16)		Arcadyan Corporation
+				4F., No. 9 , Park Avenue II,
+				Hsinchu    300
+				TW
+
 44-B1-76   (hex)		Espressif Inc.
 44B176     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -233651,11 +233705,11 @@ A493FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				shenzhen   guangdong  518057
 				CN
 
-64-CA-80   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-64CA80     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
-				Chongqing   China  401120
-				CN
+C0-6B-C7   (hex)		Gallagher Group Limited
+C06BC7     (base 16)		Gallagher Group Limited
+				181 Kahikatea Drive
+				Hamilton  Waikato  3204
+				NZ
 
 BC-C4-36   (hex)		Nokia
 BCC436     (base 16)		Nokia
@@ -233668,12 +233722,6 @@ DCB87D     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
 				US
-
-C0-6B-C7   (hex)		Gallagher Group Limited
-C06BC7     (base 16)		Gallagher Group Limited
-				181 Kahikatea Drive
-				Hamilton  Waikato  3204
-				NZ
 
 24-7E-7F   (hex)		D-Fend Solutions A.D Ltd
 247E7F     (base 16)		D-Fend Solutions A.D Ltd
@@ -233699,8 +233747,8 @@ C06BC7     (base 16)		Gallagher Group Limited
 				Hsinchu    300
 				TW
 
-00-1D-19   (hex)		Arcadyan Corporation
-001D19     (base 16)		Arcadyan Corporation
-				4F., No. 9 , Park Avenue II,
-				Hsinchu    300
-				TW
+98-2B-A6   (hex)		Motorola Mobility LLC, a Lenovo Company
+982BA6     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
