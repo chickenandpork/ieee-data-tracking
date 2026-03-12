@@ -47111,6 +47111,18 @@ A8D3F7     (base 16)		Arcadyan Corporation
 				Sunnyvale  CA  94089
 				US
 
+60-95-78   (hex)		Samsung Electronics Co.,Ltd
+609578     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+78-0A-57   (hex)		Shanghai Lightningsemi Technology Co.,Ltd.
+780A57     (base 16)		Shanghai Lightningsemi Technology Co.,Ltd.
+				 Floor 5, Building 6,No. 9,Lane 1670，XiuYan road，ISPACE Kangqiao Intelligent Manufacturing Industrial Park，Pudong district
+				SHANGHAI  SHANGHAI  201315
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93450,6 +93462,18 @@ ECB5AF     (base 16)		RayService a.s.
 20B37F     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+DC-73-FC   (hex)		Mellanox Technologies, Inc.
+DC73FC     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+CC-30-89   (hex)		Mellanox Technologies, Inc.
+CC3089     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -139933,6 +139957,12 @@ EC6FF9     (base 16)		Pioseed Technology(Chengdu)Co.,Ltd.
 				Unit 1,Building 2,177 Tianquan Road,Chengdu High-tech Zone(self-numbered)
 				Chengdu  Sichuan  610097
 				CN
+
+F8-E0-00   (hex)		FUJI ELECTRIC CO., LTD.
+F8E000     (base 16)		FUJI ELECTRIC CO., LTD.
+				1-27, Fuji-cho
+				Yokkaichi    510-0013
+				JP
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -187151,6 +187181,18 @@ B8D5AD     (base 16)		Nokia
 				Hsinchu    300
 				TW
 
+10-3A-5D   (hex)		Emerson
+103A5D     (base 16)		Emerson
+				6021 Innovation Blvd
+				Shakopee  MN  55379
+				US
+
+28-87-5F   (hex)		Annapurna labs
+28875F     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -233752,3 +233794,27 @@ DCB87D     (base 16)		Hewlett Packard Enterprise
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
+
+5C-82-17   (hex)		DSE srl
+5C8217     (base 16)		DSE srl
+				Via La Valle 51
+				San Mauro Torinese  TO  10099
+				IT
+
+AC-E6-06   (hex)		Honor Device Co., Ltd.
+ACE606     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+CC-FA-95   (hex)		Honor Device Co., Ltd.
+CCFA95     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+64-AC-E0   (hex)		Samsung Electronics Co.,Ltd
+64ACE0     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
