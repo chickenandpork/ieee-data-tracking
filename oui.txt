@@ -47135,6 +47135,18 @@ D096EA     (base 16)		vivo Mobile Communication Co., Ltd.
 				Dongguan  Guangdong  523860
 				CN
 
+5C-BA-75   (hex)		Quectel Wireless Solutions Co., Ltd.
+5CBA75     (base 16)		Quectel Wireless Solutions Co., Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+B8-38-65   (hex)		Hewlett Packard Enterprise
+B83865     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93452,6 +93464,24 @@ FCE421     (base 16)		zhejiang Dusun Electron Co.,Ltd
 				Courbevoie    92400
 				FR
 
+DC-73-FC   (hex)		Mellanox Technologies, Inc.
+DC73FC     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+CC-30-89   (hex)		Mellanox Technologies, Inc.
+CC3089     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+44-4A-4C   (hex)		vivo Mobile Communication Co., Ltd.
+444A4C     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
 84-9C-A6   (hex)		Arcadyan Corporation
 849CA6     (base 16)		Arcadyan Corporation
 				4F, No. 9, Park Avenue II ,
@@ -93476,23 +93506,11 @@ ECB5AF     (base 16)		RayService a.s.
 				Piscataway  NJ  08554
 				US
 
-DC-73-FC   (hex)		Mellanox Technologies, Inc.
-DC73FC     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
+00-76-B6   (hex)		Ford Motor Company
+0076B6     (base 16)		Ford Motor Company
+				20300 Rotunda Drive
+				Dearborn  MI  48124
 				US
-
-CC-30-89   (hex)		Mellanox Technologies, Inc.
-CC3089     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
-				US
-
-44-4A-4C   (hex)		vivo Mobile Communication Co., Ltd.
-444A4C     (base 16)		vivo Mobile Communication Co., Ltd.
-				No.1, vivo Road, Chang'an
-				Dongguan  Guangdong  523860
-				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -187193,17 +187211,17 @@ B8D5AD     (base 16)		Nokia
 				Hsinchu    300
 				TW
 
-4C-09-D4   (hex)		Arcadyan Corporation
-4C09D4     (base 16)		Arcadyan Corporation
-				4F, No. 9, Park Avenue II ,
-				Hsinchu    300
-				TW
+94-54-A0   (hex)		Fosilicon CO., Ltd
+9454A0     (base 16)		Fosilicon CO., Ltd
+				Room 502A, Building A, Phoenix Wisdom Valley, No. 50, Tiezi Road, Xixiang, Bao'an, Shenzhen
+				Shenzhen  Guangdong  518102
+				CN
 
-30-08-4D   (hex)		Trumpf Hüttinger
-30084D     (base 16)		Trumpf Hüttinger
-				Bötzingerstraße 80
-				Freiburg    79111
-				DE
+28-87-5F   (hex)		Annapurna labs
+28875F     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 38-6D-ED   (hex)		Juniper Networks
 386DED     (base 16)		Juniper Networks
@@ -187217,11 +187235,17 @@ B8D5AD     (base 16)		Nokia
 				Shakopee  MN  55379
 				US
 
-28-87-5F   (hex)		Annapurna labs
-28875F     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
+30-08-4D   (hex)		Trumpf Hüttinger
+30084D     (base 16)		Trumpf Hüttinger
+				Bötzingerstraße 80
+				Freiburg    79111
+				DE
+
+4C-09-D4   (hex)		Arcadyan Corporation
+4C09D4     (base 16)		Arcadyan Corporation
+				4F, No. 9, Park Avenue II ,
+				Hsinchu    300
+				TW
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
