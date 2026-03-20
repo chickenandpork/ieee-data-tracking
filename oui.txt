@@ -47165,6 +47165,12 @@ B0435D     (base 16)		MechoShade
 				Long Island City  NY  11101
 				US
 
+88-C3-44   (hex)		Google, Inc.
+88C344     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93552,6 +93558,12 @@ EC96BF     (base 16)		Kontron eSystems GmbH
 2CB471     (base 16)		Tuya Smart Inc.
 				160 Greentree Drive, Suite 101
 				Dover  DE  19904
+				US
+
+80-1D-0D   (hex)		IEEE Registration Authority
+801D0D     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -233957,12 +233969,6 @@ CC1EAB     (base 16)		LEDATEL sp. z o.o. i Wspólnicy sp.k
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-68-1D-4C   (hex)		Kontron eSystems GmbH
-681D4C     (base 16)		Kontron eSystems GmbH
-				Bahnhofstr. 96
-				Wendlingen    73240
-				DE
-
 04-C2-9B   (hex)		Aura Home, Inc.
 04C29B     (base 16)		Aura Home, Inc.
 				148 Lafayette Street, Floor 5
@@ -233981,8 +233987,32 @@ B89734     (base 16)		Silicon Laboratories
 				zhenjiang  jiangsu  212300
 				CN
 
+80-6D-DE   (hex)		Beken Corporation
+806DDE     (base 16)		Beken Corporation
+				Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District
+				Shanghai    201203
+				CN
+
 68-F4-E2   (hex)		Juke Audio
 68F4E2     (base 16)		Juke Audio
 				112 20th street
 				Manhattan Beach  CA  90266
 				US
+
+68-1D-4C   (hex)		Kontron eSystems GmbH
+681D4C     (base 16)		Kontron eSystems GmbH
+				Bahnhofstr. 96
+				Wendlingen    73240
+				DE
+
+34-DD-CC   (hex)		Google, Inc.
+34DDCC     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+9C-51-87   (hex)		SUNITEC TECHNOLOGY CO.,LIMITED
+9C5187     (base 16)		SUNITEC TECHNOLOGY CO.,LIMITED
+				Floor 1-4, building C, Weixlangtal industrial park, no, 725, Dasan Village、Xingfu community, Fucheng Street, Longhua district
+				Shenzhen    518110
+				CN
