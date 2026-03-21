@@ -47171,6 +47171,48 @@ B0435D     (base 16)		MechoShade
 				Mountain View  CA  94043
 				US
 
+AC-53-22   (hex)		Samsung Electronics Co.,Ltd
+AC5322     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+30-15-77   (hex)		Zyxel Communications Corporation
+301577     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+50-5E-3A   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+505E3A     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+F8-BA-98   (hex)		HUAQIN TECHNOLOGY CO., LTD
+F8BA98     (base 16)		HUAQIN TECHNOLOGY CO., LTD
+				No.699, Lvke Road
+				Pudong New Area  Shanghai  200000
+				CN
+
+90-06-DB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9006DB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+78-78-26   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+787826     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+5C-61-17   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C6117     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93524,12 +93566,6 @@ ECB5AF     (base 16)		RayService a.s.
 				Piscataway  NJ  08554
 				US
 
-00-76-B6   (hex)		Ford Motor Company
-0076B6     (base 16)		Ford Motor Company
-				20300 Rotunda Drive
-				Dearborn  MI  48124
-				US
-
 18-F5-8B   (hex)		GlobalReach Technology EMEA Ltd
 18F58B     (base 16)		GlobalReach Technology EMEA Ltd
 				51 Eastcheap 
@@ -93548,11 +93584,17 @@ ECB5AF     (base 16)		RayService a.s.
 				ShenZhen    518100
 				CN
 
-EC-96-BF   (hex)		Kontron eSystems GmbH
-EC96BF     (base 16)		Kontron eSystems GmbH
-				Bahnhofstr. 96
-				Wendlingen    73240
-				DE
+78-E0-C5   (hex)		Samsung Electronics Co.,Ltd
+78E0C5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+8C-EE-17   (hex)		GYGES LABS PTE.LTD
+8CEE17     (base 16)		GYGES LABS PTE.LTD
+				160 Robinson Road, #25-09, SBF Center， Singapore 068914
+				SINGAPORE    068914
+				SG
 
 2C-B4-71   (hex)		Tuya Smart Inc.
 2CB471     (base 16)		Tuya Smart Inc.
@@ -93560,11 +93602,47 @@ EC96BF     (base 16)		Kontron eSystems GmbH
 				Dover  DE  19904
 				US
 
+00-76-B6   (hex)		Ford Motor Company
+0076B6     (base 16)		Ford Motor Company
+				20300 Rotunda Drive
+				Dearborn  MI  48124
+				US
+
 80-1D-0D   (hex)		IEEE Registration Authority
 801D0D     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+EC-96-BF   (hex)		Kontron eSystems GmbH
+EC96BF     (base 16)		Kontron eSystems GmbH
+				Bahnhofstr. 96
+				Wendlingen    73240
+				DE
+
+B0-3D-BF   (hex)		shenzhen ceita communications technology co.,ltd
+B03DBF     (base 16)		shenzhen ceita communications technology co.,ltd
+				4/F, 3/B, Shayi North Yongfa Science and Technology Park, Shajing Town, Bao'an District, Shenzhen.
+				shenzhen  Select State  518104
+				CN
+
+9C-7F-64   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+9C7F64     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+C0-A3-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0A36D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+34-10-D0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3410D0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -140083,6 +140161,42 @@ D082EB     (base 16)		Tuya Smart Inc.
 				160 Greentree Drive, Suite 101
 				Dover  DE  19904
 				US
+
+8C-98-85   (hex)		Samsung Electronics Co.,Ltd
+8C9885     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F8-EC-FE   (hex)		Owl Home Inc.
+F8ECFE     (base 16)		Owl Home Inc.
+				1007n Orange St, 4th Floor Suite 5077
+				Wilmington  DE  19801
+				US
+
+E0-E8-05   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+E0E805     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
+
+D4-73-27   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D47327     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+AC-22-41   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC2241     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D0-04-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D00477     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -187319,6 +187433,30 @@ B8D5AD     (base 16)		Nokia
 				Hsinchu    300
 				TW
 
+DC-9D-ED   (hex)		Samsung Electronics Co.,Ltd
+DC9DED     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+AC-62-FF   (hex)		Vantiva USA LLC
+AC62FF     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+AC-46-A7   (hex)		SERCOMM PHILIPPINES INC
+AC46A7     (base 16)		SERCOMM PHILIPPINES INC
+				Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City
+				Calamba    Lot 1
+				PH
+
+30-C8-A2   (hex)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+30C8A2     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
+				Shenzhen    518000
+				CN
+
 E0-83-0D   (hex)		NOTTA PTE. LTD.
 E0830D     (base 16)		NOTTA PTE. LTD.
 				9 RAFFLES PLACE #26-01 REPUBLIC PLAZA
@@ -187342,6 +187480,18 @@ FCCA10     (base 16)		MERCUSYS TECHNOLOGIES CO., LTD.
 				3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen
 				Shenzhen  Guangdong  518057
 				CN
+
+34-C2-32   (hex)		Samsung Electronics Co.,Ltd
+34C232     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+9C-F2-7E   (hex)		Samsung Electronics Co.,Ltd
+9CF27E     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -233993,12 +234143,6 @@ B89734     (base 16)		Silicon Laboratories
 				Shanghai    201203
 				CN
 
-68-F4-E2   (hex)		Juke Audio
-68F4E2     (base 16)		Juke Audio
-				112 20th street
-				Manhattan Beach  CA  90266
-				US
-
 68-1D-4C   (hex)		Kontron eSystems GmbH
 681D4C     (base 16)		Kontron eSystems GmbH
 				Bahnhofstr. 96
@@ -234015,4 +234159,46 @@ B89734     (base 16)		Silicon Laboratories
 9C5187     (base 16)		SUNITEC TECHNOLOGY CO.,LIMITED
 				Floor 1-4, building C, Weixlangtal industrial park, no, 725, Dasan Village、Xingfu community, Fucheng Street, Longhua district
 				Shenzhen    518110
+				CN
+
+24-68-00   (hex)		Samsung Electronics Co.,Ltd
+246800     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F0-67-B1   (hex)		Samsung Electronics Co.,Ltd
+F067B1     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+90-0A-48   (hex)		Samsung Electronics Co.,Ltd
+900A48     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+B4-15-84   (hex)		Samsung Electronics Co.,Ltd
+B41584     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+E4-CA-5F   (hex)		Murata Manufacturing Co., Ltd.
+E4CA5F     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+FC-EB-7B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCEB7B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+00-CC-05   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00CC05     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
