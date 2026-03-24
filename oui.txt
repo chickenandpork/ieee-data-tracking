@@ -47213,6 +47213,36 @@ B0435D     (base 16)		MechoShade
 				Long Island City  NY  11101
 				US
 
+34-8A-3B   (hex)		Huawei Device Co., Ltd.
+348A3B     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+20-E5-25   (hex)		Huawei Device Co., Ltd.
+20E525     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B8-DC-28   (hex)		Extreme Networks Headquarters
+B8DC28     (base 16)		Extreme Networks Headquarters
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+1C-2D-60   (hex)		Extreme Networks Headquarters
+1C2D60     (base 16)		Extreme Networks Headquarters
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+84-EB-0C   (hex)		Mellanox Technologies, Inc.
+84EB0C     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93596,30 +93626,6 @@ EC96BF     (base 16)		Kontron eSystems GmbH
 				Wendlingen    73240
 				DE
 
-2C-B4-71   (hex)		Tuya Smart Inc.
-2CB471     (base 16)		Tuya Smart Inc.
-				160 Greentree Drive, Suite 101
-				Dover  DE  19904
-				US
-
-80-1D-0D   (hex)		IEEE Registration Authority
-801D0D     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-78-E0-C5   (hex)		Samsung Electronics Co.,Ltd
-78E0C5     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-8C-EE-17   (hex)		GYGES LABS PTE.LTD
-8CEE17     (base 16)		GYGES LABS PTE.LTD
-				160 Robinson Road, #25-09, SBF Center， Singapore 068914
-				SINGAPORE    068914
-				SG
-
 B0-3D-BF   (hex)		shenzhen ceita communications technology co.,ltd
 B03DBF     (base 16)		shenzhen ceita communications technology co.,ltd
 				4/F, 3/B, Shayi North Yongfa Science and Technology Park, Shajing Town, Bao'an District, Shenzhen.
@@ -93643,6 +93649,42 @@ C0A36D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+CC-13-F3   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+CC13F3     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
+C0-E5-79   (hex)		Huawei Device Co., Ltd.
+C0E579     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+78-E0-C5   (hex)		Samsung Electronics Co.,Ltd
+78E0C5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+8C-EE-17   (hex)		GYGES LABS PTE.LTD
+8CEE17     (base 16)		GYGES LABS PTE.LTD
+				160 Robinson Road, #25-09, SBF Center， Singapore 068914
+				SINGAPORE    068914
+				SG
+
+2C-B4-71   (hex)		Tuya Smart Inc.
+2CB471     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+80-1D-0D   (hex)		IEEE Registration Authority
+801D0D     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -140196,6 +140238,42 @@ D0-82-EB   (hex)		Tuya Smart Inc.
 D082EB     (base 16)		Tuya Smart Inc.
 				160 Greentree Drive, Suite 101
 				Dover  DE  19904
+				US
+
+44-CE-1D   (hex)		Nokia
+44CE1D     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+D0-B6-46   (hex)		NXP Semiconductors Taiwan Ltd.
+D0B646     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+54-73-5A   (hex)		Huawei Device Co., Ltd.
+54735A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E8-C3-C5   (hex)		Huawei Device Co., Ltd.
+E8C3C5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+C8-30-49   (hex)		Huawei Device Co., Ltd.
+C83049     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+34-22-CF   (hex)		AUMOVIO Systems, Inc.
+3422CF     (base 16)		AUMOVIO Systems, Inc.
+				21440 W. Lake Cook Rd.
+				Deer Park  IL  60010
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -187445,6 +187523,42 @@ E0830D     (base 16)		NOTTA PTE. LTD.
 				Shakopee  MN  55379
 				US
 
+DC-9D-ED   (hex)		Samsung Electronics Co.,Ltd
+DC9DED     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+AC-62-FF   (hex)		Vantiva USA LLC
+AC62FF     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+AC-46-A7   (hex)		SERCOMM PHILIPPINES INC
+AC46A7     (base 16)		SERCOMM PHILIPPINES INC
+				Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City
+				Calamba    Lot 1
+				PH
+
+30-C8-A2   (hex)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+30C8A2     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
+				Shenzhen    518000
+				CN
+
+D0-EA-30   (hex)		NXP Semiconductors Taiwan Ltd.
+D0EA30     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+F0-A4-EA   (hex)		Huawei Device Co., Ltd.
+F0A4EA     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 30-1C-22   (hex)		Hewlett Packard Enterprise
 301C22     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
@@ -187469,28 +187583,22 @@ FCCA10     (base 16)		MERCUSYS TECHNOLOGIES CO., LTD.
 				Gumi  Gyeongbuk  730-350
 				KR
 
-DC-9D-ED   (hex)		Samsung Electronics Co.,Ltd
-DC9DED     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+3C-15-5A   (hex)		Nokia
+3C155A     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
-AC-62-FF   (hex)		Vantiva USA LLC
-AC62FF     (base 16)		Vantiva USA LLC
-				4855 Peachtree Industrial Blvd, Suite 200
-				Norcross  GA  30902
-				US
+A8-F0-7C   (hex)		Huawei Device Co., Ltd.
+A8F07C     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
 
-AC-46-A7   (hex)		SERCOMM PHILIPPINES INC
-AC46A7     (base 16)		SERCOMM PHILIPPINES INC
-				Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City
-				Calamba    Lot 1
-				PH
-
-30-C8-A2   (hex)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
-30C8A2     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
-				Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China
-				Shenzhen    518000
+98-E3-01   (hex)		Shenzhen Sundray Technologies company Limited
+98E301     (base 16)		Shenzhen Sundray Technologies company Limited
+				1st Floor Building A1, Nanshan i Park, No.1001 Xueyuan Road, Nanshan District, Shenzhen, Guangdong Province, P. R. China
+				Shenzhen  GuangDong  518057
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -234143,22 +234251,28 @@ B89734     (base 16)		Silicon Laboratories
 				Wendlingen    73240
 				DE
 
+E4-CA-5F   (hex)		Murata Manufacturing Co., Ltd.
+E4CA5F     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+FC-EB-7B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCEB7B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+00-CC-05   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00CC05     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 80-6D-DE   (hex)		Beken Corporation
 806DDE     (base 16)		Beken Corporation
 				Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District
 				Shanghai    201203
-				CN
-
-34-DD-CC   (hex)		Google, Inc.
-34DDCC     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
-
-9C-51-87   (hex)		SUNITEC TECHNOLOGY CO.,LIMITED
-9C5187     (base 16)		SUNITEC TECHNOLOGY CO.,LIMITED
-				Floor 1-4, building C, Weixlangtal industrial park, no, 725, Dasan Village、Xingfu community, Fucheng Street, Longhua district
-				Shenzhen    518110
 				CN
 
 24-68-00   (hex)		Samsung Electronics Co.,Ltd
@@ -234179,26 +234293,50 @@ F067B1     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+EC-B9-A5   (hex)		Huawei Device Co., Ltd.
+ECB9A5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+04-80-1A   (hex)		Huawei Device Co., Ltd.
+04801A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+4C-D7-3A   (hex)		ShenZhen XinZhongXin Technology Co.， Ltd
+4CD73A     (base 16)		ShenZhen XinZhongXin Technology Co.， Ltd
+				Building A2,Donghuan Industrial Zone,No.293,Nanpu Road,Xinqiao Sub-district,Bao'an District,Shenzhen City,Guangdong Province
+				ShenZhen    518104
+				CN
+
+9C-51-87   (hex)		SUNITEC TECHNOLOGY CO.,LIMITED
+9C5187     (base 16)		SUNITEC TECHNOLOGY CO.,LIMITED
+				Floor 1-4, building C, Weixlangtal industrial park, no, 725, Dasan Village、Xingfu community, Fucheng Street, Longhua district
+				Shenzhen    518110
+				CN
+
 B4-15-84   (hex)		Samsung Electronics Co.,Ltd
 B41584     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
-E4-CA-5F   (hex)		Murata Manufacturing Co., Ltd.
-E4CA5F     (base 16)		Murata Manufacturing Co., Ltd.
-				1-10-1, Higashikotari
-				Nagaokakyo-shi  Kyoto  617-8555
-				JP
+34-DD-CC   (hex)		Google, Inc.
+34DDCC     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
-FC-EB-7B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-FCEB7B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+38-87-9C   (hex)		Ei Electronics
+38879C     (base 16)		Ei Electronics
+				Unit 40-47 Shannon Industrial Estate
+				Shannon  Co. Clare  V14 H020
+				IE
 
-00-CC-05   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-00CC05     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+F4-20-4D   (hex)		Mellanox Technologies, Inc.
+F4204D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
