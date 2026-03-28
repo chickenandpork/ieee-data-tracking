@@ -47237,6 +47237,12 @@ B8DC28     (base 16)		Extreme Networks Headquarters
 				Morrisville  NC  27560
 				US
 
+AC-AD-EF   (hex)		Wanan Hongsheng  Electronic Co.Ltd
+ACADEF     (base 16)		Wanan Hongsheng  Electronic Co.Ltd
+				 1st section of industrial pack,Wan'An County,Ji'An City
+				Ji'An City  ,jiangxi province  343800
+				CN
+
 84-EB-0C   (hex)		Mellanox Technologies, Inc.
 84EB0C     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -47247,12 +47253,6 @@ B8DC28     (base 16)		Extreme Networks Headquarters
 5414E9     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
-				CN
-
-AC-AD-EF   (hex)		Wanan Hongsheng  Electronic Co.Ltd
-ACADEF     (base 16)		Wanan Hongsheng  Electronic Co.Ltd
-				 1st section of industrial pack,Wan'An County,Ji'An City
-				Ji'An City  ,jiangxi province  343800
 				CN
 
 F4-F9-1E   (hex)		INGRAM MICRO SERVICES
@@ -93737,6 +93737,18 @@ A0146D     (base 16)		Suzhou NODKA Automation Technology Co.,Ltd
 				Shanghai   Pudong New Area  201206
 				CN
 
+20-50-0D   (hex)		Espressif Inc.
+20500D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A0-F2-61   (hex)		Palo Alto Networks
+A0F261     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -137369,9 +137381,6 @@ E4A430     (base 16)		Samsung Electronics Co.,Ltd
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-C0-BA-1F   (hex)		Private
-C0BA1F     (base 16)		Private
-
 78-E1-67   (hex)		Launch Tech Co., Ltd.
 78E167     (base 16)		Launch Tech Co., Ltd.
 				Launch Industrial Park, No.4012, North of Wuhe Road, Bantian Street, Longgang District,
@@ -140338,6 +140347,18 @@ D42B6F     (base 16)		Cisco Systems, Inc
 				No.20,Park Avenue II,Hsinchu Science Park
 				Hsin-Chu  R.O.C.  308
 				TW
+
+44-BD-8D   (hex)		Espressif Inc.
+44BD8D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+C0-BA-1F   (hex)		Xiamen Milesight IoT Co., Ltd.
+C0BA1F     (base 16)		Xiamen Milesight IoT Co., Ltd.
+				
+				    
+				
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -187646,6 +187667,24 @@ FCCA10     (base 16)		MERCUSYS TECHNOLOGIES CO., LTD.
 				Kanata  Ontario  K2K 2E6
 				CA
 
+08-AD-0A   (hex)		Espressif Inc.
+08AD0A     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+EC-B9-31   (hex)		TP-Link Systems Inc.
+ECB931     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+D4-D6-DF   (hex)		TP-Link Systems Inc.
+D4D6DF     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
 A8-F0-7C   (hex)		Huawei Device Co., Ltd.
 A8F07C     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -187670,11 +187709,23 @@ BCB30E     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+90-FC-55   (hex)		Hyve Solutions
+90FC55     (base 16)		Hyve Solutions
+				44201 Nobel Dr
+				Fremont  CA  94538
+				US
+
 00-07-A7   (hex)		Glory Technical Solutions Co., Ltd.
 0007A7     (base 16)		Glory Technical Solutions Co., Ltd.
 				1-3-1 Shimoteno
 				Himeji  Hyogo  00000
 				JP
+
+CC-E7-DE   (hex)		IEEE Registration Authority
+CCE7DE     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -231467,9 +231518,6 @@ DC6279     (base 16)		TP-Link Systems Inc
 				Irvine  CA  92606
 				US
 
-EC-34-E2   (hex)		Private
-EC34E2     (base 16)		Private
-
 D0-32-C3   (hex)		D-Link Corporation
 D032C3     (base 16)		D-Link Corporation
 				No.289, Sinhu 3rd Rd., Neihu District, 
@@ -234398,6 +234446,12 @@ B41584     (base 16)		Samsung Electronics Co.,Ltd
 				Mountain View  CA  94043
 				US
 
+CC-61-46   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+CC6146     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
 38-87-9C   (hex)		Ei Electronics
 38879C     (base 16)		Ei Electronics
 				Unit 40-47 Shannon Industrial Estate
@@ -234410,20 +234464,26 @@ F4204D     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
-7C-51-84   (hex)		Unis Flash Memory Technology(Chengdu)Co.,Ltd.
-7C5184     (base 16)		Unis Flash Memory Technology(Chengdu)Co.,Ltd.
-				Room 302, Block B, Ziguang Xinyun, No. 2555 Yizhou Avenue, High-tech Zone,
-				Chengdu  Sichuan  610000
-				CN
-
 E8-F6-74   (hex)		Jiang Su Fulian Communication Technology Co.,Ltd
 E8F674     (base 16)		Jiang Su Fulian Communication Technology Co.,Ltd
 				Yongan Community, the south of Lanling Road, Danyang Development Distinct
 				zhenjiang  jiangsu  212300
 				CN
 
-CC-61-46   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-CC6146     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
-				HO CHI MINH CITY  HO CHI MINH  820000
-				VN
+7C-51-84   (hex)		Unis Flash Memory Technology(Chengdu)Co.,Ltd.
+7C5184     (base 16)		Unis Flash Memory Technology(Chengdu)Co.,Ltd.
+				Room 302, Block B, Ziguang Xinyun, No. 2555 Yizhou Avenue, High-tech Zone,
+				Chengdu  Sichuan  610000
+				CN
+
+78-EC-B5   (hex)		Ruijie Networks Co.,LTD
+78ECB5     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
+				CN
+
+EC-34-E2   (hex)		Yasmina Labs Trading FZE
+EC34E2     (base 16)		Yasmina Labs Trading FZE
+				LB182702WS08, Jebel Ali Freezone
+				Dubai  Dubai  LB182702WS08
+				AE
