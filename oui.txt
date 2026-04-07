@@ -47345,6 +47345,12 @@ D0845D     (base 16)		B&C Transit, Inc.
 				FUZHOU  FUJIAN  350002
 				CN
 
+8C-18-01   (hex)		zte corporation
+8C1801     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93880,6 +93886,15 @@ AC3019     (base 16)		Shenzhen Hailingwei Electronics Co., Ltd.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+C4-92-D9   (hex)		zte corporation
+C492D9     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+80-3B-70   (hex)		Private
+803B70     (base 16)		Private
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -140504,11 +140519,17 @@ D42B6F     (base 16)		Cisco Systems, Inc
 				Deer Park  IL  60010
 				US
 
-E0-95-59   (hex)		Arcadyan Corporation
-E09559     (base 16)		Arcadyan Corporation
-				No.8, Sec.2, Guangfu Rd.
-				Hsinchu City  Hsinchu  30071
-				TW
+30-53-5B   (hex)		Shenzhen Comnect Technology Co.,LTD
+30535B     (base 16)		Shenzhen Comnect Technology Co.,LTD
+				5F, Building 8A, Shenzhen International Innovation Valley, Dashi 1st Road, Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+58-92-04   (hex)		zte corporation
+589204     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 B8-D0-8F   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B8D08F     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -140527,6 +140548,12 @@ F84068     (base 16)		SZ DJI Ronin Technology Co., Ltd.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+E0-95-59   (hex)		Arcadyan Corporation
+E09559     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -234769,3 +234796,9 @@ F4253C     (base 16)		eero inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+E4-FF-69   (hex)		Holiday Robotics
+E4FF69     (base 16)		Holiday Robotics
+				4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu
+				Seoul    06234
+				KR
