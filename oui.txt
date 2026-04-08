@@ -93863,12 +93863,6 @@ AC3019     (base 16)		Shenzhen Hailingwei Electronics Co., Ltd.
 				Hsinchu    30077
 				TW
 
-74-13-48   (hex)		Blink by Amazon 
-741348     (base 16)		Blink by Amazon 
-				100 Riverpark Drive
-				North Reading   MA  01864
-				US
-
 70-C2-88   (hex)		Intel Corporate
 70C288     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
@@ -93879,6 +93873,12 @@ AC3019     (base 16)		Shenzhen Hailingwei Electronics Co., Ltd.
 748FBF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
+				CN
+
+3C-A2-39   (hex)		DGSQ Co.,Ltd 
+3CA239     (base 16)		DGSQ Co.,Ltd 
+				Building A-B, Dongxing Industrial Park, Kengmei Village, Dongkeng Town, Dongguan City, Guangdong Province, China
+				Dongguan  Guangdong  523455
 				CN
 
 68-19-77   (hex)		New H3C Technologies Co., Ltd
@@ -93893,8 +93893,20 @@ C492D9     (base 16)		zte corporation
 				shenzhen   guangdong  518057
 				CN
 
+74-13-48   (hex)		Blink by Amazon 
+741348     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
+
 80-3B-70   (hex)		Private
 803B70     (base 16)		Private
+
+64-D3-63   (hex)		Seyond 
+64D363     (base 16)		Seyond 
+				160 San Gabriel Dr
+				Sunnyvale  CA  94086
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -140554,6 +140566,12 @@ E09559     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
+
+0C-02-5B   (hex)		Microchip Technology Inc.
+0C025B     (base 16)		Microchip Technology Inc.
+				2355 W. Chandler Blvd.
+				Chandler  AZ  85224
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -234802,3 +234820,9 @@ E4FF69     (base 16)		Holiday Robotics
 				4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu
 				Seoul    06234
 				KR
+
+10-F1-C7   (hex)		Tachyon Networks Inc
+10F1C7     (base 16)		Tachyon Networks Inc
+				4783 W Stoney Brook Ln
+				Highland  UT  84003
+				US
