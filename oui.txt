@@ -140573,6 +140573,12 @@ E09559     (base 16)		Arcadyan Corporation
 				Chandler  AZ  85224
 				US
 
+A8-75-4E   (hex)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
+A8754E     (base 16)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
+				10/F, Building B, No. 7 Qian Zhu Road, Taihu Street,
+				Suzhou  Jiangsu Province  215100
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -187994,6 +188000,12 @@ CCE7DE     (base 16)		IEEE Registration Authority
 				Nanjing  Jiangsu  211800
 				CN
 
+38-FF-59   (hex)		Dell Inc.
+38FF59     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -234826,3 +234838,15 @@ E4FF69     (base 16)		Holiday Robotics
 				4783 W Stoney Brook Ln
 				Highland  UT  84003
 				US
+
+1C-23-A2   (hex)		FRITZ! Technology GmbH
+1C23A2     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+9C-86-2B   (hex)		MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.
+9C862B     (base 16)		MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.
+				INNOPLEX, NO. 2A, MEDAN BAYAN LEPAS, BAYAN LEPAS TECHNOPLEX
+				BAYAN LEPAS  PENANG  11900
+				MY
