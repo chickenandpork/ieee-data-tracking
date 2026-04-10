@@ -47333,11 +47333,17 @@ F040EC     (base 16)		LOOPDESIGNLAB PTE. LTD
 				Singapore    088504
 				SG
 
-D0-84-5D   (hex)		B&C Transit, Inc.
-D0845D     (base 16)		B&C Transit, Inc.
-				701 Seco Road
-				Monroeville  PA  15146
-				US
+4C-6C-A1   (hex)		Chipsea Technologies (Shenzhen) Crop.
+4C6CA1     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
+
+80-45-6B   (hex)		Espressif Inc.
+80456B     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 90-84-8E   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 90848E     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
@@ -47350,6 +47356,12 @@ D0845D     (base 16)		B&C Transit, Inc.
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen   guangdong  518057
 				CN
+
+D0-84-5D   (hex)		B&C Transit, Inc.
+D0845D     (base 16)		B&C Transit, Inc.
+				701 Seco Road
+				Monroeville  PA  15146
+				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -93906,6 +93918,24 @@ C492D9     (base 16)		zte corporation
 64D363     (base 16)		Seyond 
 				160 San Gabriel Dr
 				Sunnyvale  CA  94086
+				US
+
+90-92-2C   (hex)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
+90922C     (base 16)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
+				No. 108, Haisen Street, High-tech Industrial Development Zone
+				Changzhi  Shanxi  046000
+				CN
+
+D4-94-77   (hex)		FONEX Data Systems Inc. 
+D49477     (base 16)		FONEX Data Systems Inc. 
+				5400 Saint-Francois
+				Saint-Laurent  QC  H4S 1P6
+				CA
+
+BC-FA-BA   (hex)		Mellanox Technologies, Inc.
+BCFABA     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -140577,6 +140607,12 @@ A8-75-4E   (hex)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
 A8754E     (base 16)		Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
 				10/F, Building B, No. 7 Qian Zhu Road, Taihu Street,
 				Suzhou  Jiangsu Province  215100
+				CN
+
+48-09-51   (hex)		Guangzhou Trustmo Information System Co.,LTD
+480951     (base 16)		Guangzhou Trustmo Information System Co.,LTD
+				19th Floor, No.123 Tiyu West Road, Tianhe District, Guangzhou City,Guangdong P.R. China
+				Guangzhou  Guangdong  510000
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -188006,6 +188042,18 @@ CCE7DE     (base 16)		IEEE Registration Authority
 				Round Rock   TX  78682
 				US
 
+B8-7B-4D   (hex)		Espressif Inc.
+B87B4D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+D4-05-92   (hex)		Espressif Inc.
+D40592     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -234821,24 +234869,6 @@ F4253C     (base 16)		eero inc.
 				San Francisco  CA  94107
 				US
 
-4C-6E-44   (hex)		IEEE Registration Authority
-4C6E44     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-E4-FF-69   (hex)		Holiday Robotics
-E4FF69     (base 16)		Holiday Robotics
-				4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu
-				Seoul    06234
-				KR
-
-10-F1-C7   (hex)		Tachyon Networks Inc
-10F1C7     (base 16)		Tachyon Networks Inc
-				4783 W Stoney Brook Ln
-				Highland  UT  84003
-				US
-
 1C-23-A2   (hex)		FRITZ! Technology GmbH
 1C23A2     (base 16)		FRITZ! Technology GmbH
 				Alt-Moabit 95
@@ -234850,3 +234880,33 @@ E4FF69     (base 16)		Holiday Robotics
 				INNOPLEX, NO. 2A, MEDAN BAYAN LEPAS, BAYAN LEPAS TECHNOPLEX
 				BAYAN LEPAS  PENANG  11900
 				MY
+
+E0-D3-F0   (hex)		AltoBeam Inc.
+E0D3F0     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+10-F1-C7   (hex)		Tachyon Networks Inc
+10F1C7     (base 16)		Tachyon Networks Inc
+				4783 W Stoney Brook Ln
+				Highland  UT  84003
+				US
+
+E4-FF-69   (hex)		Holiday Robotics
+E4FF69     (base 16)		Holiday Robotics
+				4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu
+				Seoul    06234
+				KR
+
+4C-6E-44   (hex)		IEEE Registration Authority
+4C6E44     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+48-13-89   (hex)		Mellanox Technologies, Inc.
+481389     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
