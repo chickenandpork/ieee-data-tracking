@@ -47399,6 +47399,30 @@ B8DA5E     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+5C-B2-DF   (hex)		Shenzhen Powerleader  Storage Technology Co., Ltd.
+5CB2DF     (base 16)		Shenzhen Powerleader  Storage Technology Co., Ltd.
+				2E, Unit 9, Mingjia Fuju, West of Yiyuan Road, Nantou Subdistrict, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+44-45-20   (hex)		EM Microelectronic
+444520     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+88-DB-08   (hex)		EM Microelectronic
+88DB08     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+24-4E-CD   (hex)		Sagemcom Broadband SAS
+244ECD     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -93950,30 +93974,6 @@ C492D9     (base 16)		zte corporation
 80-3B-70   (hex)		Private
 803B70     (base 16)		Private
 
-64-D3-63   (hex)		Seyond 
-64D363     (base 16)		Seyond 
-				160 San Gabriel Dr
-				Sunnyvale  CA  94086
-				US
-
-90-92-2C   (hex)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
-90922C     (base 16)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
-				No. 108, Haisen Street, High-tech Industrial Development Zone
-				Changzhi  Shanxi  046000
-				CN
-
-D4-94-77   (hex)		FONEX Data Systems Inc. 
-D49477     (base 16)		FONEX Data Systems Inc. 
-				5400 Saint-Francois
-				Saint-Laurent  QC  H4S 1P6
-				CA
-
-BC-FA-BA   (hex)		Mellanox Technologies, Inc.
-BCFABA     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
-				US
-
 78-8A-FB   (hex)		HANSHOW TECHNOLOGY CO.,LTD.
 788AFB     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
 				The 1st Floor Podium and Floor 4 of Building 1, Floor 7 of Building 5, JiaxingPhotovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District,Jiaxing City, Zhejiang Prov,P.R.China
@@ -93986,10 +93986,46 @@ BCFABA     (base 16)		Mellanox Technologies, Inc.
 				REDMOND  WA  98052
 				US
 
+3C-A0-0E   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+3CA00E     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
+FC-24-22   (hex)		Hangzhou Ezviz Software Co.,Ltd.
+FC2422     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
+				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
+
+90-92-2C   (hex)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
+90922C     (base 16)		Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.
+				No. 108, Haisen Street, High-tech Industrial Development Zone
+				Changzhi  Shanxi  046000
+				CN
+
+BC-FA-BA   (hex)		Mellanox Technologies, Inc.
+BCFABA     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+D4-94-77   (hex)		FONEX Data Systems Inc. 
+D49477     (base 16)		FONEX Data Systems Inc. 
+				5400 Saint-Francois
+				Saint-Laurent  QC  H4S 1P6
+				CA
+
 DC-1B-48   (hex)		Texas Instruments
 DC1B48     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+64-D3-63   (hex)		Seyond 
+64D363     (base 16)		Seyond 
+				160 San Gabriel Dr
+				Sunnyvale  CA  94086
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -140680,6 +140716,12 @@ A43CD4     (base 16)		JBL Professional
 				8500 Balboa Boulevard
 				Northridge  CA  91325
 				US
+
+64-79-99   (hex)		Sagemcom Broadband SAS
+647999     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -235000,3 +235042,21 @@ E4FF69     (base 16)		Holiday Robotics
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+30-6D-34   (hex)		Wu Qi Technologies,Inc.
+306D34     (base 16)		Wu Qi Technologies,Inc.
+				14/F, 107 Middle Road, Xiantao Big Data Valley, Yubei District
+				Chongqing  Chongqing  401120
+				CN
+
+B8-9D-E5   (hex)		ASIX Electronics Corporation
+B89DE5     (base 16)		ASIX Electronics Corporation
+				4F, No. 8, Hsin Ann Road, Hsinchu Science Park
+				Hsinchu    30078
+				TW
+
+E4-98-E0   (hex)		Tonly Technology Co. Ltd 
+E498E0     (base 16)		Tonly Technology Co. Ltd 
+				Section 37, Zhongkai Hi-Tech Development Zone
+				Huizhou  Guangdong  516006
+				CN
