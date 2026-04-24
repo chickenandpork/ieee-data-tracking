@@ -47459,16 +47459,10 @@ B4DF09     (base 16)		FLUX::
 				Hsichu  Taiwan  300
 				TW
 
-FC-59-7A   (hex)		Zebra Technologies Inc.
-FC597A     (base 16)		Zebra Technologies Inc.
-				ONE ZEBRA PLAZA
-				HOLTSVILLE  NY  11742
-				US
-
-A0-C6-A5   (hex)		Lierda Science & Technology Group Co., Ltd
-A0C6A5     (base 16)		Lierda Science & Technology Group Co., Ltd
-				Lierda Science Park，No.1326 WenyiWestRoad
-				Hangzhou  ZheJiang  311121
+A0-1B-04   (hex)		Hefei Huanxin Microelectronics Technology Co., Ltd.
+A01B04     (base 16)		Hefei Huanxin Microelectronics Technology Co., Ltd.
+				22nd Floor, Building A1, China Vision, No. 99 Longchuan Road, Baohe District, Hefei City, Anhui Province, China
+				Hefei  Anhui  230001
 				CN
 
 74-A9-81   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -47501,10 +47495,10 @@ E8EA34     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-A0-1B-04   (hex)		Hefei Huanxin Microelectronics Technology Co., Ltd.
-A01B04     (base 16)		Hefei Huanxin Microelectronics Technology Co., Ltd.
-				22nd Floor, Building A1, China Vision, No. 99 Longchuan Road, Baohe District, Hefei City, Anhui Province, China
-				Hefei  Anhui  230001
+A0-C6-A5   (hex)		Lierda Science & Technology Group Co., Ltd
+A0C6A5     (base 16)		Lierda Science & Technology Group Co., Ltd
+				Lierda Science Park，No.1326 WenyiWestRoad
+				Hangzhou  ZheJiang  311121
 				CN
 
 20-A3-66   (hex)		vivo Mobile Communication Co., Ltd.
@@ -47517,6 +47511,24 @@ A01B04     (base 16)		Hefei Huanxin Microelectronics Technology Co., Ltd.
 68FDE8     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
+				US
+
+7C-0C-5F   (hex)		Espressif Inc.
+7C0C5F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+7C-E8-B1   (hex)		Espressif Inc.
+7CE8B1     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+FC-59-7A   (hex)		Zebra Technologies Inc.
+FC597A     (base 16)		Zebra Technologies Inc.
+				ONE ZEBRA PLAZA
+				HOLTSVILLE  NY  11742
 				US
 
 00-01-30   (hex)		Extreme Networks Headquarters
@@ -94189,6 +94201,12 @@ C48ACE     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
 				Qianwangang Road 218
 				Qingdao  Shandong  266510
 				CN
+
+E8-B8-53   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+E8B853     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -140891,24 +140909,6 @@ A43CD4     (base 16)		JBL Professional
 				Northridge  CA  91325
 				US
 
-90-D7-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-90D733     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-3C-8B-6E   (hex)		Mellanox Technologies, Inc.
-3C8B6E     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
-				US
-
-C4-96-9F   (hex)		Amazon Technologies Inc.
-C4969F     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
-
 FC-37-6D   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 FC376D     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
@@ -140921,11 +140921,35 @@ FC376D     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Shenzhen    518052
 				CN
 
+3C-8B-6E   (hex)		Mellanox Technologies, Inc.
+3C8B6E     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+7C-4F-AD   (hex)		Espressif Inc.
+7C4FAD     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+90-D7-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90D733     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 1C-5B-A2   (hex)		HP GLOBALES MEXICO
 1C5BA2     (base 16)		HP GLOBALES MEXICO
 				JAVIER BARROS SIERRA
 				Mexico  ALVARO OBREGON  01376
 				MX
+
+C4-96-9F   (hex)		Amazon Technologies Inc.
+C4969F     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188461,6 +188485,12 @@ E06CA6     (base 16)		Creotech Quantum SA
 				ul. Gen. L. Okulickiego 7/9
 				Piaseczno  Mazovia  05-500
 				PL
+
+68-08-0D   (hex)		Shenzhen Yingsheng Technology Co., LTD
+68080D     (base 16)		Shenzhen Yingsheng Technology Co., LTD
+				Room 2701, Aerospace Innovation Building, No.7013 Liuxian Avenue, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
