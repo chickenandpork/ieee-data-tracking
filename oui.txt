@@ -47513,11 +47513,17 @@ FC597A     (base 16)		Zebra Technologies Inc.
 				HOLTSVILLE  NY  11742
 				US
 
-68-FD-E8   (hex)		Ruckus Wireless
-68FDE8     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
+BC-BF-2E   (hex)		ASUSTek COMPUTER INC.
+BCBF2E     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+48-EA-A9   (hex)		ShenZhen C&D Electronics CO.Ltd.
+48EAA9     (base 16)		ShenZhen C&D Electronics CO.Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park,  Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
 
 7C-0C-5F   (hex)		Espressif Inc.
 7C0C5F     (base 16)		Espressif Inc.
@@ -47531,23 +47537,11 @@ FC597A     (base 16)		Zebra Technologies Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-BC-BF-2E   (hex)		ASUSTek COMPUTER INC.
-BCBF2E     (base 16)		ASUSTek COMPUTER INC.
-				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
-				Taipei  Taiwan  112
-				TW
-
-48-EA-A9   (hex)		ShenZhen C&D Electronics CO.Ltd.
-48EAA9     (base 16)		ShenZhen C&D Electronics CO.Ltd.
-				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park,  Longhua New District
-				ShenZhen  GuangDong  518000
-				CN
-
-F8-C9-D6   (hex)		IEEE Registration Authority
-F8C9D6     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+34-F0-84   (hex)		Samsung Electronics Co.,Ltd
+34F084     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 D0-D4-FB   (hex)		Home Control Singapore Pte Ltd
 D0D4FB     (base 16)		Home Control Singapore Pte Ltd
@@ -47555,11 +47549,59 @@ D0D4FB     (base 16)		Home Control Singapore Pte Ltd
 				Singapore    408533
 				SG
 
+68-FD-E8   (hex)		Ruckus Wireless
+68FDE8     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+F8-C9-D6   (hex)		IEEE Registration Authority
+F8C9D6     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 0C-39-3D   (hex)		eero inc.
 0C393D     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
+
+FC-6E-83   (hex)		Samsung Electronics Co.,Ltd
+FC6E83     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F4-00-A2   (hex)		Samsung Electronics Co.,Ltd
+F400A2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-29-83   (hex)		Samsung Electronics Co.,Ltd
+3C2983     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+1C-42-C2   (hex)		Huawei Device Co., Ltd.
+1C42C2     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+F4-01-CC   (hex)		Silicon Laboratories
+F401CC     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+50-DE-92   (hex)		shenzhen worldelite electronics co., LTD
+50DE92     (base 16)		shenzhen worldelite electronics co., LTD
+				Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist
+				Shenzhen  Guangdong  51800
+				CN
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -94232,11 +94274,17 @@ F42F97     (base 16)		Embrava USA, Inc
 				New York  NY  10001
 				US
 
-E8-B8-53   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-E8B853     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
-				HO CHI MINH CITY  HO CHI MINH  820000
-				VN
+CC-A3-0C   (hex)		Silicon Laboratories
+CCA30C     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+98-FE-54   (hex)		Raspberry Pi (Trading) Ltd
+98FE54     (base 16)		Raspberry Pi (Trading) Ltd
+				Maurice Wilkes Building, St Johns Innovation Park
+				Cambridge  Cambridgeshire  CB4 0DS
+				GB
 
 AC-24-77   (hex)		Shenzhen Tinno Mobile Technology Corp
 AC2477     (base 16)		Shenzhen Tinno Mobile Technology Corp
@@ -94244,17 +94292,35 @@ AC2477     (base 16)		Shenzhen Tinno Mobile Technology Corp
 				Shenzhen  Guangdong  518053
 				CN
 
-50-85-7C   (hex)		eero inc.
-50857C     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
+E8-B8-53   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+E8B853     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+DC-8E-6D   (hex)		Huawei Device Co., Ltd.
+DC8E6D     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B0-64-E0   (hex)		Samsung Electronics Co.,Ltd
+B064E0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 94-64-42   (hex)		CELESTICA INC.
 946442     (base 16)		CELESTICA INC.
 				1900-5140 Yonge Street PO Box 42   
 				Toronto  Ontario  M2N 6L7
 				CA
+
+50-85-7C   (hex)		eero inc.
+50857C     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -120560,12 +120626,6 @@ A05DE7     (base 16)		DIRECTV, Inc.
 				El Segundo  CA  90245
 				US
 
-08-76-18   (hex)		ViE Technologies Sdn. Bhd.
-087618     (base 16)		ViE Technologies Sdn. Bhd.
-				no. 85-A, Lintang Bayan Lepas 11,
-				Bayan Lepas  Penang  11900
-				MY
-
 D0-E4-0B   (hex)		Wearable Inc.
 D0E40B     (base 16)		Wearable Inc.
 				3825 Charles Dr.
@@ -140987,17 +141047,53 @@ C4969F     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
-1C-5B-A2   (hex)		HP GLOBALES MEXICO
-1C5BA2     (base 16)		HP GLOBALES MEXICO
-				JAVIER BARROS SIERRA
-				Mexico  ALVARO OBREGON  01376
-				MX
-
-7C-4F-AD   (hex)		Espressif Inc.
-7C4FAD     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
+34-4E-E2   (hex)		Huawei Device Co., Ltd.
+344EE2     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
+
+7C-85-2F   (hex)		Huawei Device Co., Ltd.
+7C852F     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+78-96-6E   (hex)		Huawei Device Co., Ltd.
+78966E     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+3C-38-1F   (hex)		Huawei Device Co., Ltd.
+3C381F     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+DC-87-F8   (hex)		Samsung Electronics Co.,Ltd
+DC87F8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+4C-EC-EE   (hex)		Samsung Electronics Co.,Ltd
+4CECEE     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+28-72-C6   (hex)		Samsung Electronics Co.,Ltd
+2872C6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+84-19-85   (hex)		Samsung Electronics Co.,Ltd
+841985     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 5C-17-15   (hex)		ODrive Robotics
 5C1715     (base 16)		ODrive Robotics
@@ -141022,6 +141118,30 @@ D8CFB1     (base 16)		BRIGHT TECHNOLOGIES INDIA PRIVATE LIMITED
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+7C-4F-AD   (hex)		Espressif Inc.
+7C4FAD     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+1C-5B-A2   (hex)		HP GLOBALES MEXICO
+1C5BA2     (base 16)		HP GLOBALES MEXICO
+				JAVIER BARROS SIERRA
+				Mexico  ALVARO OBREGON  01376
+				MX
+
+C0-A4-CF   (hex)		Nintendo Co.,Ltd
+C0A4CF     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+08-76-18   (hex)		ViTrox Technologies Sdn. Bhd
+087618     (base 16)		ViTrox Technologies Sdn. Bhd
+				no. 85-A, Lintang Bayan Lepas 11,
+				Bayan Lepas  Penang  11900
+				MY
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188582,6 +188702,24 @@ E06CA6     (base 16)		Creotech Quantum SA
 				Sunnyvale  CA  94089
 				US
 
+9C-09-CA   (hex)		Huawei Device Co., Ltd.
+9C09CA     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+5C-85-05   (hex)		Huawei Device Co., Ltd.
+5C8505     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+BC-A6-E7   (hex)		Sichuan Odot Automation System Co., Ltd.
+BCA6E7     (base 16)		Sichuan Odot Automation System Co., Ltd.
+				Plant Building No. 204, Mianyang High-tech Zone,No.261 Eastern Section of Feiyun Avenue,Mianyang city Sichuan Province,China.
+				Mian Yang    621000
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -235546,3 +235684,21 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
+B0DE31     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+20-AE-B6   (hex)		Huawei Device Co., Ltd.
+20AEB6     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+7C-16-2A   (hex)		Huawei Device Co., Ltd.
+7C162A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
