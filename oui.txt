@@ -47609,6 +47609,24 @@ F8C9D6     (base 16)		IEEE Registration Authority
 				 Seoul    08501
 				KR
 
+44-49-C0   (hex)		NVIDIA Corporation
+4449C0     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
+
+B4-1C-AF   (hex)		UAB TELTONIKA NETWORKS
+B41CAF     (base 16)		UAB TELTONIKA NETWORKS
+				K. Baršausko g. 66
+				Kaunas  Kauno m. sav.  LT -51436
+				LT
+
+8C-08-3C   (hex)		EM Microelectronic
+8C083C     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94345,6 +94363,18 @@ B064E0     (base 16)		Samsung Electronics Co.,Ltd
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
+
+54-88-D5   (hex)		zte corporation
+5488D5     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+3C-35-58   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+3C3558     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141161,17 +141191,23 @@ C0A4CF     (base 16)		Nintendo Co.,Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-08-76-18   (hex)		ViTrox Technologies Sdn. Bhd
-087618     (base 16)		ViTrox Technologies Sdn. Bhd
-				no. 85-A, Lintang Bayan Lepas 11,
-				Bayan Lepas  Penang  11900
-				MY
-
 60-F7-23   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 60F723     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
 				CN
+
+08-76-18   (hex)		ViTrox Technologies Sdn. Bhd
+087618     (base 16)		ViTrox Technologies Sdn. Bhd
+				746, Persiaran Cassia Selatan 3 Batu Kawan Industrial Park
+				Bandar Cassia  Penang  14110 
+				MY
+
+A0-5D-0E   (hex)		ALPSALPINE CO.,LTD.
+A05D0E     (base 16)		ALPSALPINE CO.,LTD.
+				nishida 6-1
+				Kakuda-City  Miyagi-Pref  981-1595
+				JP
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188756,6 +188792,12 @@ BCA6E7     (base 16)		Sichuan Odot Automation System Co., Ltd.
 				Sunnyvale  CA  94089
 				US
 
+DC-33-0E   (hex)		Qingdao Haier Technology Co.Ltd
+DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -235721,11 +235763,29 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				San Jose  CA  94568
 				US
 
-B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
-B0DE31     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+6C-DF-D9   (hex)		Concept2, Inc.
+6CDFD9     (base 16)		Concept2, Inc.
+				105 Industrial Park Drive
+				Morrisville  VT  05661
+				US
+
+38-F4-06   (hex)		Jinan USR IOT Technology Limited
+38F406     (base 16)		Jinan USR IOT Technology Limited
+				Floor F1 & Part of Floor F2, Building No. 9,Diya shuang chuang Industrial Zone, No.2566,Century Main Road,Gaoxin District Jinan,Shandong China
+				Shandong  Jinan  250014
+				CN
+
+E0-A4-47   (hex)		zte corporation
+E0A447     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+80-E8-A4   (hex)		zte corporation
+80E8A4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 20-AE-B6   (hex)		Huawei Device Co., Ltd.
 20AEB6     (base 16)		Huawei Device Co., Ltd.
@@ -235739,8 +235799,14 @@ B0DE31     (base 16)		Samsung Electronics Co.,Ltd
 				Dongguan  Guangdong  523808
 				CN
 
-38-F4-06   (hex)		Jinan USR IOT Technology Limited
-38F406     (base 16)		Jinan USR IOT Technology Limited
-				Floor F1 & Part of Floor F2, Building No. 9,Diya shuang chuang Industrial Zone, No.2566,Century Main Road,Gaoxin District Jinan,Shandong China
-				Shandong  Jinan  250014
-				CN
+B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
+B0DE31     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+DC-CB-35   (hex)		EM Microelectronic
+DCCB35     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
