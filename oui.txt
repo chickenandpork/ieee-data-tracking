@@ -94376,6 +94376,18 @@ B064E0     (base 16)		Samsung Electronics Co.,Ltd
 				Nanning  Guangxi  530007
 				CN
 
+24-1A-F7   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+241AF7     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
+
+70-73-3A   (hex)		Jiangxi Remote lntelligence Technology Co.,Ltd
+70733A     (base 16)		Jiangxi Remote lntelligence Technology Co.,Ltd
+				No. 1, Chemical Avenue, Guixi335400, Yingtan, Jiangxi
+				Yingtan  Jiangxi   360600
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -141208,6 +141220,12 @@ A05D0E     (base 16)		ALPSALPINE CO.,LTD.
 				nishida 6-1
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
+
+2C-4B-14   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+2C4B14     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188798,6 +188816,12 @@ DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 				Qingdao    266101
 				CN
 
+6C-55-F6   (hex)		eero inc.
+6C55F6     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -235775,18 +235799,6 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				Shandong  Jinan  250014
 				CN
 
-E0-A4-47   (hex)		zte corporation
-E0A447     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
-80-E8-A4   (hex)		zte corporation
-80E8A4     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 20-AE-B6   (hex)		Huawei Device Co., Ltd.
 20AEB6     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -235799,14 +235811,32 @@ E0A447     (base 16)		zte corporation
 				Dongguan  Guangdong  523808
 				CN
 
+E0-A4-47   (hex)		zte corporation
+E0A447     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
 B0DE31     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
+80-E8-A4   (hex)		zte corporation
+80E8A4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 DC-CB-35   (hex)		EM Microelectronic
 DCCB35     (base 16)		EM Microelectronic
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
+
+5C-5A-35   (hex)		eero inc.
+5C5A35     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
