@@ -47669,6 +47669,18 @@ B0FC88     (base 16)		Sagemcom Broadband SAS
 				Changchun  Jilin  130012
 				CN
 
+D0-13-C1   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
+20-93-95   (hex)		nVent
+209395     (base 16)		nVent
+				1665 Utica Avenue, Suite 700
+				St. Louis Park  MN  55416
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -58954,12 +58966,6 @@ B831B5     (base 16)		Microsoft Corporation
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
-
-38-B4-D3   (hex)		BSH Hausgeraete GmbH
-38B4D3     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 C8-47-82   (hex)		Areson Technology Corp.
 C84782     (base 16)		Areson Technology Corp.
@@ -94441,6 +94447,12 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 				48 Steacie Drive
 				Ottawa  Ontario  K2K 2A9
 				CA
+
+38-B4-D3   (hex)		BSH Hausgeräte GmbH
+38B4D3     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141293,6 +141305,12 @@ C44268     (base 16)		CRESTRON ELECTRONICS, INC.
 				Orangeburg  NJ  10962
 				US
 
+D0-0C-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -150118,12 +150136,6 @@ CC418E     (base 16)		MSA Innovation
 				gaetbeol-ro
 				Incheon    21999
 				KR
-
-C8-D7-78   (hex)		BSH Hausgeraete GmbH
-C8D778     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 C0-95-DA   (hex)		NXP India Private Limited
 C095DA     (base 16)		NXP India Private Limited
@@ -188912,6 +188924,18 @@ A829DC     (base 16)		TP-Link Systems Inc.
 				Beijing    100053
 				CN
 
+C8-D7-78   (hex)		BSH Hausgeräte GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
+
+54-73-70   (hex)		The LEGO Group
+547370     (base 16)		The LEGO Group
+				Åstvej 17190 BillundDenmark
+				Billund  Jylland  7190
+				DK
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -194668,12 +194692,6 @@ D86D17     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				P.O Box 8102 
 				Reno  NV  89507
 				US
-
-74-5D-43   (hex)		BSH Hausgeraete GmbH
-745D43     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 00-0B-A5   (hex)		Quasar Cipta Mandiri, PT
 000BA5     (base 16)		Quasar Cipta Mandiri, PT
@@ -235913,22 +235931,16 @@ DCCB35     (base 16)		EM Microelectronic
 				San Francisco  CA  94107
 				US
 
-A0-39-F9   (hex)		Sagemcom Broadband SAS
-A039F9     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
+00-10-7F   (hex)		CRESTRON ELECTRONICS, INC.
+00107F     (base 16)		CRESTRON ELECTRONICS, INC.
+				88 Ramland Road
+				Orangeburg  NJ  10962
+				US
 
-54-B2-7E   (hex)		Sagemcom Broadband SAS
-54B27E     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-50-22-C9   (hex)		Bel Power Solutions, Inc.
-5022C9     (base 16)		Bel Power Solutions, Inc.
-				1326 South Wolf Road
-				Wheeling  IL  60090
+94-88-35   (hex)		CRESTRON ELECTRONICS, INC.
+948835     (base 16)		CRESTRON ELECTRONICS, INC.
+				88 Ramland Road
+				Orangeburg  NJ  10962
 				US
 
 10-7A-2A   (hex)		Microsoft Corporation
@@ -235949,14 +235961,26 @@ E04F95     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-00-10-7F   (hex)		CRESTRON ELECTRONICS, INC.
-00107F     (base 16)		CRESTRON ELECTRONICS, INC.
-				88 Ramland Road
-				Orangeburg  NJ  10962
+A0-39-F9   (hex)		Sagemcom Broadband SAS
+A039F9     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+54-B2-7E   (hex)		Sagemcom Broadband SAS
+54B27E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+50-22-C9   (hex)		Bel Power Solutions, Inc.
+5022C9     (base 16)		Bel Power Solutions, Inc.
+				1326 South Wolf Road
+				Wheeling  IL  60090
 				US
 
-94-88-35   (hex)		CRESTRON ELECTRONICS, INC.
-948835     (base 16)		CRESTRON ELECTRONICS, INC.
-				88 Ramland Road
-				Orangeburg  NJ  10962
-				US
+74-5D-43   (hex)		BSH Hausgeräte GmbH
+745D43     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
