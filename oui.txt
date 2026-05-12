@@ -47681,6 +47681,18 @@ D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				St. Louis Park  MN  55416
 				US
 
+F8-32-BA   (hex)		VusionGroup
+F832BA     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
+10-B0-6E   (hex)		Shenzhen Phaten Tech. LTD
+10B06E     (base 16)		Shenzhen Phaten Tech. LTD
+				C-6 ideamonto industril 7002 Songbai Road Guangming District Shenzhen City Guangdong, China
+				Shenzhen    518108
+				CN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94442,17 +94454,23 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 				Cambridge  Cambridgeshire  CB19NJ
 				GB
 
-00-03-74   (hex)		Schneider Electric
-000374     (base 16)		Schneider Electric
-				48 Steacie Drive
-				Ottawa  Ontario  K2K 2A9
-				CA
-
 38-B4-D3   (hex)		BSH Hausgeräte GmbH
 38B4D3     (base 16)		BSH Hausgeräte GmbH
 				Im Gewerbepark B10
 				Regensburg    93059
 				DE
+
+00-03-74   (hex)		Schneider Electric
+000374     (base 16)		Schneider Electric
+				35 Rue Joseph Monier
+				Rueil-Malmaison    92500
+				CA
+
+0C-54-27   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
+0C5427     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
+				Room 101, No.8 Xinglong 3rd Road, Shipai Town
+				Dongguan  Guangdong  523000
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141293,12 +141311,6 @@ B86685     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-00-05-21   (hex)		Schneider Electric
-000521     (base 16)		Schneider Electric
-				48 Steacie Drive
-				Ottawa  Ontario  K2K 2A9
-				CA
-
 C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
 C44268     (base 16)		CRESTRON ELECTRONICS, INC.
 				88 Ramland Road
@@ -141310,6 +141322,24 @@ D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				No.18, Ningshuang Road
 				 Nanjing  Jiangsu  210012
 				CN
+
+B8-1F-3F   (hex)		Espressif Inc.
+B81F3F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+90-DA-72   (hex)		Espressif Inc.
+90DA72     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+00-05-21   (hex)		Schneider Electric
+000521     (base 16)		Schneider Electric
+				35 Rue Joseph Monier
+				Rueil-Malmaison    92500
+				CA
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -188840,6 +188870,72 @@ DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 				San Francisco  CA  94107
 				US
 
+A8-29-DC   (hex)		TP-Link Systems Inc.
+A829DC     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+28-91-04   (hex)		TP-Link Systems Inc.
+289104     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+2C-06-13   (hex)		China Mobile Group Device Co.,Ltd.
+2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District 
+				Beijing    100053
+				CN
+
+B0-3F-D3   (hex)		Espressif Inc.
+B03FD3     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+C8-D7-78   (hex)		BSH Hausgeräte GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
+
+B0-1F-F4   (hex)		Sagemcom Broadband SAS
+B01FF4     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-18-DF   (hex)		Sagemcom Broadband SAS
+6418DF     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-50-39   (hex)		Sagemcom Broadband SAS
+D45039     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-7B-1E   (hex)		Sagemcom Broadband SAS
+647B1E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+44-15-24   (hex)		Sagemcom Broadband SAS
+441524     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D4-27-FF   (hex)		Sagemcom Broadband SAS
+D427FF     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 44-AD-B1   (hex)		Sagemcom Broadband SAS
 44ADB1     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
@@ -188869,66 +188965,6 @@ F04DD4     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
-
-64-7B-1E   (hex)		Sagemcom Broadband SAS
-647B1E     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-44-15-24   (hex)		Sagemcom Broadband SAS
-441524     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-D4-27-FF   (hex)		Sagemcom Broadband SAS
-D427FF     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-B0-1F-F4   (hex)		Sagemcom Broadband SAS
-B01FF4     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-64-18-DF   (hex)		Sagemcom Broadband SAS
-6418DF     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-D4-50-39   (hex)		Sagemcom Broadband SAS
-D45039     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-A8-29-DC   (hex)		TP-Link Systems Inc.
-A829DC     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
-28-91-04   (hex)		TP-Link Systems Inc.
-289104     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
-2C-06-13   (hex)		China Mobile Group Device Co.,Ltd.
-2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
-				32 Xuanwumen West Street,Xicheng District 
-				Beijing    100053
-				CN
-
-C8-D7-78   (hex)		BSH Hausgeräte GmbH
-C8D778     (base 16)		BSH Hausgeräte GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 54-73-70   (hex)		The LEGO Group
 547370     (base 16)		The LEGO Group
@@ -235984,3 +236020,15 @@ A039F9     (base 16)		Sagemcom Broadband SAS
 				Im Gewerbepark B10
 				Regensburg    93059
 				DE
+
+B4-90-E5   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+B490E5     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+B8-DC-7D   (hex)		VusionGroup
+B8DC7D     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
