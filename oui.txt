@@ -94490,6 +94490,42 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 				Hampton  NJ  08827
 				US
 
+BC-4F-2D   (hex)		Apple, Inc.
+BC4F2D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-82-83   (hex)		Apple, Inc.
+8C8283     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-B8-B7   (hex)		Apple, Inc.
+5CB8B7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+10-9E-6B   (hex)		Apple, Inc.
+109E6B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+EC-2C-0D   (hex)		Apple, Inc.
+EC2C0D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D8-46-CE   (hex)		Apple, Inc.
+D846CE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -141375,6 +141411,60 @@ C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
 C44268     (base 16)		CRESTRON ELECTRONICS, INC.
 				88 Ramland Road
 				Orangeburg  NJ  10962
+				US
+
+A0-87-BE   (hex)		Apple, Inc.
+A087BE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-F8-DD   (hex)		Apple, Inc.
+34F8DD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-D6-2C   (hex)		Apple, Inc.
+7CD62C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+30-09-16   (hex)		Apple, Inc.
+300916     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-2E-D5   (hex)		Apple, Inc.
+602ED5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-4F-CD   (hex)		Apple, Inc.
+7C4FCD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F4-A1-A6   (hex)		Apple, Inc.
+F4A1A6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-D5-37   (hex)		All Inspire Health Inc.
+14D537     (base 16)		All Inspire Health Inc.
+				19 Morris Avenue, Building 128, Cumberland Gate
+				Brooklyn  NY  11205
+				US
+
+6C-68-8A   (hex)		Amazon Technologies Inc.
+6C688A     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -188990,24 +189080,6 @@ F04DD4     (base 16)		Sagemcom Broadband SAS
 				Messageries  Bois Colombes  92270 
 				FR
 
-C8-D7-78   (hex)		BSH Hausgeräte GmbH
-C8D778     (base 16)		BSH Hausgeräte GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
-
-54-73-70   (hex)		The LEGO Group
-547370     (base 16)		The LEGO Group
-				Åstvej 17190 BillundDenmark
-				Billund  Jylland  7190
-				DK
-
-B0-3F-D3   (hex)		Espressif Inc.
-B03FD3     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 F4-16-E7   (hex)		Skyverse Limited
 F416E7     (base 16)		Skyverse Limited
 				Room 101、102 No.1301-14,Guanguang Road,Xinlan community,Guanlan street,Longhua district, Shenzhen,PRC
@@ -189019,6 +189091,60 @@ B49A7D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+58-0F-A5   (hex)		Apple, Inc.
+580FA5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+40-B5-70   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+40B570     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
+
+C8-D7-78   (hex)		BSH Hausgeräte GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
+
+48-0A-28   (hex)		Apple, Inc.
+480A28     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-89-C1   (hex)		Apple, Inc.
+BC89C1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+70-62-CB   (hex)		Apple, Inc.
+7062CB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B0-3F-D3   (hex)		Espressif Inc.
+B03FD3     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+54-73-70   (hex)		The LEGO Group
+547370     (base 16)		The LEGO Group
+				Åstvej 17190 BillundDenmark
+				Billund  Jylland  7190
+				DK
+
+08-7B-0F   (hex)		Amazon Technologies Inc.
+087B0F     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -236098,3 +236224,33 @@ F86347     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
 				Shenzhen   Guangdong  518040
 				CN
+
+20-1F-55   (hex)		DJI Osmo Technology Co., Ltd.
+201F55     (base 16)		DJI Osmo Technology Co., Ltd.
+				Tower 1, DJI Sky City, No. 55 Xianyuan Road, Xili Community, Xili Subdistrict, Nanshan District
+				shenzhen    518057
+				CN
+
+90-4D-E2   (hex)		Apple, Inc.
+904DE2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-24-0B   (hex)		Apple, Inc.
+08240B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+EC-DC-AA   (hex)		Apple, Inc.
+ECDCAA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-0E-C1   (hex)		IEEE Registration Authority
+0C0EC1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
