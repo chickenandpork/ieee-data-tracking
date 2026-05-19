@@ -47705,6 +47705,12 @@ D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				St. Louis Park  MN  55416
 				US
 
+EC-86-C4   (hex)		Mellanox Technologies, Inc.
+EC86C4     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94537,6 +94543,30 @@ D846CE     (base 16)		Apple, Inc.
 				595, SECTOR-8, IMT MANESAR
 				GURGAON  Haryana  122051
 				IN
+
+78-0C-26   (hex)		Trafag AG
+780C26     (base 16)		Trafag AG
+				Industriestrasse 11
+				Bubikon  Zuerich  8608
+				CH
+
+74-28-AE   (hex)		Mellanox Technologies, Inc.
+7428AE     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+20-59-D1   (hex)		Mellanox Technologies, Inc.
+2059D1     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+64-97-46   (hex)		AzureWave Technology Inc.
+649746     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141502,6 +141532,12 @@ E0D239     (base 16)		TECHNOLID, LLC
 				Nobelya, 7
 				Moscow    121205
 				RU
+
+AC-23-6E   (hex)		Apismoon Electric Pte. Ltd.
+AC236E     (base 16)		Apismoon Electric Pte. Ltd.
+				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
+				SINGAPORE    533757
+				SG
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -189188,6 +189224,18 @@ BC89C1     (base 16)		Apple, Inc.
 				Reno  NV  89507
 				US
 
+44-B4-A0   (hex)		Mellanox Technologies, Inc.
+44B4A0     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+64-7D-4D   (hex)		Arcadyan Corporation
+647D4D     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -236302,3 +236350,15 @@ ECDCAA     (base 16)		Apple, Inc.
 				Gebze Yerleskesi Marmara Arastirma Merkezi 
 				KOCAELI  TR  41470
 				TR
+
+10-19-88   (hex)		Mother Computer Inc.
+101988     (base 16)		Mother Computer Inc.
+				103 Pioneer Way, Ste B
+				Mountain View  CA  94041
+				US
+
+F8-B2-2C   (hex)		Roku, Inc
+F8B22C     (base 16)		Roku, Inc
+				1173 Coleman Ave
+				San Jose  CA  95110
+				US
