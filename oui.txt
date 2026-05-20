@@ -47711,6 +47711,18 @@ EC86C4     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
+D0-55-33   (hex)		Palo Alto Networks
+D05533     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
+
+1C-E5-87   (hex)		Cisco Meraki
+1CE587     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -129476,12 +129488,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				St. Louis  MO  63141
 				US
 
-00-03-CA   (hex)		MTS Systems Corp.
-0003CA     (base 16)		MTS Systems Corp.
-				3001 Sheldon Drive
-				Cary,  NC  27513
-				US
-
 00-03-CB   (hex)		SystemGear Co., Ltd.
 0003CB     (base 16)		SystemGear Co., Ltd.
 				1-9-14 Edobori
@@ -141538,6 +141544,18 @@ AC236E     (base 16)		Apismoon Electric Pte. Ltd.
 				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
 				SINGAPORE    533757
 				SG
+
+FC-11-19   (hex)		Silicon Laboratories
+FC1119     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+00-03-CA   (hex)		Temposonics, LLC
+0003CA     (base 16)		Temposonics, LLC
+				3001 Sheldon Drive
+				Cary,  NC  27513
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -189236,6 +189254,18 @@ BC89C1     (base 16)		Apple, Inc.
 				Hsinchu City  Hsinchu  30071
 				TW
 
+54-F2-83   (hex)		Silicon Laboratories
+54F283     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+A0-4E-8D   (hex)		Cisco Meraki
+A04E8D     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -227240,12 +227270,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				    ENGLAND
 				GB
 
-00-C0-96   (hex)		TAMURA CORPORATION
-00C096     (base 16)		TAMURA CORPORATION
-				COMMUNICATION SYSTEMS DIV.
-				    
-				JP
-
 00-C0-4E   (hex)		COMTROL CORPORATION
 00C04E     (base 16)		COMTROL CORPORATION
 				2675 PATTON ROAD
@@ -236362,3 +236386,9 @@ F8B22C     (base 16)		Roku, Inc
 				1173 Coleman Ave
 				San Jose  CA  95110
 				US
+
+00-C0-96   (hex)		Tamu Radiance Corporation
+00C096     (base 16)		Tamu Radiance Corporation
+				Ebisu, Shibuya-ku, Tokyo
+				Tokyo    -
+				JP
