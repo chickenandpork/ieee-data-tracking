@@ -47723,6 +47723,12 @@ D05533     (base 16)		Palo Alto Networks
 				San Francisco    94158
 				US
 
+B8-34-46   (hex)		Motorola Mobility LLC, a Lenovo Company
+B83446     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94550,12 +94556,6 @@ D846CE     (base 16)		Apple, Inc.
 				Rueil-Malmaison    92500
 				CA
 
-44-99-5B   (hex)		GX India Pvt Ltd
-44995B     (base 16)		GX India Pvt Ltd
-				595, SECTOR-8, IMT MANESAR
-				GURGAON  Haryana  122051
-				IN
-
 78-0C-26   (hex)		Trafag AG
 780C26     (base 16)		Trafag AG
 				Industriestrasse 11
@@ -94579,6 +94579,12 @@ D846CE     (base 16)		Apple, Inc.
 				8F., No. 94, Baozhong Rd.
 				New Taipei City  Taiwan  231
 				TW
+
+44-99-5B   (hex)		GX India Pvt Ltd
+44995B     (base 16)		GX India Pvt Ltd
+				595, SECTOR-8, IMT MANESAR
+				GURGAON  Haryana  122051
+				IN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141556,6 +141562,18 @@ FC1119     (base 16)		Silicon Laboratories
 				3001 Sheldon Drive
 				Cary,  NC  27513
 				US
+
+7C-A0-5E   (hex)		Motorola Mobility LLC, a Lenovo Company
+7CA05E     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+30-FD-34   (hex)		COMMANDO Networks Pvt Ltd.
+30FD34     (base 16)		COMMANDO Networks Pvt Ltd.
+				Millennium Business Park - IT Park
+				Navi Mumbai  MH  400710
+				IN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -225662,12 +225680,6 @@ E80B13     (base 16)		Akib Systems Taiwan, INC
 				Garden Grove  CA  92841
 				US
 
-00-90-1D   (hex)		PEC (NZ) LTD.
-00901D     (base 16)		PEC (NZ) LTD.
-				2 STATION ROAD
-				MARTON    
-				NZ
-
 00-90-7E   (hex)		VETRONIX CORP.
 00907E     (base 16)		VETRONIX CORP.
 				2030 ALAMEDE PADRE SERRA
@@ -236392,3 +236404,9 @@ F8B22C     (base 16)		Roku, Inc
 				Ebisu, Shibuya-ku, Tokyo
 				Tokyo    -
 				JP
+
+00-90-1D   (hex)		Gallagher Group Limited
+00901D     (base 16)		Gallagher Group Limited
+				181 Kahikatea Drive
+				Hamilton    3206
+				NZ
