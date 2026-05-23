@@ -47729,6 +47729,12 @@ B83446     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Chicago  IL  60654
 				US
 
+C4-AA-43   (hex)		Cisco Systems, Inc
+C4AA43     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94585,6 +94591,18 @@ D846CE     (base 16)		Apple, Inc.
 				Industriestrasse 11
 				Bubikon  Zuerich  8608
 				CH
+
+04-30-FA   (hex)		Cisco Systems, Inc
+0430FA     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+F4-5B-B4   (hex)		Cisco Systems, Inc
+F45BB4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141574,6 +141592,24 @@ FC1119     (base 16)		Silicon Laboratories
 				Millennium Business Park - IT Park
 				Navi Mumbai  MH  400710
 				IN
+
+94-0F-3B   (hex)		ASKEY COMPUTER CORP
+940F3B     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
+
+6C-92-F6   (hex)		Arista Networks
+6C92F6     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+F0-C7-1F   (hex)		Arista Networks
+F0C71F     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -236422,3 +236458,9 @@ F8B22C     (base 16)		Roku, Inc
 				No.20,Park Avenue II,Hsinchu Science Park
 				Hsin-Chu  R.O.C.  308
 				TW
+
+84-DD-84   (hex)		Cisco Systems, Inc
+84DD84     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
