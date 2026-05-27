@@ -10217,12 +10217,6 @@ D8BC59     (base 16)		Shenzhen DAPU Microelectronics Co., Ltd
 				 NA    00000
 				HK
 
-00-04-22   (hex)		Studio Technologies, Inc
-000422     (base 16)		Studio Technologies, Inc
-				7440 Frontage Rd
-				Skokie  IL   60077-3212
-				US
-
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -47734,6 +47728,18 @@ C4AA43     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+00-04-22   (hex)		Studio Technologies, Inc.
+000422     (base 16)		Studio Technologies, Inc.
+				7440 Frontage Rd
+				Skokie  IL   60077-3212
+				US
+
+0C-51-41   (hex)		NXP Semiconductors Taiwan Ltd.
+0C5141     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
 
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
@@ -94602,6 +94608,18 @@ F4-5B-B4   (hex)		Cisco Systems, Inc
 F45BB4     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+24-1F-49   (hex)		NXP Semiconductors Taiwan Ltd.
+241F49     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+8C-20-F1   (hex)		OpenAI
+8C20F1     (base 16)		OpenAI
+				1455 3rd Street
+				San Francisco  CA  94158
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -141563,36 +141581,6 @@ A087BE     (base 16)		Apple, Inc.
 				Reno  NV  89507
 				US
 
-AC-23-6E   (hex)		Apismoon Electric Pte. Ltd.
-AC236E     (base 16)		Apismoon Electric Pte. Ltd.
-				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
-				SINGAPORE    533757
-				SG
-
-FC-11-19   (hex)		Silicon Laboratories
-FC1119     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-00-03-CA   (hex)		Temposonics, LLC
-0003CA     (base 16)		Temposonics, LLC
-				3001 Sheldon Drive
-				Cary,  NC  27513
-				US
-
-7C-A0-5E   (hex)		Motorola Mobility LLC, a Lenovo Company
-7CA05E     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
-				US
-
-30-FD-34   (hex)		COMMANDO Networks Pvt Ltd.
-30FD34     (base 16)		COMMANDO Networks Pvt Ltd.
-				Millennium Business Park - IT Park
-				Navi Mumbai  MH  400710
-				IN
-
 94-0F-3B   (hex)		ASKEY COMPUTER CORP
 940F3B     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
@@ -141605,11 +141593,47 @@ FC1119     (base 16)		Silicon Laboratories
 				Santa Clara  CA  95054
 				US
 
+7C-A0-5E   (hex)		Motorola Mobility LLC, a Lenovo Company
+7CA05E     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+AC-23-6E   (hex)		Apismoon Electric Pte. Ltd.
+AC236E     (base 16)		Apismoon Electric Pte. Ltd.
+				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
+				SINGAPORE    533757
+				SG
+
+30-FD-34   (hex)		COMMANDO Networks Pvt Ltd.
+30FD34     (base 16)		COMMANDO Networks Pvt Ltd.
+				Millennium Business Park - IT Park
+				Navi Mumbai  MH  400710
+				IN
+
+FC-11-19   (hex)		Silicon Laboratories
+FC1119     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 F0-C7-1F   (hex)		Arista Networks
 F0C71F     (base 16)		Arista Networks
 				5453 Great America Parkway
 				Santa Clara  CA  95054
 				US
+
+00-03-CA   (hex)		Temposonics, LLC
+0003CA     (base 16)		Temposonics, LLC
+				3001 Sheldon Drive
+				Cary,  NC  27513
+				US
+
+E4-D4-36   (hex)		Nokia Solutions and Networks India Private Limited
+E4D436     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -236463,4 +236487,10 @@ F8B22C     (base 16)		Roku, Inc
 84DD84     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+A0-24-90   (hex)		IEEE Registration Authority
+A02490     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
