@@ -47741,6 +47741,18 @@ C4AA43     (base 16)		Cisco Systems, Inc
 				Nanzi Dist.  Kaohsiung  811643
 				TW
 
+FC-18-6B   (hex)		Dot Origin Ltd
+FC186B     (base 16)		Dot Origin Ltd
+				Unit 7 Coopers PlaceCombe Lane, Wormley
+				Godalming    GU8 5SZ
+				GB
+
+70-7E-DA   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+707EDA     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -94621,6 +94633,12 @@ F45BB4     (base 16)		Cisco Systems, Inc
 				1455 3rd Street
 				San Francisco  CA  94158
 				US
+
+D4-55-AD   (hex)		go-e GmbH
+D455AD     (base 16)		go-e GmbH
+				Satellitenstrasse 1
+				Feldkirchen  Kaernten  9560
+				AT
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -236494,3 +236512,15 @@ A02490     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+D0-B0-DF   (hex)		Mimosa Networks
+D0B0DF     (base 16)		Mimosa Networks
+				3150 Coronado Dr
+				Santa Clara  CA  95054
+				US
+
+88-03-48   (hex)		SERCOMM PHILIPPINES INC
+880348     (base 16)		SERCOMM PHILIPPINES INC
+				Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City
+				Calamba    Lot 1
+				PH
