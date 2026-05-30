@@ -47753,6 +47753,12 @@ FC186B     (base 16)		Dot Origin Ltd
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
 
+3C-D3-5C   (hex)		Luna Innovations
+3CD35C     (base 16)		Luna Innovations
+				14351 Pipeline Ave
+				Chino  CA  91710
+				US
+
 00-01-30   (hex)		Extreme Networks Headquarters
 000130     (base 16)		Extreme Networks Headquarters
 				2121 RDU Center Drive 
@@ -189392,6 +189398,12 @@ C0CAA2     (base 16)		ESSYS
 				Incheon    21999
 				KR
 
+44-8A-7F   (hex)		Murata Manufacturing Co., Ltd.
+448A7F     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -236519,24 +236531,6 @@ F8B22C     (base 16)		Roku, Inc
 				Tokyo    -
 				JP
 
-04-B3-C9   (hex)		WNC Corporation
-04B3C9     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
-84-DD-84   (hex)		Cisco Systems, Inc
-84DD84     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-A0-24-90   (hex)		IEEE Registration Authority
-A02490     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 D0-B0-DF   (hex)		Mimosa Networks
 D0B0DF     (base 16)		Mimosa Networks
 				3150 Coronado Dr
@@ -236554,3 +236548,21 @@ D0B0DF     (base 16)		Mimosa Networks
 				75 Lorimer Street, Unit 10
 				Southbank  Vic  3006
 				AU
+
+04-B3-C9   (hex)		WNC Corporation
+04B3C9     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+84-DD-84   (hex)		Cisco Systems, Inc
+84DD84     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+A0-24-90   (hex)		IEEE Registration Authority
+A02490     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
