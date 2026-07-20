@@ -238208,18 +238208,6 @@ CC68C7     (base 16)		Espressif Inc.
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
 
-54-EF-33   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-54EF33     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
-30-7B-C9   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-307BC9     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
 B4-6D-C2   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 B46DC2     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
@@ -238252,6 +238240,18 @@ FC23CD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 
 EC-3D-FD   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
+54-EF-33   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+54EF33     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
+30-7B-C9   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+307BC9     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
