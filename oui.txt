@@ -48026,6 +48026,18 @@ C00ACA     (base 16)		SafeSquare GmbH
 				Radevormwald    42477
 				DE
 
+BC-24-92   (hex)		New H3C Technologies Co., Ltd
+BC2492     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+6C-A3-D3   (hex)		Peplink International Ltd.
+6CA3D3     (base 16)		Peplink International Ltd.
+				A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road
+				Cheung Sha Wan  Kowloon  0
+				HK
+
 F8-F6-B7   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 F8F6B7     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
@@ -48044,8 +48056,20 @@ F8F6B7     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				New Taipei City    241
 				TW
 
-10-A4-BE   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-10A4BE     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+D8-ED-A8   (hex)		Xiaomi Communications Co Ltd
+D8EDA8     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+1C-25-75   (hex)		Xiaomi Communications Co Ltd
+1C2575     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+6C-D5-52   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+6CD552     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
@@ -48062,35 +48086,17 @@ CC641A     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Shenzhen City  Guangdong Province  518000
 				CN
 
-6C-D5-52   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-6CD552     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+10-A4-BE   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+10A4BE     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
 
-BC-24-92   (hex)		New H3C Technologies Co., Ltd
-BC2492     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
-
-6C-A3-D3   (hex)		Peplink International Ltd.
-6CA3D3     (base 16)		Peplink International Ltd.
-				A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road
-				Cheung Sha Wan  Kowloon  0
-				HK
-
-D8-ED-A8   (hex)		Xiaomi Communications Co Ltd
-D8EDA8     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
-
-1C-25-75   (hex)		Xiaomi Communications Co Ltd
-1C2575     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
+9C-DC-99   (hex)		Extreme Networks, Inc.
+9CDC99     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -95326,6 +95332,12 @@ C49E7E     (base 16)		Espressif Inc.
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
+
+90-F5-10   (hex)		Technologie Optic.ca Inc.
+90F510     (base 16)		Technologie Optic.ca Inc.
+				1-2871 Star
+				Saint-Hubert  Quebec  J3Y3W5
+				CA
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -190721,23 +190733,29 @@ CC1966     (base 16)		EM Microelectronic
 				Eindhoven    5652AC
 				NL
 
-C8-DA-29   (hex)		Espressif Systems (Singapore) Pte. Ltd
-C8DA29     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
-C4-CB-33   (hex)		Garmin International
-C4CB33     (base 16)		Garmin International
-				1200 E. 151st St
-				Olathe  KS  66062
-				US
-
-44-01-BB   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-4401BB     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+20-F4-1B   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+20F41B     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
+
+14-E1-C9   (hex)		Silicon Laboratories
+14E1C9     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+E4-43-CF   (hex)		TP-Link Systems Inc.
+E443CF     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+F4-B4-9E   (hex)		eero inc.
+F4B49E     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
 
 2C-C3-E6   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 2CC3E6     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
@@ -190757,22 +190775,22 @@ C8FE0F     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Shenzhen City  Guangdong Province  518000
 				CN
 
-20-F4-1B   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-20F41B     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+44-01-BB   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+4401BB     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
 
-14-E1-C9   (hex)		Silicon Laboratories
-14E1C9     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
+C8-DA-29   (hex)		Espressif Systems (Singapore) Pte. Ltd
+C8DA29     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
 
-E4-43-CF   (hex)		TP-Link Systems Inc.
-E443CF     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
+C4-CB-33   (hex)		Garmin International
+C4CB33     (base 16)		Garmin International
+				1200 E. 151st St
+				Olathe  KS  66062
 				US
 
 54-05-83   (hex)		ITEL MOBILE LIMITED
@@ -190781,10 +190799,16 @@ E443CF     (base 16)		TP-Link Systems Inc.
 				Hong Kong  KOWLOON  999077
 				HK
 
-F4-B4-9E   (hex)		eero inc.
-F4B49E     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
+14-76-49   (hex)		Hewlett Packard Enterprise
+147649     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+7C-E4-A1   (hex)		IEEE Registration Authority
+7CE4A1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -238333,3 +238357,9 @@ EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+44-2D-49   (hex)		Extreme Networks, Inc.
+442D49     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
