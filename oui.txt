@@ -48206,6 +48206,18 @@ B8005B     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+98-C5-B3   (hex)		New H3C Technologies Co., Ltd
+98C5B3     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+44-EA-54   (hex)		UDISENSE DBA NANIT
+44EA54     (base 16)		UDISENSE DBA NANIT
+				244 5th Ave #2702
+				NEW YORK  NY  10001
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95513,12 +95525,6 @@ CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				San Francisco    94158
 				US
 
-80-AE-AD   (hex)		Beijing Langren Technology co., Ltd.
-80AEAD     (base 16)		Beijing Langren Technology co., Ltd.
-				Building 15, Floor 1 to 2, Fangguyuan Community, Fengtai District, Beijing, China
-				Beijing    100078
-				CN
-
 F4-66-39   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F46639     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 				Midea Global Innovation Center,Beijiao Town,Shunde
@@ -95554,6 +95560,12 @@ C06194     (base 16)		Huawei Device Co., Ltd.
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+B0-FF-0D   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+B0FF0D     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143082,6 +143094,30 @@ CC-91-5B   (hex)		Huawei Device Co., Ltd.
 CC915B     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+E8-15-FE   (hex)		New H3C Technologies Co., Ltd
+E815FE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+A8-D6-D9   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+A8D6D9     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+7C-4D-4A   (hex)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
+7C4D4A     (base 16)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
+				Room 101 and 102, Building 25, No. 1388 Zhangdong Road, China (Shanghai) Pilot Free Trade Zone
+				shanghai  shanghai  201210
+				CN
+
+E4-63-FE   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+E463FE     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -238944,4 +238980,16 @@ AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 4C3CE2     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+00-9C-57   (hex)		Hextronics
+009C57     (base 16)		Hextronics
+				12194 SW 128th St
+				Miami  FL  33186
+				US
+
+F8-31-25   (hex)		Xiamen uink Technology Co., Ltd
+F83125     (base 16)		Xiamen uink Technology Co., Ltd
+				Unit 401-10, Floor 4, Building C12, Software Park Phase III, Xiamen 361024, Fujian, China
+				Xiamen  Fujian  Porvince  361024
 				CN
