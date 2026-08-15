@@ -48230,6 +48230,18 @@ AC40B5     (base 16)		Lumiva Inc.
 				Cupertino  CA  95014
 				US
 
+28-69-DA   (hex)		Moultrie Mobile
+2869DA     (base 16)		Moultrie Mobile
+				5724 Highway 280 East
+				Birmingham  AL  35242
+				US
+
+44-14-04   (hex)		eero inc.
+441404     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 24-A9-37   (hex)		Everpure, Inc.
 24A937     (base 16)		Everpure, Inc.
 				2555 Augustine Drive
@@ -48242,11 +48254,17 @@ D87602     (base 16)		NXJ INC.
 				Dover  DE  19904
 				US
 
-34-03-3D   (hex)		HP Inc.
-34033D     (base 16)		HP Inc.
-				10300 Energy Dr
-				Spring  TX  77389
-				US
+54-47-81   (hex)		Quectel Wireless Solutions Co.,Ltd.
+544781     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+04-D6-34   (hex)		Nanjing RISC-V Institute Co., Ltd.
+04D634     (base 16)		Nanjing RISC-V Institute Co., Ltd.
+				Room 303, Building C, 18 Ningshuang Road
+				Nanjing  Jiangsu  210000
+				CN
 
 30-BB-28   (hex)		IEEE Registration Authority
 30BB28     (base 16)		IEEE Registration Authority
@@ -48254,17 +48272,35 @@ D87602     (base 16)		NXJ INC.
 				Piscataway  NJ  08554
 				US
 
-28-69-DA   (hex)		Moultrie Mobile
-2869DA     (base 16)		Moultrie Mobile
-				5724 Highway 280 East
-				Birmingham  AL  35242
+34-03-3D   (hex)		HP Inc.
+34033D     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
 				US
 
-44-14-04   (hex)		eero inc.
-441404     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
+C4-4B-31   (hex)		Cisco Systems, Inc
+C44B31     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
 				US
+
+50-44-72   (hex)		Motorola Mobility LLC, a Lenovo Company
+504472     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+C4-58-78   (hex)		AltoBeam Inc.
+C45878     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+EC-83-06   (hex)		GooWi Wireless Technology Co., Limited
+EC8306     (base 16)		GooWi Wireless Technology Co., Limited
+				RM1601 East CreativeTech Plaza II, Tianan Digital Tech, Futian District 
+				Shenzhen  Guangdong  518000
+				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -95632,6 +95668,18 @@ CCAA00     (base 16)		Microsoft Corporation
 				78th km Old National Road Athens-Corinth 
 				Corinth     20100
 				GR
+
+00-72-30   (hex)		Nordic Semiconductor ASA
+007230     (base 16)		Nordic Semiconductor ASA
+				Otto Nielsens veg 12
+				Trondheim    NO-7052
+				NO
+
+90-1D-FF   (hex)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
+901DFF     (base 16)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
+				Runye Precision Manufacturing Industrial Park, among the north of Xiangjing Road, the west of Xinpi Road and the south of Yangzi Road, located in the High-tech Zone, Heyuan City, Guangdong Province
+				 Heyuan City  Guangdong Province  518100
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143216,6 +143264,12 @@ D0EB1A     (base 16)		Siemens AG
 				Erlangen    91056
 				DE
 
+20-74-DD   (hex)		eero inc.
+2074DD     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 F0-F9-5D   (hex)		Aditya Infotech Ltd.
 F0F95D     (base 16)		Aditya Infotech Ltd.
 				Khemka Square, A-12, Sector-4,
@@ -143228,11 +143282,53 @@ EC33CC     (base 16)		Hewlett Packard Enterprise
 				San Jose  CA  95002
 				US
 
-20-74-DD   (hex)		eero inc.
-2074DD     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
+44-22-BE   (hex)		rescuetrack GmbH
+4422BE     (base 16)		rescuetrack GmbH
+				Gerhard-Kindler-Str. 17
+				Reutlingen  Baden-Wuerttemberg  72770
+				DE
+
+50-BA-84   (hex)		Cisco Systems, Inc
+50BA84     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
 				US
+
+FC-21-20   (hex)		Cisco Systems, Inc
+FC2120     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+A4-2D-F1   (hex)		Motorola Mobility LLC, a Lenovo Company
+A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+74-11-A0   (hex)		Nokia
+7411A0     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+40-E4-C6   (hex)		Nokia
+40E4C6     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+18-F0-55   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+18F055     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+38-F2-5D   (hex)		Hangzhou Ezviz Software Co.,Ltd.
+38F25D     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
+				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -179438,12 +179534,6 @@ A06A00     (base 16)		Verilink Corporation
 				D-81614 MUNCHEN    
 				DE
 
-00-90-5B   (hex)		RAYMOND AND LAE ENGINEERING
-00905B     (base 16)		RAYMOND AND LAE ENGINEERING
-				208 COMMERCE DR.,  UNIT #3C
-				FORT COLLINS  CO  80524
-				US
-
 00-90-BC   (hex)		TELEMANN CO., LTD.
 0090BC     (base 16)		TELEMANN CO., LTD.
 				6F DONGSIN BLDG.
@@ -191471,11 +191561,17 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				Shenzhen  guangdong  518000
 				CN
 
-94-B5-AD   (hex)		ERM Electronic Systems LTD
-94B5AD     (base 16)		ERM Electronic Systems LTD
-				16 Hasar Moshe Shapira
-				Rishon Le-Zion    7570419
-				IL
+44-8C-EC   (hex)		Anhui Sunchip semiconductor technology Co;Ltd
+448CEC     (base 16)		Anhui Sunchip semiconductor technology Co;Ltd
+				No. 77 Jinguang Avenue, Economic and Technological Development Zone,
+				Chizhou City  Anhui Province  247100
+				CN
+
+34-7F-63   (hex)		Concept Pro Surveillance
+347F63     (base 16)		Concept Pro Surveillance
+				54 Thomas Street, Lees, 
+				Oldham  Greater Manchester  OL4 5BT
+				GB
 
 88-64-A8   (hex)		TeraNXT Global India Pvt Ltd.
 8864A8     (base 16)		TeraNXT Global India Pvt Ltd.
@@ -191483,11 +191579,17 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				DELHI  DELHI  110005
 				IN
 
-34-7F-63   (hex)		Concept Pro Surveillance
-347F63     (base 16)		Concept Pro Surveillance
-				54 Thomas Street, Lees, 
-				Oldham  Greater Manchester  OL4 5BT
-				GB
+94-B5-AD   (hex)		ERM Electronic Systems LTD
+94B5AD     (base 16)		ERM Electronic Systems LTD
+				16 Hasar Moshe Shapira
+				Rishon Le-Zion    7570419
+				IL
+
+00-90-5B   (hex)		Parameter LLC
+00905B     (base 16)		Parameter LLC
+				208 COMMERCE DR.,  UNIT #3C
+				FORT COLLINS  CO  80524
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -239210,8 +239312,38 @@ AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
 				Yangzhou  Jiangsu  225009
 				CN
 
+74-51-8F   (hex)		Jiangsu Hetai Intelligent Control Technology Co., Ltd
+74518F     (base 16)		Jiangsu Hetai Intelligent Control Technology Co., Ltd
+				BUILDING 11, CHENG SHENG SCIENCE AND TECHNOLOGYPARK, NO.2 BOSIDENG AVENUE, GAOYOU CITY
+				Gaoyou  Jiangsu  225600
+				CN
+
+2C-1B-8E   (hex)		BYD Semiconductor Co，Ltd
+2C1B8E     (base 16)		BYD Semiconductor Co，Ltd
+				Byd Industrial Park, Yan 'an Road, Kuichong Town, Longgang District, Shenzhen City
+				深圳    518000
+				CN
+
+F4-89-74   (hex)		Cisco Systems, Inc
+F48974     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+F4-4E-35   (hex)		Meta Platforms, Inc.
+F44E35     (base 16)		Meta Platforms, Inc.
+				1601 Willow Rd
+				Menlo Park  CA  94052
+				US
+
 6C-70-28   (hex)		EYKON Solutions S.A.
 6C7028     (base 16)		EYKON Solutions S.A.
 				78th km Old National Road Athens-Corinth
 				Corinth    20100
 				GR
+
+FC-E3-3D   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
