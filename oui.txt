@@ -48410,6 +48410,48 @@ A4EF0C     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
+48-A1-7A   (hex)		EM Microelectronic
+48A17A     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+94-47-EE   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+9447EE     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+C0-E8-EA   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+C0E8EA     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+1C-35-76   (hex)		Samsung Electronics Co.,Ltd
+1C3576     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+00-8E-16   (hex)		Milwaukee Tool
+008E16     (base 16)		Milwaukee Tool
+				433 W Van Buren St, Suite 310S
+				chicago  IL  60607
+				US
+
+C4-61-9A   (hex)		Texas Instruments
+C4619A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+74-1B-13   (hex)		New H3C Technologies Co., Ltd
+741B13     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95919,6 +95961,24 @@ ECBA34     (base 16)		IEEE Registration Authority
 745C2E     (base 16)		Honor Device Co., Ltd.
 				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
 				Shenzhen   Guangdong  518040
+				CN
+
+30-40-FA   (hex)		EM Microelectronic
+3040FA     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+04-89-6D   (hex)		New H3C Technologies Co., Ltd
+04896D     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+7C-17-95   (hex)		New H3C Technologies Co., Ltd
+7C1795     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -143779,6 +143839,48 @@ E09E2D     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+E8-B7-F0   (hex)		NocTel
+E8B7F0     (base 16)		NocTel
+				PO Box 35
+				Washougal  WA  98671
+				US
+
+10-DB-A2   (hex)		Texas Instruments
+10DBA2     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+14-BB-CC   (hex)		Texas Instruments
+14BBCC     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+60-46-D4   (hex)		Texas Instruments
+6046D4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+C0-B5-DD   (hex)		Silicon Laboratories
+C0B5DD     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+E8-D8-1C   (hex)		Quectel Wireless Solutions Co.,Ltd.
+E8D81C     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+B0-52-1F   (hex)		Dyson Limited
+B0521F     (base 16)		Dyson Limited
+				Tetbury Hill
+				Malmesbury  Wiltshire  SN16 0RP
+				GB
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -192161,6 +192263,48 @@ FCC766     (base 16)		Huawei Device Co., Ltd.
 				Singapore    138577
 				SG
 
+68-E5-D9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+68E5D9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+44-17-7A   (hex)		IZT Cloud, Inc.
+44177A     (base 16)		IZT Cloud, Inc.
+				1111B S Governors AveSTE 7460
+				Dover    19904
+				US
+
+B8-22-27   (hex)		Texas Instruments
+B82227     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+C4-4E-5D   (hex)		Texas Instruments
+C44E5D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+BC-19-2F   (hex)		Texas Instruments
+BC192F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+64-9E-F1   (hex)		Texas Instruments
+649EF1     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+24-1F-3A   (hex)		Silicon Laboratories
+241F3A     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240038,12 +240182,6 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				Dongguan  Guangdong  523808
 				CN
 
-64-FB-CE   (hex)		Amplitech Group, Inc.
-64FBCE     (base 16)		Amplitech Group, Inc.
-				155 Plant Avenue
-				Hauppauge  NY  11788
-				US
-
 38-C1-ED   (hex)		Xiaomi Communications Co Ltd
 38C1ED     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
@@ -240055,3 +240193,27 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				15485 Sand Canyon Ave
 				IRVINE  CA  92618
 				US
+
+94-76-C3   (hex)		FRITZ! Technology GmbH
+9476C3     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+64-FB-CE   (hex)		Amplitech Group, Inc.
+64FBCE     (base 16)		Amplitech Group, Inc.
+				155 Plant Avenue
+				Hauppauge  NY  11788
+				US
+
+14-A6-B9   (hex)		Samsung Electronics Co.,Ltd
+14A6B9     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+38-90-FE   (hex)		New H3C Technologies Co., Ltd
+3890FE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
