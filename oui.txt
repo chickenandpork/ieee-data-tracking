@@ -145334,6 +145334,30 @@ B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
 				Santa Clara    95050
 				US
 
+74-8B-7F   (hex)		Skullcandy
+748B7F     (base 16)		Skullcandy
+				1441 Ute blvd.
+				Park City    84098
+				US
+
+58-9D-44   (hex)		Raycon
+589D44     (base 16)		Raycon
+				1115 Broadway, Suite 12
+				New York  NY  10010
+				US
+
+34-79-DF   (hex)		Dell Inc.
+3479DF     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
+10-D6-05   (hex)		FN-LINK TECHNOLOGY Ltd.
+10D605     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
 78-E0-4D   (hex)		Sony Interactive Entertainment Inc.
 78E04D     (base 16)		Sony Interactive Entertainment Inc.
 				1-7-1 Konan
@@ -145362,18 +145386,6 @@ B8CD2B     (base 16)		eero inc.
 0090A5     (base 16)		SPECTRA LOGIC
 				6285 Lookout RD 
 				Boulder  CO  80301
-				US
-
-74-8B-7F   (hex)		Skullcandy
-748B7F     (base 16)		Skullcandy
-				1441 Ute blvd.
-				Park City    84098
-				US
-
-58-9D-44   (hex)		Raycon
-589D44     (base 16)		Raycon
-				1115 Broadway, Suite 12
-				New York  NY  10010
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -194291,6 +194303,12 @@ A8AB18     (base 16)		Tuya Smart Inc.
 				Dover  DE  19904
 				US
 
+04-6E-E5   (hex)		HI-POWER Solution CO.,LTD.
+046EE5     (base 16)		HI-POWER Solution CO.,LTD.
+				Rm. 5F-1A, No. 6, Ln. 256, Sec. 2, Xitun Rd., Xitun Dist., 
+				Taichung City    407428
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242659,3 +242677,9 @@ F0276E     (base 16)		AltoBeam Inc.
 				160 Greentree Drive, Suite 101
 				Dover  DE  19904
 				US
+
+B4-41-6B   (hex)		GX India Pvt Ltd
+B4416B     (base 16)		GX India Pvt Ltd
+				595, SECTOR-8, IMT MANESAR
+				GURGAON  Haryana  122051
+				IN
